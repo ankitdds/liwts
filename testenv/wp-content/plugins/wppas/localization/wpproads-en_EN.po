@@ -1,0 +1,2616 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp Pro Advertising System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-27 15:34+0100\n"
+"PO-Revision-Date: 2016-01-27 15:34+0100\n"
+"Last-Translator: Niels <nielsmus@hotmail.com>\n"
+"Language-Team: Tunafish\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../wppas/classes/Pro_Ads_Adzones.php:796
+#: ../wppas/classes/Pro_Ads_Adzones.php:1029
+#: ../wppas/classes/Pro_Ads_Adzones.php:1075
+msgid "Woops! we cannot find the adzone your looking for!"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Adzones.php:1121
+msgid "Full Width (100%)"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Api.php:242
+msgid "WP Pro Ad System Error: function \"pro_ad_display_adzone\" does not exists."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:50
+msgid "Canvas not suported"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:54
+msgid "Clear"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:55
+msgid "Preview Banner"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:56
+msgid "Save Banner"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:57
+msgid "Export Banner (.PNG)"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:78
+msgid "Banner Size"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:83
+msgid "-- Select your banner size --"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:112
+msgid "Custom"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:118
+msgid "Width:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:119
+msgid "Height:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:121
+msgid "Update"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:130
+msgid "+ Edit Elements"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:133
+msgid "Edit the current selected element."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:136
+msgid "Remove selected item"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:137
+msgid "Move Up"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:138
+msgid "Move Down"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:141
+msgid "Update Element"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:150
+msgid "+ Add Image"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:156
+msgid "Select Image"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:161
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:182
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:198
+msgid "Opacity"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:162
+msgid "Add Image"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:171
+msgid "+ Add Object"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:176
+msgid "Circle"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:177
+msgid "Rectangle"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:178
+msgid "Triangle"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:183
+msgid "Add Object"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:192
+msgid "+ Add Text"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:195
+msgid "Text"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:196
+msgid "Font Color"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:197
+msgid "Border Color"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:203
+msgid "Arial"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:204
+msgid "Impact"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:207
+#, php-format
+msgid "You can add any %s."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:237
+msgid "Font Size"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:238
+msgid "Border Width"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:239
+msgid "Add Text"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:389
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:419
+msgid "No element selected."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:696
+msgid "Remove"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:697
+msgid "Drag to change layer index."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:698
+msgid "ID:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banner_Creator.php:854
+msgid "You need to save the banner before you can use the Visual Banner Creator."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banners.php:48
+msgid "Active"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banners.php:55
+msgid "Inactive"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banners.php:62
+msgid "Awaiting Review"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banners.php:69
+#: ../wppas/classes/Pro_Ads_Campaigns.php:66
+msgid "Draft"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banners.php:279
+#: ../wppas/classes/Pro_Ads_Banners.php:285
+msgid "No banner Selected."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Banners.php:424
+msgid "Advertise Here"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Campaigns.php:45
+msgid "Running"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Campaigns.php:52
+msgid "Finished"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Campaigns.php:59
+msgid "On Hold"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:43
+#: ../wppas/classes/Pro_Ads_Init.php:742
+msgid "Advertisers"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:45
+#: ../wppas/classes/Pro_Ads_CPTs.php:422
+#: ../wppas/classes/Pro_Ads_CPTs.php:466
+msgid "Advertiser"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:51
+#: ../wppas/classes/Pro_Ads_Init.php:749
+msgid "Campaigns"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:53
+#: ../wppas/classes/Pro_Ads_CPTs.php:467
+msgid "Campaign"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:59
+#: ../wppas/classes/Pro_Ads_Init.php:756
+msgid "Banners"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:61
+msgid "Banner"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:67
+#: ../wppas/classes/Pro_Ads_Init.php:763
+msgid "Adzones"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:69
+#: ../wppas/classes/Pro_Ads_CPTs.php:471
+msgid "Adzone"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:80
+#: ../wppas/classes/Pro_Ads_CPTs.php:81
+#, php-format
+msgid "Add New %s"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:82
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:83
+#, php-format
+msgid "New %s"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:84
+#, php-format
+msgid "View %s"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:85
+#, php-format
+msgid "Search %s"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:86
+#, php-format
+msgid "No %s Found"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:87
+#, php-format
+msgid "No %s Found in Trash"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:137
+#: ../wppas/classes/Pro_Ads_CPTs.php:393
+#: ../wppas/classes/Pro_Ads_CPTs.php:465
+#: ../wppas/classes/Pro_Ads_CPTs.php:681
+msgid "Name"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:141
+msgid "Banner Title"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:145
+msgid "Adzone Title"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:289
+#: ../wppas/classes/Pro_Ads_CPTs.php:302
+msgid "Show All Advertisers"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:312
+msgid "Show All Campaigns"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:394
+msgid "Email"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:395
+msgid "Wordpress ID"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:396
+#: ../wppas/classes/Pro_Ads_CPTs.php:425
+#: ../wppas/classes/Pro_Ads_CPTs.php:469
+#: ../wppas/classes/Pro_Ads_CPTs.php:685
+msgid "Stats"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:413
+#: ../wppas/classes/Pro_Ads_CPTs.php:449
+#: ../wppas/classes/Pro_Ads_CPTs.php:599
+#: ../wppas/classes/Pro_Ads_CPTs.php:721
+#: ../wppas/classes/Pro_Ads_Init.php:404
+#: ../wppas/classes/Pro_Ads_Init.php:770
+msgid "Statistics"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:423
+#: ../wppas/classes/Pro_Ads_CPTs.php:705
+#: ../wppas/classes/Pro_Ads_CPTs.php:706
+msgid "Linked Banners"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:424
+#: ../wppas/classes/Pro_Ads_CPTs.php:468
+msgid "Status"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:437
+msgid "Not linked to an advertiser!"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:464
+msgid "<img src=\""
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:536
+msgid "Edit this item"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:536
+msgid "Edit"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:537
+msgid "Edit this item inline"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:537
+msgid "Quick&nbsp;Edit"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:543
+msgid "Restore this item from the Trash"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:543
+msgid "Restore"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:545
+msgid "Move this item to the Trash"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:545
+msgid "Trash"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:550
+msgid "Delete this item permanently"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:550
+msgid "Delete Permanently"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:558
+#, php-format
+msgid "Preview &#8220;%s&#8221;"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:558
+msgid "Preview"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:560
+#, php-format
+msgid "View &#8220;%s&#8221;"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:560
+msgid "View"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:591
+msgid "Campaign status:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:628
+msgid "Loading..."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:630
+msgid "No adzone selected."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:632
+msgid "Recommended"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:660
+msgid "All"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:682
+msgid "Size"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_CPTs.php:715
+msgid "Get code"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Custom_Widgets.php:9
+#: ../wppas/classes/Pro_Ads_Custom_Widgets.php:10
+msgid "Display your ads."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Custom_Widgets.php:51
+msgid "Select your adzone:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Custom_Widgets.php:54
+msgid "Select an Adzone"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Custom_Widgets.php:78
+msgid "Or add the adzone shortcode:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Custom_Widgets.php:98
+msgid "AD Slot."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Custom_Widgets.php:99
+msgid "Pro Ads - AD Slot."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Custom_Widgets.php:135
+msgid "Select the ad slot device type:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Custom_Widgets.php:150
+msgid "Select a unique ID to link banners:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:337
+msgid "VARIABLE"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:338
+msgid "FIXED"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:384
+#: ../wppas/classes/Pro_Ads_Init.php:385
+#: ../wppas/classes/Pro_Ads_Init.php:395
+#: ../wppas/classes/Pro_Ads_Init.php:396
+#: ../wppas/classes/Pro_Ads_Init.php:734
+msgid "Advertising"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:403
+msgid "AD Dashboard"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:795
+#, php-format
+msgid "If you like <strong>WP PRO Advertising System</strong> please leave us a <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating on <a href=\"%1$s\" target=\"_blank\">Codecanyon.net</a>. A huge thanks in advance!"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:822
+#, php-format
+msgid "<p><strong>%s - Statistics Update.</strong> A Major statistics update/improvement is vailable. Its recommended but your stats will start from zero. Note: stats will never be removed. You can always switch back to the old statistics version even after updating to the new one. (General Settings -> Statistics -> Statistics version)</p>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:822
+msgid "Use New Statistics"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:822
+msgid "Keep using Old Statistics"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:841
+#, php-format
+msgid "<p><strong>%s - Settings update required.</strong> Please update the Statistics settings. Select your option below.</p>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:841
+msgid "Enable Statistics"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Init.php:841
+msgid "Disable Statistics"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Responsive.php:13
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:1076
+msgid "Desktop"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Responsive.php:14
+msgid "Adzone size when viewed from a desktop."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Responsive.php:20
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:1077
+msgid "Tablet"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Responsive.php:21
+msgid "Adzone size when viewed from a tablet in portrait mode."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Responsive.php:27
+msgid "Phone"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Responsive.php:28
+msgid "Adzone size when viewed from a phone in portrait mode."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:54
+#: ../wppas/classes/Pro_Ads_Statistics.php:241
+#: ../wppas/classes/Pro_Ads_Statistics.php:274
+#: ../wppas/classes/Pro_Ads_Statistics.php:341
+#: ../wppas/classes/Pro_Ads_Statistics.php:392
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:54
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:266
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:317
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:416
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:467
+msgid "Clicks"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:54
+#: ../wppas/classes/Pro_Ads_Statistics.php:342
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:54
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:417
+msgid "Impressions"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:85
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:108
+msgid "Total amount of clicks:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:86
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:109
+msgid "Total amount of impressions:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:87
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:110
+msgid "CTR:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:88
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:111
+msgid "All Statistics"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:96
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:119
+#, php-format
+msgid "Total amount of clicks in %s:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:97
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:120
+#, php-format
+msgid "Total amount of impressions in %s:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:98
+#: ../wppas/classes/Pro_Ads_Statistics.php:113
+#: ../wppas/classes/Pro_Ads_Statistics.php:127
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:121
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:136
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:150
+#, php-format
+msgid "CTR (%s):"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:99
+#: ../wppas/classes/Pro_Ads_Statistics.php:114
+#: ../wppas/classes/Pro_Ads_Statistics.php:128
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:122
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:137
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:151
+#, php-format
+msgid "Statistics for %s"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:111
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:134
+#, php-format
+msgid "All clicks on %s:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:112
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:135
+#, php-format
+msgid "All impressions on %s:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:125
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:148
+#, php-format
+msgid "Clicks on %s:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:126
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:149
+#, php-format
+msgid "Impressions on %s:"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:290
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:336
+#, php-format
+msgid "<div class=\"stats_group_info_box\"><h2>%s stats for: %s</h2></div>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:344
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:419
+msgid "Export PDF"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:346
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:421
+msgid "All Time"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:415
+#: ../wppas/classes/Pro_Ads_Statistics.php:420
+#: ../wppas/classes/Pro_Ads_Statistics.php:429
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:492
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:497
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:506
+msgid "in"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:439
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:516
+msgid "on"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics.php:449
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:526
+msgid "between"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:293
+msgid "Device Stats"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:589
+msgid "No stats available."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Statistics_new.php:1078
+msgid "Mobile"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:45
+msgid "Post tag [shortcode]"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:46
+msgid "If you want to show this ad zone into a single post/page you can use this <em>Post Tag</em>. Just copy the shortcode into your post's textfield"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:50
+msgid "<strong>Shortcode attributes:</strong> id = int (the adzone id), popup = boolean (open the adzone as a popup)"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:51
+msgid "Open Shortcode Editor"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:63
+msgid "Template tag"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:64
+msgid "If you want to use this ad zone on a fixed place inside your website, you can use this <em>Template tag</em>. Just copy the function into your website template, there where you want to show the banners."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:74
+msgid "Iframe tag"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:75
+msgid "The Iframe tag allows you to export adzones to other websites. This way you can manage adzones on 1 site but have them displayed on multiple websites at the same time."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:96
+msgid "RSS feed"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:97
+msgid "The RSS feed of this adzone. Ready to use with MailChimp newsletters."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:150
+msgid "Drag the banners to change the order of appearance."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:154
+msgid "Updating"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:164
+msgid "Drag"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:177
+msgid "No linked banners found."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:217
+msgid "Browser"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:221
+#: ../wppas/classes/Pro_Ads_Templates.php:231
+#: ../wppas/classes/Pro_Ads_Templates.php:243
+#: ../wppas/classes/Pro_Ads_Templates.php:253
+#: ../wppas/classes/Pro_Ads_Templates.php:263
+#: ../wppas/classes/Pro_Ads_Templates.php:273
+#: ../wppas/classes/Pro_Ads_Templates.php:283
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:89
+msgid "n/a"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:227
+msgid "Platform"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:239
+msgid "Country"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:249
+msgid "City"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:259
+msgid "IP adress"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:328
+msgid "Shortcode Generator"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:330
+msgid "Select the adzone you want to use. To add the shortcode click <em>Insert Shortdode</em>."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:338
+#: ../wppas/classes/Pro_Ads_Templates.php:439
+#: ../wppas/classes/Pro_Ads_Templates.php:685
+#: ../wppas/classes/Pro_Ads_Templates.php:962
+#: ../wppas/classes/Pro_Ads_Templates.php:1010
+#: ../wppas/classes/Pro_Ads_Templates.php:1142
+#: ../wppas/classes/Pro_Ads_Templates.php:1241
+#: ../wppas/classes/Pro_Ads_Templates.php:1312
+msgid "Click to change"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:345
+#: ../wppas/classes/Pro_Ads_Templates.php:350
+#: ../wppas/classes/Pro_Ads_Templates.php:446
+#: ../wppas/classes/Pro_Ads_Templates.php:455
+msgid "Select an adzone"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:365
+#: ../wppas/classes/Pro_Ads_Templates.php:379
+#: ../wppas/classes/Pro_Ads_Templates.php:479
+msgid "Insert Shortcode"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:429
+msgid "Adzone Shortcode Editor"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:440
+#, php-format
+msgid "Selected Adzone: %s"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:446
+msgid "Selected adzone"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:494
+msgid "Create Shortcode"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:495
+msgid "Close"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:686
+msgid "Default options"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:692
+msgid "Ajax Load"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:693
+msgid "Load banners using ajax."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:697
+#: ../wppas/classes/Pro_Ads_Templates.php:710
+#: ../wppas/classes/Pro_Ads_Templates.php:974
+#: ../wppas/classes/Pro_Ads_Templates.php:1022
+#: ../wppas/classes/Pro_Ads_Templates.php:1035
+#: ../wppas/classes/Pro_Ads_Templates.php:1049
+#: ../wppas/classes/Pro_Ads_Templates.php:1062
+#: ../wppas/classes/Pro_Ads_Templates.php:1084
+#: ../wppas/classes/Pro_Ads_Templates.php:1154
+#: ../wppas/classes/Pro_Ads_Templates.php:1253
+#: ../wppas/classes/Pro_Ads_Templates.php:1287
+#: ../wppas/classes/Pro_Ads_Templates.php:1324
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:75
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:109
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:136
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:145
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:656
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1185
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1301
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1372
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1408
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1421
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1438
+msgid "No"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:698
+#: ../wppas/classes/Pro_Ads_Templates.php:711
+#: ../wppas/classes/Pro_Ads_Templates.php:975
+#: ../wppas/classes/Pro_Ads_Templates.php:1023
+#: ../wppas/classes/Pro_Ads_Templates.php:1036
+#: ../wppas/classes/Pro_Ads_Templates.php:1048
+#: ../wppas/classes/Pro_Ads_Templates.php:1061
+#: ../wppas/classes/Pro_Ads_Templates.php:1085
+#: ../wppas/classes/Pro_Ads_Templates.php:1155
+#: ../wppas/classes/Pro_Ads_Templates.php:1254
+#: ../wppas/classes/Pro_Ads_Templates.php:1286
+#: ../wppas/classes/Pro_Ads_Templates.php:1325
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:75
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:109
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:136
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:145
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:657
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1186
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1302
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1373
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1409
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1422
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1439
+msgid "Yes"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:700
+msgid "recommended if you are using a catching plugin"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:705
+msgid "Hide if logged in"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:706
+msgid "Hide this adzone for logged in members."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:718
+msgid "CSS Class"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:719
+msgid "Add a class to the wrapping Adzone element."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:728
+msgid "Adzone align"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:729
+msgid "Selecting Left or Right will wrap content around your advertisement."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:733
+msgid "Default"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:734
+msgid "Left"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:735
+msgid "Right"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:742
+msgid "Adzone info text."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:747
+msgid "Adzone Text"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:748
+msgid "Show a small text above, below or on top of the adzone."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:752
+msgid "ex.: Advertisement"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:757
+msgid "Adzone Text Image"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:758
+msgid "Show an image above, below or on top of the adzone."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:761
+msgid "Image Url"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:767
+msgid "Adzone Text Link"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:768
+msgid "Add a link to the adzone info text."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:777
+msgid "Adzone Text Color"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:787
+msgid "Adzone Text Font Size"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:788
+msgid "Select the font size for the adzone text."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:806
+msgid "Adzone Text Decoration"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:807
+msgid "Select the text decoration for the info text."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:811
+msgid "None"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:812
+msgid "Underline"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:813
+msgid "Overline"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:814
+msgid "Line Through"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:821
+msgid "Adzone Text Position"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:822
+msgid "Show the info text above, below or on top of the adzone."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:826
+#: ../wppas/classes/Pro_Ads_Templates.php:1337
+msgid "Select Position"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:827
+msgid "Above adzone"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:828
+msgid "Below adzone"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:829
+msgid "On top - right "
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:830
+msgid "On top - left "
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:837
+msgid "Adzone Style."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:842
+msgid "Adzone padding"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:843
+msgid "Select the padding for the adzone."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:847
+msgid "No Padding"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:862
+msgid "Adzone Background Color"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:893
+msgid "Adzone border radius"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:894
+msgid "Select a border radius if you want to add rounded corners to your adzone border."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:898
+msgid "No Border Radius"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:913
+msgid "Adzone border"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:914
+msgid "Select the border size for the adzone."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:918
+msgid "No Border"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:933
+msgid "Adzone Border Color"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:963
+msgid "Advanced Options"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:969
+msgid "Fixed Adzone"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:970
+msgid "Make the adzone fixed when it reaches the top of the page. <strong>Note:</strong> This will only work for 1 adzone per page."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:982
+msgid "Fixe Adzone End"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:983
+msgid "Add the ID or class from the div when the fixed adzone should stop."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:987
+msgid "Make sure to add . or # before the class/ID name"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1011
+msgid "Popup options"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1017
+msgid "Open Adzone as a Popup"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1018
+msgid "Do you want the adzone to open as a popup?"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1030
+msgid "Exit Popup"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1031
+msgid "Opens the popup when users exit the page."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1043
+msgid "Popup Close Button"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1044
+msgid "Do you want to show a close button for the popup?"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1056
+msgid "Popup Cookie"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1057
+msgid "Do you want to limit the popup ad by cookie?"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1069
+msgid "Popup Auto Close Seconds"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1070
+msgid "The amount of time (in seconds) to show the popup."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1073
+msgid "sec."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1074
+msgid "This will only work for popups without a closing button."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1079
+msgid "Hide Content Background"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1080
+msgid "Do you want to hide the background for the popup content?"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1092
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:82
+msgid "Popup Background Color"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1102
+msgid "Popup Opacity"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1143
+msgid "Background ad options"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1149
+msgid "Load Adzone as Background"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1150
+msgid "Do you want the adzone to load as the page background?"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1162
+msgid "Background Container"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1163
+msgid "Select the main website container. Default <strong>body</strong>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1172
+msgid "Background Container Type"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1173
+msgid "Select the type of the website container."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1178
+msgid "ID"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1179
+msgid "Class"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1181
+msgid "leave empty if you are using the default body option."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1186
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:125
+msgid "Background Color"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1196
+#: ../wppas/classes/Pro_Ads_Templates.php:1202
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:143
+msgid "Repeat"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1201
+msgid "No repeat"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1209
+#: ../wppas/classes/Pro_Ads_Templates.php:1215
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:134
+msgid "Stretch"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1214
+msgid "No stretch"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1217
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:137
+msgid "Stretch the background image to the full width of the page."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1242
+msgid "Corner Peel options"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1248
+msgid "Open Adzone as a Corner Peel"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1249
+msgid "Do you want the adzone to open as a corner curl?"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1261
+msgid "Corner size Closed"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1262
+msgid "Set the size (in percentage % 1 - 100) for the corner when its closed."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1266
+#: ../wppas/classes/Pro_Ads_Templates.php:1276
+#, php-format
+msgid "100% equals 300px"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1271
+msgid "Corner size Open"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1272
+msgid "Set the size (in percentage % 1 - 100) for the corner when its open."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1281
+msgid "Corner Animation"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1282
+msgid "Do you want the corner to be waving?"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1313
+msgid "Fly In options"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1319
+msgid "Open Adzone as a Fly In"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1320
+msgid "Do you want the adzone to open as a fly in advertisement?"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1332
+msgid "Fly In Position"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1333
+msgid "Select the position of the fly in ad."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1338
+msgid "Bottom Left"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1339
+msgid "Bottom Center"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1340
+msgid "Bottom Right"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1341
+msgid "Top Left"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1342
+msgid "Top Center"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1343
+msgid "Top Right"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1350
+msgid "Delay"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Templates.php:1351
+msgid "Set the delay (in seconds) before the fly in ad should appear."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:36
+msgid "Pro Advertising"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:37
+msgid "Add advertisements to your website"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:41
+msgid "Content"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:49
+msgid "<h2 style='margin-bottom:0'>Adzone</h2>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:50
+msgid "<hr>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:56
+msgid "Adzone ID"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:60
+msgid "Select the adzone you want to add."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:67
+msgid "<div style='background:#EEE; padding:5px;'><h2 style='margin:0'><small><em>Optional</em> - </small> Popup Ads</h2> Popup ads allow you to open the adzone in a popup window.<hr></div>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:73
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:91
+msgid "Adzone is Popup"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:76
+msgid "Select if you want the adzone to open as a popup.<br><br>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:85
+msgid "Select the Popup background color"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:94
+msgid "Select the Popup background opacity.<br><br>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:101
+msgid "<div style='background:#EEE; padding:5px;'><h2 style='margin:0'><small><em>Optional</em> - </small> Background Ads</h2> Background ads make it possible to load your adzone as the post/page background.<hr></div>"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:107
+msgid "Adzone is Background"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:110
+msgid "Select if you want the adzone to loaded as the page background."
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:116
+msgid "Container"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:119
+msgid "Add the ID of your websites main container. (default <strong>body</strong>)"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Vsc_Class.php:128
+msgid "Select the page background color"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:52
+msgid "Welcome to WP PRO Advertising System"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:91
+msgid "Thank you for updating WP PRO Advertising System to version "
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:93
+msgid "Thank you for purchasing WP PRO Advertising System "
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:95
+#, php-format
+msgid "%s%s"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:101
+msgid "We hope you will enjoy the new features we have added!"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:103
+msgid "We hope you will enjoy the WP PRO Advertising System - mange your ads the easy way!"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:110
+msgid "FAQ"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:112
+msgid "Support"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:114
+msgid "News"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:115
+msgid "Changelog"
+msgstr ""
+
+#: ../wppas/classes/Pro_Ads_Welcome.php:124
+msgid "Go to the AD Dashboard"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:27
+msgid "Adzone Size:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:30
+#, php-format
+msgid "%s Options:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:34
+msgid "Banner type:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:35
+msgid "Link banner to Adzone:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:36
+msgid "Optional Settings:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:37
+msgid "Banner Stats:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:62
+msgid "If the email address matches an existing Wordpress user account this advertiser will be linked to the WP account."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:77
+msgid "Wordpress user"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:78
+msgid "This email is linked to an existing Wordpress user."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:84
+msgid "Username:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:88
+msgid "Name:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:96
+msgid "Registered:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:198
+msgid "Campaign for:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:199
+msgid "Select an advertiser for this campaign."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:203
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:379
+msgid "Select an advertiser"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:217
+msgid "Campaign period:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:218
+msgid "Add a start and end date por this campaign."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:223
+msgid "Start date"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:224
+msgid "End date"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:225
+msgid "Leave empty to keep campaign active."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:238
+msgid "Campaign timing:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:239
+msgid "When should this campaign be running."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:242
+msgid "From"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:243
+msgid "Till"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:244
+msgid "Leave empty to keep campaign running all the time."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:374
+msgid "Banner for:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:375
+msgid "Select an advertiser for this banner."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:388
+msgid "No Advertiser Selected!"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:393
+msgid "Banner campaign:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:394
+msgid "Select a campaign for this banner."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:400
+#: ../wppas/includes/ajax_functions.php:24
+msgid "Select a campaign"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:410
+msgid "No Campaign Selected!"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:415
+msgid "Link"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:419
+msgid "http://www.yourlink.com"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:425
+msgid "Target"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:431
+msgid "_blank, Load in a new window."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:434
+msgid "_self, Load in the same frame as it was clicked."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:437
+msgid "_parent, Load in the parent frameset."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:440
+msgid "_top, Load in the full body of the window."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:448
+msgid "Link Masking"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:449
+msgid "Turn Off link masking and link directly to the original banner url, When turned off its nut possible to save statistics for this banner."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:454
+msgid "Use link masking (recommended)"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:457
+msgid "Turn Off link masking"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:473
+msgid "Awaiting review"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:644
+msgid "Main Banner"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:644
+#, php-format
+msgid "Optional, <small style=\"font-weight:normal;\">This banner will be visible when it is viewed from a %s</small>"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:651
+msgid "Hide banner on this device"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:652
+msgid "Do you want to hide this banner if its viewed from the selected device?"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:664
+msgid "Banner Preview"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:674
+msgid "Option 1"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:675
+msgid "Upload/Select a banner."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:679
+msgid "Banner url"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:680
+msgid "Upload Banner"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:689
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1205
+msgid "Width"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:690
+msgid "Image width in pixels."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:694
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:707
+msgid "px."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:702
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1210
+msgid "Height"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:703
+msgid "Image height in pixels."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:727
+msgid "Option 2"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:728
+msgid "HTML Code (adSense, iframes, text ads, HTML5 ...)"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:729
+msgid "<strong>Note:</strong> if you add HTML5 code make sure to check the HTML5 checkbox underneath."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:735
+msgid "Banner is HTML5?"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:738
+msgid "width"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:738
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:739
+msgid "px"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:739
+msgid "height"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:770
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:785
+msgid "Visual Banner Creator:"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:825
+msgid "Link to Adzone"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:826
+msgid "Link your banner to one or more adzones."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:909
+msgid "You need to save the banner before you can add it to an adzone."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:932
+msgid "No Follow"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:933
+msgid "Do you want to add rel nofollow to your link?"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:938
+msgid "rel=\"nofollow\""
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:945
+msgid "Transition duration"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:946
+msgid "Select the time this banner should be visible if its rotating. <strong>Note:</strong> This option will only work if the adzone has the BX Slider rotation type selected."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:949
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1333
+msgid "Sec."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:950
+msgid "Time in seconds."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:956
+msgid "Flash Fallback image"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:957
+msgid "Upload/Select a fallback image for flash banners on devices that not support Flash."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:961
+msgid "fallback image url"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:962
+msgid "Upload Fallback Image"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:964
+msgid "Image Preview"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:965
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1458
+msgid "No image selected"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:973
+msgid "Contract"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:974
+msgid "Select the contract type and duration for this banner."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:979
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:989
+msgid "Amount of clicks"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:979
+msgid "Pay per click"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:980
+msgid "Amount of views"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:980
+msgid "Pay per view"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:981
+msgid "Amount of days"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:981
+msgid "Duration"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:984
+msgid "Leave empty to keep this banner active."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:999
+msgid "Categories"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1000
+msgid "Select categories if you only want to show this banner for specific categories."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1004
+msgid "All Categories."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1053
+#, php-format
+msgid "<strong>NOTE:</strong> These stats should not be used for publication. They include every single unfiltered action. Stats for publication can be found on the %s."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1053
+msgid "full banner statistics page"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1057
+msgid "Total Clicks"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1061
+msgid "Total Views"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1065
+msgid "CTR"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1071
+msgid "Full banner statistics"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1128
+#, php-format
+msgid "Size - %s"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1142
+msgid "Full Banner"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1145
+msgid "Skyscraper"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1148
+msgid "Leaderboard"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1151
+msgid "Medium Rectangle"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1154
+msgid "Button 1"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1157
+msgid "Wide Skyscraper"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1160
+msgid "Button 2"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1163
+msgid "Square Button"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1172
+msgid "Full Width"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1175
+msgid "Required - Main adzone size"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1175
+msgid "Optional - Responsive adzone sizes"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1180
+msgid "Hide adzone on this device"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1181
+msgid "Do you want to hide this adzone if its viewed from the selected device?"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1193
+msgid "Custom size"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1218
+msgid "Size Options"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1219
+msgid "<strong>FIXED:</strong> Adzone will keep its size no matter if the banners are larger or smaller.<br><br> <strong>VARIABLE:</strong> Adzone adapts itself to the height of the banner but will never exceed the selected adzone height."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1273
+msgid "Description"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1286
+msgid "Max. amount of banners"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1287
+msgid "How many banners are allowed in this adzone?"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1291
+msgid "Leave empty to allow unlimited banners."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1296
+msgid "Rotate Banners"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1314
+msgid "Rotation Type"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1315
+msgid "You have 2 options to rotate banners. Select the one that fits your needs."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1319
+msgid "BX Slider (recommended)"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1320
+msgid "Showoff"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1328
+msgid "Rotation Time"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1339
+msgid "Rotation Effect"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1344
+msgid "Fade"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1345
+msgid "Slide"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1346
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1394
+msgid "Vertical"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1348
+msgid "Vertical slides are only available with BX Slider."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1353
+msgid "Banner Loading Order"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1354
+msgid "Select the order to load banners inside the adzone."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1358
+msgid "Fixed Order"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1359
+msgid "Equal Views"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1360
+msgid "Random Order"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1367
+msgid "AJAX Rotation"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1368
+msgid "Do you want to load the banners in real time using ajax?"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1384
+msgid "AD Grid"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1385
+msgid "Show multiple ads at once. <br><strong>Note:</strong> This option has no rotation effect. Banners will load in random order on each page refresh."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1389
+msgid "Horizontal"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1398
+msgid "Leave empty to show one banner at the time."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1403
+msgid "Center Adzone"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1404
+msgid "Do you want this adzone to be centered?"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1416
+msgid "Hide adzone if empty"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1417
+msgid "Do you want to hide this adzone if its empty?"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1433
+msgid "Remove Buy and Sell Option"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1434
+msgid "Do you want to disable Buy and Sell options for this adzone?"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1449
+msgid "Default adzone image"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1450
+msgid "Upload/Select a default image that will show when the azone is empty."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1454
+msgid "Default Banner url"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1455
+msgid "Upload Image"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1456
+#, php-format
+msgid "<strong>Note:</strong> This image will replace the default \"advertise here\" button if you have the %s or %s add-on activated."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1465
+msgid "Default adzone image link"
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1466
+msgid "Add a link that will be added to the default showing when the azone is empty."
+msgstr ""
+
+#: ../wppas/classes/extends/Pro_Ads_CPT_Meta_Options.php:1469
+msgid "http://"
+msgstr ""
+
+#: ../wppas/includes/ajax_functions.php:48
+msgid "Select a Campaign"
+msgstr ""
+
+#: ../wppas/includes/ajax_functions.php:259
+msgid "Campaign and Banner statuses are updated."
+msgstr ""
+
+#: ../wppas/includes/tables/stats.php:16
+#: ../wppas/includes/tables/stats.php:17
+#: ../wppas/includes/tables/stats_all.php:14
+#: ../wppas/includes/tables/stats_all.php:15
+msgid "stats"
+msgstr ""
+
+#: ../wppas/includes/tables/stats.php:81
+#: ../wppas/includes/tables/stats_all.php:80
+#: ../wppas/includes/tables/stats_day.php:93
+msgid "Export"
+msgstr ""
+
+#: ../wppas/includes/tables/stats.php:82
+#: ../wppas/includes/tables/stats_all.php:81
+#: ../wppas/includes/tables/stats_day.php:94
+msgid "Delete"
+msgstr ""
+
+#: ../wppas/includes/tables/stats.php:127
+msgid "Date"
+msgstr ""
+
+#: ../wppas/includes/tables/stats.php:128
+#: ../wppas/includes/tables/stats_all.php:127
+msgid "Count"
+msgstr ""
+
+#: ../wppas/includes/tables/stats_all.php:126
+msgid "Year"
+msgstr ""
+
+#: ../wppas/includes/tables/stats_day.php:16
+#: ../wppas/includes/tables/stats_day.php:17
+msgid "stats_day"
+msgstr ""
+
+#: ../wppas/includes/tables/stats_day.php:59
+msgid "Detailed User Info"
+msgstr ""
+
+#: ../wppas/includes/tables/stats_day.php:60
+#: ../wppas/includes/tables/stats_day.php:143
+msgid "User Info"
+msgstr ""
+
+#: ../wppas/includes/tables/stats_day.php:139
+msgid "Time"
+msgstr ""
+
+#: ../wppas/includes/tables_new/stats_day.php:144
+msgid "Hits"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:33
+msgid "General Settings are updated successfully."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:33
+msgid "Please UPDATE your <a href=\""
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:87
+msgid "Plugin registered successfully."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:87
+msgid "Please add a valid/unique license key."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:122
+msgid "Version"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:129
+#: ../wppas/templates/pro_ad_dashboard.php:130
+#: ../wppas/templates/pro_ad_dashboard.php:131
+#: ../wppas/templates/pro_ad_dashboard.php:132
+msgid "Add New"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:153
+msgid "Please Register your copy of the WP PRO Advertising System to receive automatic plugin updates."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:156
+#: ../wppas/templates/pro_ad_dashboard.php:844
+#: ../wppas/templates/pro_ad_dashboard.php:853
+msgid "License Key"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:157
+#: ../wppas/templates/pro_ad_dashboard.php:849
+#: ../wppas/templates/pro_ad_dashboard.php:869
+msgid "Register Plugin"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:182
+msgid "Today's statistics"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:189
+#: ../wppas/templates/pro_ad_dashboard.php:265
+msgid "Buy and Sell Ads"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:190
+#: ../wppas/templates/pro_ad_dashboard.php:325
+msgid "Manage Post Ads"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:191
+#: ../wppas/templates/pro_ad_dashboard.php:480
+msgid "Manual Updates"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:192
+#: ../wppas/templates/pro_ad_dashboard.php:512
+#: ../wppas/templates/pro_ad_options.php:25
+#: ../wppas/templates/pro_ad_options.php:37
+msgid "General Settings"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:193
+#: ../wppas/templates/pro_ad_dashboard.php:837
+msgid "Plugin Registration"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:210
+msgid "Today's Statistics"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:236
+msgid "Check all statistics"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:257
+msgid "Buy and Sell Ads, Settings"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:261
+msgid "Buy and Sell Ads, Woocommerce Settings"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:296
+msgid "Make sure your adzones do not remain empty! Let users buy advertisments directly on your website! The Buy and Sell Add-on turns your empty adzones into links where users can instantly upload their banner, pay and activate their advertisement on your website."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:300
+msgid "Download Buy and Sell Ads - ADD-ON"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:336
+msgid "Enable Post Ads"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:337
+msgid "This allows you to add banners to all posts automatically. Select the post types where you want to use this function."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:340
+msgid "No post types selected."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:362
+msgid "Top AD"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:363
+msgid "This will show an adzone above the post."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:367
+#: ../wppas/templates/pro_ad_dashboard.php:388
+#: ../wppas/templates/pro_ad_dashboard.php:440
+msgid "Leave Empty"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:383
+msgid "Center AD"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:384
+msgid "This will show an adzone after the 2nd paragraph of the post."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:404
+msgid "Center AD Paragraph"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:405
+msgid "Select after how many paragraphs the center ad should show."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:421
+msgid "Center AD Align"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:422
+msgid "Select how you want to align the ad in your post."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:430
+msgid "Selecting Left or Right will wrap the post text around your advertisement."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:435
+msgid "Bottom AD"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:436
+msgid "This will show an adzone under the post."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:467
+msgid "Save Post Ad Settings"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:491
+msgid "Campaign, Banner and Statistic statuses get updated once a day automatically. If you want to, you can manually Finish or Start campaigns, remove outdated statistics by clicking the update button."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:493
+msgid "Update Campaigns/Banners/Statistics"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:519
+msgid "Settings"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:524
+msgid "Enable Admin Bar"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:525
+msgid "Do you want to add the custom admin bar?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:541
+msgid "Uninstall Option"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:542
+msgid "Remove all data while uninstalling the plugin?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:564
+msgid "Permalinks"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:569
+msgid "Enable Clean permalinks"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:570
+msgid "Do you want to enable clean permalinks for your ads?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:586
+msgid "Link prefix"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:587
+msgid "Add your permalink prefix. <strong>NOTE:</strong> You will need to update your Permalinks after updating."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:592
+msgid "ex.:"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:611
+msgid "Enable Satistics"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:612
+msgid "Do you want statistics to be saved?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:628
+msgid "Disable Impressions"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:629
+msgid "Do you want to disable impressions from being saved?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:645
+msgid "Disable Clicks"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:646
+msgid "Do you want to disable clicks from being saved?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:662
+msgid "Statistics version"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:663
+msgid "What version do you want to use?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:668
+msgid "Deafault Statistics"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:671
+msgid "New Statistics (recommended)"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:679
+msgid "Statistics data"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:680
+msgid "How detailed do you want to track statistics? NOTE: Hourly statistics will make your database grow fast"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:685
+msgid "Hourly Statistics"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:688
+msgid "Daily Statistics (recommended)"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:691
+msgid "Only available for the NEW statistics version."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:696
+msgid "Enable User data stats"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:697
+msgid "Do you want specific user data for statistics to be saved?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:708
+#, php-format
+msgid "<strong>Note:</strong> User geo data will only be available with the %s plugin activated."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:713
+msgid "Save Impressions"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:714
+msgid "Do you want unique or all impressions to be saved for statistics?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:719
+msgid "Unique Impressions"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:722
+msgid "All Impressions"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:730
+msgid "Save Clicks"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:731
+msgid "Do you want unique or all clicks to be saved for statistics?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:736
+msgid "Unique Clicks"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:739
+msgid "All Clicks"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:747
+msgid "Days to save stats"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:748
+msgid "Choose the number of days you want to save statistics to the database. Keep this at 30 days or less to keep the database small."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:752
+msgid "Leave empty to save all stats (not recommended)"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:757
+msgid "Block IP Addresses"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:758
+msgid "Add IP addresses where you don't want to save statistics for."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:758
+#, php-format
+msgid "Your current IP: %s "
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:762
+msgid "Comma separated"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:776
+msgid "Google Analytics"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:777
+msgid "When you are running Google Analytics for your website and you add your tracking / web property ID (UA-XXXX-Y), all statistics will be redirected to your Google Analytics page."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:782
+msgid "The tracking / web property ID. The format is UA-XXXX-Y"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:783
+msgid "You will find this ID on your Google Analytics page."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:800
+msgid "Style"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:805
+#: ../wppas/templates/pro_ad_options.php:49
+msgid "Custom CSS"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:806
+#: ../wppas/templates/pro_ad_options.php:50
+msgid "If you need to customize some style for the Ads plugin you can add the custom CSS here."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:828
+#: ../wppas/templates/pro_ad_options.php:68
+msgid "Save General Settings"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:850
+msgid "Register your copy of the WP PRO Advertising System to receive automatic plugin updates."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:854
+msgid "Where do I get the registration code?"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:911
+#, php-format
+msgid "Thanks for using the %s Wordpress plugin. We hope you like it."
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:923
+msgid "Helpdesk"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_dashboard.php:929
+msgid "API"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_options.php:17
+msgid "Ad Options"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_stats.php:21
+msgid "Statistics are disabled"
+msgstr ""
+
+#: ../wppas/templates/pro_ad_stats.php:22
+msgid "You can enable statistics on the AD Dashboard under <em>General Settings</em>"
+msgstr ""
+
+#: ../wppas/templates/pdf/stats-pdf.php:73
+#, php-format
+msgid "<h3 style=\"margin:0;\">%s stats for: %s</h3>"
+msgstr ""
+

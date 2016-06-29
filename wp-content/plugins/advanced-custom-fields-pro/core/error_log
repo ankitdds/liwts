@@ -1,0 +1,2 @@
+[15-Jun-2016 10:37:00 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/liwts/public_html/wp-content/plugins/advanced-custom-fields-pro/core/compatibility.php on line 21
+[24-Jun-2016 21:29:49 UTC] PHP Fatal error:  Call to undefined function add_filter() in /home/liwts/public_html/wp-content/plugins/advanced-custom-fields-pro/core/compatibility.php on line 21

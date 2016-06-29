@@ -1,0 +1,164 @@
+/* Resets */
+.graph-container,
+.graph-container div,
+.graph-container a,
+.graph-container span {
+	margin: 0;
+	padding: 0;
+}
+
+/* Gradinet and Rounded Corners */
+.graph-container, #tooltip, .graph-info a.stats_btn, .graph-info a.stats_pdf {
+	background: #ffffff;
+	background: -moz-linear-gradient(top,  #ffffff 0%, #f9f9f9 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f9f9f9));
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#f9f9f9 100%);
+	background: -o-linear-gradient(top,  #ffffff 0%,#f9f9f9 100%);
+	background: -ms-linear-gradient(top,  #ffffff 0%,#f9f9f9 100%);
+	background: linear-gradient(to bottom,  #ffffff 0%,#f9f9f9 100%);
+
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+}
+
+.graph-info a.stats_btn:hover, .graph-info a.stats_pdf:hover {
+	background: #EEE;
+	background: -moz-linear-gradient(top,  #ffffff 0%, #EEE 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#EEE));
+	background: -webkit-linear-gradient(top,  #ffffff 0%,#EEE 100%);
+	background: -o-linear-gradient(top,  #ffffff 0%,#EEE 100%);
+	background: -ms-linear-gradient(top,  #ffffff 0%,#EEE 100%);
+	background: linear-gradient(to bottom,  #ffffff 0%,#EEE 100%);
+}
+
+.graph-info a.time_frame_btn {
+	display:inline-block;
+	padding:7px 0 0 0;
+}
+
+
+
+/*  Graph Container */
+.graph-container {
+	position: relative;
+	width: 96%;
+	height: 300px;
+	padding: 20px;
+	
+	-webkit-box-shadow: 0px 1px 2px rgba(0,0,0,.1);
+	-moz-box-shadow: 0px 1px 2px rgba(0,0,0,.1);
+	box-shadow: 0px 1px 2px rgba(0,0,0,.1);
+}
+
+.graph-container > div {
+	position: absolute;
+	width: inherit;
+	height: inherit;
+	top: 10px;
+	left: 25px;
+}
+
+.graph-info {
+	width: 100%;
+	margin-bottom: 10px;
+}
+
+/* Text Styles */
+#tooltip, .graph-info a.stats_btn, .graph-info a.stats_pdf {
+	min-height: 20px;
+	font-weight: bold;
+	font-size: 12px;
+	line-height: 20px;
+	color: #646464;
+}
+
+.tickLabel {
+	font-size: 11px;
+	color: #666;
+}
+
+/* Tooltip */
+#tooltip {
+	position: absolute;
+	display: none;
+	padding: 5px 10px;
+	border: 1px solid #e1e1e1;
+}
+
+/* Links */
+.graph-info a.stats_btn, .graph-info a.stats_pdf {
+	position: relative;
+	display: inline-block;
+	float: left;
+	padding: 7px 10px 5px 30px;
+	margin-right: 10px;
+	text-decoration: none;
+}
+
+/* Color Circle for Links */
+.graph-info a.stats_btn:before, .graph-info a.stats_pdf:before {
+	position: absolute;
+	display: block;
+	content: '';
+	width: 8px;
+	height: 8px;
+	top: 13px;
+	left: 13px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+}
+
+/* Colors For each Link */
+.graph-info a { cursor:pointer; }
+.graph-info .clicks { border-bottom: 2px solid #71c73e; }
+.graph-info .impressions { border-bottom: 2px solid #77b7c5; }
+.graph-info .stats_pdf { border-bottom: 2px solid #f97066; }
+/*.graph-info .clicks:hover, .graph-info .impressions:hover {  border-bottom: 2px solid #FFF; }*/
+
+.graph-info .clicks:before { background: #71c73e; }
+/*.graph-info .clicks:hover { background:#DCEDCD; }
+.graph-info .impressions:hover{ background:#E1EEF0; }
+.graph-info .clicks:hover:before, .graph-info .impressions:hover:before { background:#FFF; }*/
+.graph-info .impressions:before { background: #77b7c5; }
+.graph-info .stats_pdf:before { background: #f97066; }
+
+
+/* Lines Buttons */
+/*
+#lines {
+	width: 34px;
+	height: 32px;
+	padding: 0;
+	margin-right: 0;
+	margin-left: 10px;
+	border-bottom: 2px solid #71c73e;
+	float: right;
+	cursor: pointer;
+}
+
+#lines.active, #lines:hover {
+	background: #82d344;
+	background: -moz-linear-gradient(top,  #82d344 0%, #71c73e 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#82d344), color-stop(100%,#71c73e));
+	background: -webkit-linear-gradient(top,  #82d344 0%,#71c73e 100%);
+	background: -o-linear-gradient(top,  #82d344 0%,#71c73e 100%);
+	background: -ms-linear-gradient(top,  #82d344 0%,#71c73e 100%);
+	background: linear-gradient(to bottom,  #82d344 0%,#71c73e 100%);
+}
+*/
+
+/* Hide the First and Last Y Label */
+/*
+.yAxis .tickLabel:first-child,
+.yAxis .tickLabel:last-child { display: none; }
+*/
+
+/* Clear Floats */
+.graph-info:before, .graph-info:after,
+.graph-container:before, .graph-container:after {
+	content: '';
+	display: block;
+	clear: both;
+}

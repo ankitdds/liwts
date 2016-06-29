@@ -1,0 +1,574 @@
+/* ################################################################
+ * TUNA ADMIN STYLES
+ *
+ * Tunafish Premium Wordpress Plugins
+ * http://tunasite.com
+ *
+ * ################################################################ */
+
+/* ----------------------------------------------------------------
+ * TUNA LEFTSIDE TABS
+ * ---------------------------------------------------------------- */
+.tuna_tab_container {
+	background-color:#ECECEC;
+}
+#tuna_tab_arrow{
+	display:block; 
+	margin:-2px 0 0 -16px;
+	position:absolute;
+	left: 0;
+	width: 0;
+	height: 0;
+	border-color: transparent #d9d7d7 transparent transparent ;
+	border-style: solid;
+	border-width: 16px 16px 16px 0;
+}
+#tuna_tab_arrow:before{
+	content:"";
+	display: block;
+	position: absolute;
+	top: 0px;
+	left: 1px;
+	width: 0;
+	height: 0;
+	margin-top: -15px;
+	border-color: transparent  #f8f7f7 transparent transparent;
+	border-style: solid;
+	border-width:  15px 15px 15px 0;
+}
+
+#tuna_tab_customization td, #tuna_tab_customization{margin:0; padding:0; border:none; border-spacing:0}
+#tuna_tab_left, #acus_right{border:1px solid #d9d7d7;border-bottom-width: 3px;}
+#tuna_tab_left{
+	min-height:auto;
+	border-bottom:none;
+	border-right:none;
+	width:155px;
+	position:relative;
+}
+#tuna_tab_left ul, #tuna_tab_left ul li{ margin:0; padding: 0; list-style:none; }
+#tuna_tab_left ul a{cursor:pointer}
+
+#tuna_tab_left ul a.focused{
+	color:#3d3d3d;
+	/*border-left:3px solid #85b747;*/
+	margin-left:-1px;
+}
+#tuna_tab_left ul a, #tuna_tab_left ul p{
+	color:#a8a8a8;
+	display:block; text-decoration:none;
+	padding:10px;
+	margin:0;
+	border-bottom:1px solid #d9d7d7;
+	border-left:2px solid transparent;
+	background-color: #eeeeee;
+	font-size:13px;line-height:130%;
+	outline:none;
+	
+}
+#tuna_tab_left ul a:hover{
+	background-color:#f4f4f4; 
+	color:#3d3d3d; 
+	outline:none;
+}
+
+#tuna_tab_right{	
+	background-color:#f8f7f7; 
+	border: solid 1px #d9d7d7;
+	position:relative;
+	min-height:400px;
+}
+
+#tuna_tab_right .customization_right_in{padding:20px;} 
+#tuna_tab_right h3{
+	border:none; moz-box-shadow: none; -webkit-box-shadow: none;
+	box-shadow:none; 
+	background-color:transparent;
+	background-image:none;
+	font-style:italic; 
+	font-size:18px;
+	padding:0 0 10px;
+	margin-top: 0;
+}
+
+/* horizontal divider */
+em.hr_line{
+	border-bottom:1px dashed #d9d7d7; 
+	display:block; 
+	margin:8px -20px;
+}
+
+@media only screen and (max-width: 900px){
+	#tuna_tab_left{width:45px}
+	#tuna_tab_left ul a{
+		text-indent:-9999px;
+		width:25px;
+	}
+}
+
+
+
+
+
+
+
+
+
+/* ----------------------------------------------------------------
+ * TUNA TOGGLE BOXES
+ * ---------------------------------------------------------------- */
+#tuna-toggle-options-cont {
+	width: 100%;
+}
+
+#tuna-toggle-options-cont .option-content {
+	display:none;
+}
+#tuna-toggle-options-cont .no-toggle-option .option-content {
+	display:block;
+}
+
+#tuna-toggle-options-cont .toggle-option h3.option-title, #tuna-toggle-options-cont .no-toggle-option h3.option-title {
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-html-border-radius:5px;
+	border-radius:5px;
+	background:url("../images/toggle.png") no-repeat scroll 10px 13px #F1F1F1;
+	border:1px solid #DDD;
+	color:#4E4C41;
+	cursor:pointer;
+	font-size:1.2em;
+	margin:15px 0 0;
+	padding:15px 15px 15px 40px;
+}
+#tuna-toggle-options-cont .toggle-option h3.option-title-btn {
+	background-image:none;
+	padding:15px 15px 15px 20px;
+}
+#tuna-toggle-options-cont .toggle-option h3.option-title.open, #tuna-toggle-options-cont .no-toggle-option h3.option-title {
+	-moz-border-radius:5px 5px 0 0;
+	-webkit-border-radius:5px 5px 0 0;
+	-html-border-radius:5px 5px 0 0;
+	border-radius:5px 5px 0 0;
+	background-position:10px -27px;
+}
+
+#tuna-toggle-options-cont .no-toggle-option h3.option-title {
+	background-image:none;
+	cursor:default;
+	padding:15px 15px 15px 20px;
+}
+
+#tuna-toggle-options-cont .toggle-option h3.option-title span, #tuna-toggle-options-cont .no-toggle-option h3.option-title span {
+	color:#AAAAAA;
+	float:right;
+	font-size:0.9em;
+	font-weight:normal;
+}
+#tuna-toggle-options-cont .options-table {
+	width: 100%;
+}
+#tuna-toggle-options-cont .option-content {
+	-moz-border-radius:0 0 5px 5px;
+	-webkit-border-radius:0 0 5px 5px;
+	-html-border-radius:0 0 5px 5px;
+	border-radius:0 0 5px 5px;
+	background:none repeat scroll 0 0 #FBFBFA;
+	border-color:-moz-use-text-color #E6E6E6 #E6E6E6;
+	border-color:#E6E6E6;
+	border-right:1px solid #E6E6E6;
+	border-style:none solid solid;
+	border-width:medium 1px 1px;
+	margin:0;
+	padding:15px;
+}
+
+#tuna-toggle-options-cont .bottom-controls {
+	padding: 20px 0 0 0;
+}
+
+#tuna-toggle-options-cont .options-table tr.tabs-subtitle th {
+	border-bottom: none !important;
+}
+
+#tuna-toggle-options-cont .options-table th p {
+	font-weight: normal !important;
+}
+
+#tuna-toggle-options-cont .tabs-create_sidebar th,#pur-options-cont .tabs-list_sidebar .desc-cell {
+	vertical-align:top;
+}
+/*
+#tuna-toggle-options-cont .description {
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	-html-border-radius:5px;
+	border-radius:5px;
+	background:none repeat scroll 0 0 #F1F1F1;
+	color:#777777;
+	padding:15px;
+	display:block;
+	float:right;
+	max-width:350px;
+	margin:10px 0 10px 5px;
+	width:100%;
+}
+*/
+.tuna-toggle-options-main .save-button {
+	margin-top: 10px;
+}
+
+.tuna-toggle-inline-cont .inline-edit-col-right {
+	margin-top: 0px !important;
+}
+
+
+
+.tf-option {
+	clear:left;
+	margin:20px 0 0 0;
+}
+
+
+
+
+
+
+
+/* ----------------------------------------------------------------
+ * TUNA ADMIN TABLE AND FORM STYLES
+ * ---------------------------------------------------------------- */
+.tuna_theme_options .hndle {
+	cursor: pointer !important;
+}
+
+
+.tuna_meta .form-table {
+	margin:0;
+}
+	.tuna_meta .form-table tr.spacing {
+		height:20px;
+	}
+	.tuna_meta .form-table tr {
+		border-bottom: 1px solid #e5e5e5;
+	}
+		.tuna_meta .form-table tr th {
+			font-size: 14px;
+			color: #39464e;
+			font-weight: bold;
+			padding: 15px 10px 15px 0;
+		}
+			.tuna_meta .form-table tr td span {
+				margin-top: 3px;
+				color: #858585;
+				font-size: 11px;
+				line-height: 14px;
+				max-width: 340px;
+				display: block;
+				font-weight: normal;
+			}
+			.tuna_meta .form-table tr th span.description {
+				font-size: 12px;
+				font-style: italic;
+				font-family: sans-serif;
+				margin-top: 8px;
+				display: block;
+				font-weight: normal;
+			}
+		.tuna_meta .form-table td {
+			margin-bottom: 9px;
+			padding: 8px 10px;
+			line-height: 20px;
+			font-size: 12px;
+		}
+			.tuna_meta .form-table tr td {
+				padding: 15px 10px 15px 10px !important;
+			}
+		
+	
+	.tuna_meta .form-table input[type="text"], .tuna_meta .form-table input[type="number"], .tuna_meta .form-table textarea, .tuna_meta .form-table select {
+		height: 33px;
+		padding: 8px 10px;
+		color: #3c4048;
+		font-size: 12px;
+		width: 100%;
+		max-width: 339px;
+		border-color: #c0c3c5 #d3d5d8 #cdd0d2 #bec1c4;
+		background: #f8f8f8;
+		background: -moz-linear-gradient(top, #f8f8f8 0%, #eaeaea 100%);
+		background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#f8f8f8), color-stop(100%,#eaeaea));
+		background: -webkit-linear-gradient(top, #f8f8f8 0%,#eaeaea 100%);
+		background: -o-linear-gradient(top, #f8f8f8 0%,#eaeaea 100%);
+		background: -ms-linear-gradient(top, #f8f8f8 0%,#eaeaea 100%);
+		background: linear-gradient(to bottom, #f8f8f8 0%,#eaeaea 100%);
+		filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f8f8f8', endColorstr='#eaeaea',GradientType=0 );
+		-webkit-box-shadow: inset 3px 3px 3px 0px #e8e8e8;
+		-moz-box-shadow: inset 3px 3px 3px 0px #e8e8e8;
+		box-shadow: inset 3px 3px 3px 0px #e8e8e8;
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+	}
+	
+	.tuna_meta .form-table textarea.full_width {
+		max-width: 545px;
+	}
+	
+	.tuna_meta .form-table input.small-text {
+		width: 160px;
+		float: left;
+		margin-right: 15px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* ----------------------------------------------------------------
+ * TUNA ADMIN CSS - Previouse admin.css
+ * ---------------------------------------------------------------- */
+.clearFix { clear:both; }
+
+/* 
+ * Messages
+*/
+h2.messages-position {
+	margin:0; padding:0;
+}
+.wpproads-message {
+	position: relative;
+	border-left-color: #85B747 !important;
+	overflow: hidden;
+}
+
+.tablenav .actions {
+	overflow:visible !important;
+}
+.chosen-container {
+	margin:2px 2px 0 0;
+}
+	.chosen-container .chosen-single {
+		height:27px !important;
+	}
+	
+.widefat .type-banners td, td.b_adzone {
+	overflow:visible !important;
+}
+
+table.wp-list-table .column-b_banner, table.wp-list-table .column-b_filetype {
+	width: 52px;
+	text-align: center;
+	white-space: nowrap;
+}
+table.wp-list-table .column-b_status, table.wp-list-table .column-b_stats {
+	width: 80px;
+}
+	table.wp-list-table a.stats {
+		opacity:.5;
+	}
+	table.wp-list-table a.stats:hover {
+		opacity:.8;
+	}
+table.wp-list-table span.na {
+	color: #999;
+}
+
+table.wp-list-table .preview_banner {
+	-webkit-background-size: cover !important;
+	-moz-background-size: cover !important;
+	-o-background-size: cover !important;
+	background-size: cover !important;
+	margin: 0 auto;
+}
+
+
+
+@media screen and (max-width: 782px) {
+	.column-title {
+	width: auto;
+	}
+}
+
+
+
+.hidden_row {
+	display:none;
+}
+
+
+
+
+
+
+/*
+ * DASHBOARD
+*/
+.ad_dashboard {
+	
+}
+	.ad_dasboard_boxes {
+		-webkit-border-radius: 5px;
+		-moz-border-radius: 5px;
+		border-radius: 5px;
+		box-shadow: 0px 1px 0px #FFF inset, 0px 1px 0px rgba(0, 0, 0, 0.08);
+	}
+	
+	.ad_dashboard .adheader {
+		background-position: 1px;
+		padding:20px 20px 10px 20px;
+		margin:0;
+		color:#FFF;
+		
+		-webkit-border-bottom-left-radius: 0;
+		-webkit-border-bottom-right-radius: 0;
+		-moz-border-radius-bottomleft: 0;
+		-moz-border-radius-bottomright: 0;
+		border-bottom-left-radius: 0;
+		border-bottom-right-radius: 0;
+	}
+		.ad_dashboard .adheader h3 {
+			font-family: ITCAvantGardeStd-Bold, "Open Sans",sans-serif;
+			font-size: 50px;
+			font-weight: bold;
+			margin: 15px 10px 10px;
+			color:#FFF;
+			text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.25);
+		}
+		.ad_dashboard .adheader img {
+			max-width:100%;
+		}
+		.ad_dashboard .adheader .version {
+			margin: 0px 17px;
+		}
+	.ad_dashboard .menu {
+		margin:0 0 2% 0;
+		padding:10px;
+		background:#DF314D;
+		-webkit-border-top-left-radius: 0;
+		-webkit-border-top-right-radius: 0;
+		-moz-border-radius-topleft: 0;
+		-moz-border-radius-topright: 0;
+		border-top-left-radius: 0;
+		border-top-right-radius: 0;
+	}
+	
+	
+	.ad_dashboard .container {
+		margin:2% 0;
+	}
+		.ad_dashboard .left_content {
+			float:left;
+			width:75%;
+			min-height:300px;
+			margin:0 2% 2% 0;
+		}
+			.ad_dashboard .sidebar .snipr_info_btn {
+				font-size:17px; 
+				text-decoration:none; 
+				vertical-align: middle;
+			}
+			.ad_dashboard .sidebar .snipr_info_btn:hover {
+				opacity:.6;	
+			}
+				.ad_dashboard .sidebar .snipr_info_btn img {
+					vertical-align: middle; 
+					width:25px; 
+					padding-right: 6px;
+				}
+	
+	
+	
+	/* BUTTONS */
+	.main_button {
+		cursor:pointer;
+		height: 28px;
+		line-height: 28px;
+		font-size: 13px;
+		color: #555;
+		background: none repeat scroll 0% 0% #F7F7F7;
+		border:solid 1px #CCC;
+		margin-right: 10px;
+		position: relative;
+		font-weight: 300;
+		text-decoration: none;
+		padding: 0px 16px;
+		display: inline-block;
+		box-shadow: 0px 1px 0px #FFF inset, 0px 1px 0px rgba(0, 0, 0, 0.08);
+		-webkit-border-radius: 3px;
+		-moz-border-radius: 3px;
+		border-radius: 3px;
+	}
+	.main_button:hover {
+		background: none repeat scroll 0% 0% #FAFAFA;
+		color: #222;
+	}
+	a.action_button {
+		
+		-webkit-border-top-left-radius: 0;
+		-webkit-border-bottom-left-radius: 0;
+		-moz-border-radius-topleft: 0;
+		-moz-border-radius-bottomleft: 0;
+		border-top-left-radius: 0;
+		border-bottom-left-radius: 0;
+		
+		border-left:none;
+	}
+	a.plus {
+		margin:0;
+		padding: 0px 10px;
+		-webkit-border-top-right-radius: 0;
+		-moz-border-radius-topright: 0;
+		border-top-right-radius: 0;
+	}
+
+	
+	
+
+
+.ad_dashboard .sidebar .content {
+	/*padding:5px 20px 20px;*/
+	padding:0 20px;
+}
+
+
+
+
+
+/* DASHBOARD TUNA TABS */
+.ad_dashboard #tuna_tab_left ul a, #tuna_tab_left ul p {
+	background: none repeat scroll 0% 0% #F7F7F7;
+}
+#tuna_tab_left ul a:hover, #tuna_tab_left ul a.focused {
+	background: none repeat scroll 0% 0% #FAFAFA;
+	border-left: 3px solid #005C86;
+}
+.ad_dashboard #tuna_tab_arrow:before {
+	border-color: transparent #FFF transparent transparent;
+}
+	
+.ad_dashboard #tuna_tab_right {
+	background-color: #FFF;
+	border: 1px solid #EEE;
+}
+	.ad_dashboard #tuna_tab_right h2 {
+		padding:0;
+	}
+	
+	.ad_dashboard #tuna_tab_right .tuna_meta.metabox-holder {
+		padding:0;	
+	}
+	.ad_dashboard #tuna_tab_right .postbox {
+		border:none;
+	}
+		.ad_dashboard #tuna_tab_right .postbox .inside {
+			margin:0;
+			padding:0;
+		}

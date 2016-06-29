@@ -1,0 +1,4 @@
+[15-Jun-2016 21:59:49 UTC] PHP Fatal error:  Call to undefined function is_archive() in /home/liwts/public_html/testenv/wp-content/themes/LIWTS/new-slideshow.php on line 3
+[18-Jun-2016 15:17:41 UTC] PHP Fatal error:  Call to undefined function is_archive() in /home/liwts/public_html/testenv/wp-content/themes/LIWTS/new-slideshow.php on line 3
+[18-Jun-2016 23:36:55 UTC] PHP Fatal error:  Call to undefined function is_archive() in /home/liwts/public_html/testenv/wp-content/themes/LIWTS/new-slideshow.php on line 3
+[19-Jun-2016 23:25:37 UTC] PHP Fatal error:  Call to undefined function is_archive() in /home/liwts/public_html/testenv/wp-content/themes/LIWTS/new-slideshow.php on line 3

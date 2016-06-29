@@ -1,0 +1,2891 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wp Pro Advertising System\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-05-26 11:16-0300\n"
+"PO-Revision-Date: 2015-05-26 11:23-0300\n"
+"Last-Translator: Dennis <contato@seusite.me>\n"
+"Language-Team: Dennis <contato@seusite.me>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: D:\\Desktop\\wp_pro_ad_system\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: D:\\Desktop\\wp_pro_ad_system\n"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Adzones.php:771
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Adzones.php:1105
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Adzones.php:1182
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:120
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:187
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:297
+msgid "Woops! we cannot find the adzone your looking for!"
+msgstr "Woops! não conseguimos encontrar o adzone que você está procurando!"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Adzones.php:1228
+msgid "Full Width (100%)"
+msgstr "Largura total (100%)"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Api.php:225
+msgid ""
+"WP Pro Ad System Error: function \"pro_ad_display_adzone\" does not exists."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:50
+msgid "Canvas not suported"
+msgstr "Canvas não é suportado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:54
+msgid "Clear"
+msgstr "Limpar"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:55
+msgid "Preview Banner"
+msgstr "Visualizar Banner"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:56
+msgid "Save Banner"
+msgstr "Salvar Banner"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:57
+msgid "Export Banner (.PNG)"
+msgstr "Exportar Banner (PNG)"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:78
+msgid "Banner Size"
+msgstr "Tamanho do Banner"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:83
+msgid "-- Select your banner size --"
+msgstr "-- Selecione o tamanho do banner --"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:112
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1054
+msgid "Custom"
+msgstr "Personalizado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:118
+msgid "Width:"
+msgstr "Largura:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:119
+msgid "Height:"
+msgstr "Altura:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:121
+msgid "Update"
+msgstr "Atualizar"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:130
+msgid "+ Edit Elements"
+msgstr "+ Editar Elementos"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:133
+msgid "Edit the current selected element."
+msgstr "Edite o elemento selecionado atual."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:136
+msgid "Remove selected item"
+msgstr "Remover o item selecionado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:137
+msgid "Move Up"
+msgstr "Mover para cima"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:138
+msgid "Move Down"
+msgstr "Mover para baixo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:141
+msgid "Update Element"
+msgstr "Atualizar Elemento"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:150
+msgid "+ Add Image"
+msgstr "+ Adicionar Imagem"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:156
+msgid "Select Image"
+msgstr "Selecionar Imagem"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:161
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:182
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:198
+msgid "Opacity"
+msgstr "Opacidade"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:162
+msgid "Add Image"
+msgstr "Adicionar Imagem"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:171
+msgid "+ Add Object"
+msgstr "+ Adicionar objeto"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:176
+msgid "Circle"
+msgstr "Círculo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:177
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1051
+msgid "Rectangle"
+msgstr "Retângulo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:178
+msgid "Triangle"
+msgstr "Triângulo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:183
+msgid "Add Object"
+msgstr "Adicionar Objeto"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:192
+msgid "+ Add Text"
+msgstr "+ Adicionar Texto"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:195
+msgid "Text"
+msgstr "Texto"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:196
+msgid "Font Color"
+msgstr "Cor da Fonte"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:197
+msgid "Border Color"
+msgstr "Cor da Borda"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:203
+msgid "Arial"
+msgstr "Arial"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:204
+msgid "Impact"
+msgstr "Impacto"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:207
+#, php-format
+msgid "You can add any %s."
+msgstr "Você pode adicionar qualquer %s."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:237
+msgid "Font Size"
+msgstr "Tamanho da Fonte"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:238
+msgid "Border Width"
+msgstr "Largura da Borda"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:239
+msgid "Add Text"
+msgstr "Adicionar Texto"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:389
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:419
+msgid "No element selected."
+msgstr "Nenhum elemento selecionado."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:695
+msgid "Remove"
+msgstr "Remover"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:696
+msgid "Drag to change layer index."
+msgstr "Arraste para alterar o índice da camada."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:697
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:92
+msgid "ID:"
+msgstr "ID:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banner_Creator.php:851
+msgid ""
+"You need to save the banner before you can use the Visual Banner Creator."
+msgstr "Você precisa salvar o banner antes de usar o criador de Banner Visual."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banners.php:50
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:469
+msgid "Active"
+msgstr "Ativo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banners.php:57
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:470
+msgid "Inactive"
+msgstr "Inativo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banners.php:64
+msgid "Awaiting Review"
+msgstr "Aguardando Revisão"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banners.php:71
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Campaigns.php:66
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:468
+msgid "Draft"
+msgstr "Rascunho"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Banners.php:279
+msgid "No banner Selected."
+msgstr "Nenhum banner selecionado."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:43
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:700
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:146
+msgid "Advertisers"
+msgstr "Anunciantes"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:45
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:419
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:463
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:17
+msgid "Advertiser"
+msgstr "Anunciante"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:51
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:707
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:147
+msgid "Campaigns"
+msgstr "Campanhas"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:53
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:464
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:279
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:18
+msgid "Campaign"
+msgstr "Campanha"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:59
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:714
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:148
+msgid "Banners"
+msgstr "Banners"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:61
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:19
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:140
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:145
+msgid "Banner"
+msgstr "Banner"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:67
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:721
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:339
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:440
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:149
+msgid "Adzones"
+msgstr "Adzones"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:69
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:468
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:269
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:20
+msgid "Adzone"
+msgstr "Bloco"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:80
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:81
+#, php-format
+msgid "Add New %s"
+msgstr "﻿Adicionar Novo(a) %s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:82
+#, php-format
+msgid "Edit %s"
+msgstr "Editar %s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:83
+#, php-format
+msgid "New %s"
+msgstr "Novo %s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:84
+#, php-format
+msgid "View %s"
+msgstr "Ver %s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:85
+#, php-format
+msgid "Search %s"
+msgstr "Pesquisar %s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:86
+#, php-format
+msgid "No %s Found"
+msgstr "Nenhum %s Encontrado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:87
+#, php-format
+msgid "No %s Found in Trash"
+msgstr "Nenhum %s encontrado no Lixo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:137
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:390
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:462
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:678
+msgid "Name"
+msgstr "Nome"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:141
+msgid "Banner Title"
+msgstr "Título do Banner"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:145
+msgid "Adzone Title"
+msgstr "Título da Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:289
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:302
+msgid "Show All Advertisers"
+msgstr "Mostrar Todos os Anunciantes"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:312
+msgid "Show All Campaigns"
+msgstr "Mostrar Todas as Campanhas"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:391
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:61
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:65
+msgid "Email"
+msgstr "E-mail"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:392
+msgid "Wordpress ID"
+msgstr "ID do WordPress"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:393
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:422
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:466
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:682
+msgid "Stats"
+msgstr "Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:410
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:446
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:596
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:718
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:375
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:728
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:623
+msgid "Statistics"
+msgstr "Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:420
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:702
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:703
+msgid "Linked Banners"
+msgstr "Banners Vinculados"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:421
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:465
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:463
+msgid "Status"
+msgstr "Status"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:434
+msgid "Not linked to an advertiser!"
+msgstr "Não vinculado a um anunciante!"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:461
+msgid "<img src=\""
+msgstr "<img src=\""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:533
+msgid "Edit this item"
+msgstr "Editar esse item"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:533
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats.php:80
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_all.php:79
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:92
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_year.php:79
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats.php:80
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_all.php:79
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:96
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_year.php:79
+msgid "Edit"
+msgstr "Editar"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:534
+msgid "Edit this item inline"
+msgstr "Editar este item de linha"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:534
+msgid "Quick&nbsp;Edit"
+msgstr "Edição Rápida"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:540
+msgid "Restore this item from the Trash"
+msgstr "Restaurar este item do Lixo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:540
+msgid "Restore"
+msgstr "Restaurar"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:542
+msgid "Move this item to the Trash"
+msgstr "Mover este item para a Lixo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:542
+msgid "Trash"
+msgstr "Lixo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:547
+msgid "Delete this item permanently"
+msgstr "Excluir este item permanentemente"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:547
+msgid "Delete Permanently"
+msgstr "Excluir Permanentemente"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:555
+#, php-format
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Ver &#8220;%s&#8221;"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:555
+msgid "Preview"
+msgstr "Visualizar"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:557
+#, php-format
+msgid "View &#8220;%s&#8221;"
+msgstr "Ver &#8220;%s&#8221;"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:557
+msgid "View"
+msgstr "Ver"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:588
+msgid "Campaign status:"
+msgstr "Status da Campanha"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:625
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:779
+msgid "Loading..."
+msgstr "Carregando..."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:627
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:781
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:383
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:404
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:456
+msgid "No adzone selected."
+msgstr "Nenhum adzone selecionado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:629
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:783
+msgid "Recommended"
+msgstr "Recomendado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:657
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:811
+msgid "All"
+msgstr "Todos"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:679
+msgid "Size"
+msgstr "Tamanho"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_CPTs.php:712
+msgid "Get code"
+msgstr "Obter Código"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Campaigns.php:45
+msgid "Running"
+msgstr "Executando"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Campaigns.php:52
+msgid "Finished"
+msgstr "Terminado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Campaigns.php:59
+msgid "On Hold"
+msgstr "Em Espera"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Custom_Widgets.php:9
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Custom_Widgets.php:10
+msgid "Display your ads."
+msgstr "Exiba seus anúncios."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Custom_Widgets.php:65
+msgid "Select your adzone:"
+msgstr "Selecione o Bloco:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Custom_Widgets.php:104
+msgid "AD Slot."
+msgstr "Slot AD"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Custom_Widgets.php:105
+msgid "Pro Ads - AD Slot."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Custom_Widgets.php:140
+msgid "Select the ad slot device type:"
+msgstr "Selecione o tipo de dispositivo de slot de anúncio:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Custom_Widgets.php:155
+msgid "Select a unique ID to link banners:"
+msgstr "Selecione um ID exclusivo para vincular banners:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:309
+msgid "VARIABLE"
+msgstr "VARIÁVEL"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:310
+msgid "FIXED"
+msgstr "FIXO"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:355
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:356
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:366
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:367
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:692
+msgid "Advertising"
+msgstr "Publicidade"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:374
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:108
+msgid "AD Dashboard"
+msgstr "Painel Geral"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:753
+#, php-format
+msgid ""
+"If you like <strong>WP PRO Advertising System</strong> please leave us a <a "
+"href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> "
+"rating on <a href=\"%1$s\" target=\"_blank\">Codecanyon.net</a>. A huge "
+"thanks in advance!"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:780
+#, php-format
+msgid ""
+"<p><strong>%s - Statistics Update.</strong> A Major statistics update/"
+"improvement is vailable. Its recommended but your stats will start from "
+"zero. Note: stats will never be removed. You can always switch back to the "
+"old statistics version even after updating to the new one. (General Settings "
+"-> Statistics -> Statistics version)</p>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:780
+msgid "Use New Statistics"
+msgstr "Usar Novas Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:780
+msgid "Keep using Old Statistics"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:799
+#, php-format
+msgid ""
+"<p><strong>%s - Settings update required.</strong> Please update the "
+"Statistics settings. Select your option below.</p>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:799
+msgid "Enable Statistics"
+msgstr "Habilitar Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Init.php:799
+msgid "Disable Statistics"
+msgstr "Desabilitar Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Responsive.php:13
+msgid "Desktop"
+msgstr "Desktop"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Responsive.php:14
+msgid "Adzone size when viewed from a desktop."
+msgstr "Tamanho do adzone quando visto de um desktop."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Responsive.php:20
+msgid "Tablet"
+msgstr "Tablet"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Responsive.php:21
+msgid "Adzone size when viewed from a tablet in portrait mode."
+msgstr "Tamanho do adzone quando visto de um tablet em modo retrato."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Responsive.php:27
+msgid "Phone"
+msgstr "Telefone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Responsive.php:28
+msgid "Adzone size when viewed from a phone in portrait mode."
+msgstr ""
+"Tamanho do adzone quando visto a partir de um telefone em modo retrato."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:54
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:239
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:270
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:337
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:388
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:54
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:241
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:274
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:350
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:401
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats.php:250
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_all.php:249
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:265
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_year.php:249
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats.php:250
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_all.php:249
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:270
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_year.php:249
+#: D:\Desktop\wp_pro_ad_system/templates/pdf/stats-pdf.php:6
+#: D:\Desktop\wp_pro_ad_system/templates/pdf/stats-pdf.php:33
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:242
+msgid "Clicks"
+msgstr "Cliques"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:54
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:338
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:54
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:351
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:377
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:382
+#: D:\Desktop\wp_pro_ad_system/templates/pdf/stats-pdf.php:17
+#: D:\Desktop\wp_pro_ad_system/templates/pdf/stats-pdf.php:34
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:243
+msgid "Impressions"
+msgstr "Impressões"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:85
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:85
+msgid "Total amount of clicks:"
+msgstr "Quantidade total de cliques:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:86
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:86
+msgid "Total amount of impressions:"
+msgstr "Quantidade total de impressões:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:87
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:87
+msgid "CTR:"
+msgstr "CTR:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:88
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:88
+msgid "All Statistics"
+msgstr "Todas as Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:96
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:96
+#, php-format
+msgid "Total amount of clicks in %s:"
+msgstr "Quantidade total de cliques em %s:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:97
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:97
+#, php-format
+msgid "Total amount of impressions in %s:"
+msgstr "Quantidade total de impressões em %s:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:98
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:113
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:127
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:98
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:113
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:127
+#, php-format
+msgid "CTR (%s):"
+msgstr "CTR (%s):"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:99
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:114
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:128
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:99
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:114
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:128
+#, php-format
+msgid "Statistics for %s"
+msgstr "Estatísticas para %s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:111
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:111
+#, php-format
+msgid "All clicks on %s:"
+msgstr "Todos os cliques em %s:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:112
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:112
+#, php-format
+msgid "All impressions on %s:"
+msgstr "Todas as impressões em %s:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:125
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:125
+#, php-format
+msgid "Clicks on %s:"
+msgstr "Cliques em %s:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:126
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:126
+#, php-format
+msgid "Impressions on %s:"
+msgstr "Impressões em %s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:286
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:290
+#, php-format
+msgid "<div class=\"stats_group_info_box\"><h2>%s stats for: %s</h2></div>"
+msgstr ""
+"<div class=\"stats_group_info_box\"><h2>%s estatísticas para: %s</h2></div>"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:340
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:353
+msgid "Export PDF"
+msgstr "Exportar PDF"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:342
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:355
+msgid "All Time"
+msgstr "O Tempo Todo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:411
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:416
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:425
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:424
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:429
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:438
+msgid "in"
+msgstr "em"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:435
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:448
+msgid "on"
+msgstr "em"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics.php:445
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Statistics_new.php:458
+msgid "between"
+msgstr "entre"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:45
+msgid "Post tag [shortcode]"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:46
+msgid ""
+"If you want to show this ad zone into a single post/page you can use this "
+"<em>Post Tag</em>. Just copy the shortcode into your post's textfield"
+msgstr ""
+"Se você quer mostrar nesta zona de anúncio em um único post/página... você "
+"pode usar este <em>Post Tag</em>. Basta copiar o shortcode no campo de texto "
+"do seu post"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:50
+msgid ""
+"<strong>Shortcode attributes:</strong> id = int (the adzone id), popup = "
+"boolean (open the adzone as a popup)"
+msgstr ""
+"<strong>Atributos do Shortcode:</strong> id = int (id do adzone), popup = "
+"boolean (abre o adzone como um popup)"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:51
+msgid "Open Shortcode Editor"
+msgstr "Abrir editor de Shorcode"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:63
+msgid "Template tag"
+msgstr "Modelo tag"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:64
+msgid ""
+"If you want to use this ad zone on a fixed place inside your website, you "
+"can use this <em>Template tag</em>. Just copy the function into your website "
+"template, there where you want to show the banners."
+msgstr ""
+"Se você deseja usar esta zona de anúncio em um lugar fixo dentro de seu "
+"site, você pode usar este <em>modelo de tag</em>. Apenas copie a função em "
+"seu modelo de site, onde você quer exibir os banners."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:74
+msgid "Iframe tag"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:75
+msgid ""
+"The Iframe tag allows you to export adzones to other websites. This way you "
+"can manage adzones on 1 site but have them displayed on multiple websites at "
+"the same time."
+msgstr ""
+"O tag Iframe permite exportar adzones para outros sites. Desta forma, você "
+"pode gerenciar adzones em um site mas tê-los exibidos em vários sites ao "
+"mesmo tempo."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:96
+msgid "RSS feed"
+msgstr "Feed RSS"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:97
+msgid "The RSS feed of this adzone. Ready to use with MailChimp newsletters."
+msgstr "O RSS feed deste adzone. Pronto para uso com MailChimp."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:150
+msgid "Drag the banners to change the order of appearance."
+msgstr "Arraste os banners para alterar a ordem de aparecimento."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:154
+msgid "Updating"
+msgstr "Atualizando"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:164
+msgid "Drag"
+msgstr "Arraste"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:177
+msgid "No linked banners found."
+msgstr "Nenhum banner linkado encontrado."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:217
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:141
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:146
+msgid "Browser"
+msgstr "Navegar"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:221
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:231
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:243
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:253
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:263
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:273
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:283
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:89
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:53
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:55
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:57
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:59
+msgid "n/a"
+msgstr "n/a"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:227
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:142
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:147
+msgid "Platform"
+msgstr "Plataforma"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:239
+msgid "Country"
+msgstr "País"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:249
+msgid "City"
+msgstr "Cidade"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:259
+msgid "IP adress"
+msgstr "Endereço IP"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:328
+msgid "Shortcode Generator"
+msgstr "Gerador de Shortcode"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:330
+msgid ""
+"Select the adzone you want to use. To add the shortcode click <em>Insert "
+"Shortdode</em>."
+msgstr ""
+"Selecione o adzone que você deseja usar. Para adicionar o shortcode clique "
+"<em>Inserir Shortcode</em>."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:338
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:439
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:661
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:938
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:976
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1059
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1144
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1215
+msgid "Click to change"
+msgstr "Clique para alterar"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:345
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:350
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:446
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:455
+msgid "Select an adzone"
+msgstr "Selecione um adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:365
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:379
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:479
+msgid "Insert Shortcode"
+msgstr "Inserir Shortcode"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:429
+msgid "Adzone Shortcode Editor"
+msgstr "Editor de Shortcode de Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:440
+#, php-format
+msgid "Selected Adzone: %s"
+msgstr "Adzone Selecionado: %s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:446
+msgid "Selected adzone"
+msgstr "Adzone selecionado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:494
+msgid "Create Shortcode"
+msgstr "Criar Shortcode"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:495
+msgid "Close"
+msgstr "Fechar"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:662
+msgid "Default options"
+msgstr "Opções padrão"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:668
+msgid "Ajax Load"
+msgstr "Ler Ajax"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:669
+msgid "Load banners using ajax."
+msgstr "Carregar banners usando ajax."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:673
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:686
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:950
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:988
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1001
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1071
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1156
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1190
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1227
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:75
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:109
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:136
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:145
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:629
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1070
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1185
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1256
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1292
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1305
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1322
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:547
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:564
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:592
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:634
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:685
+msgid "No"
+msgstr "Não"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:674
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:687
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:951
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:989
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1002
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1072
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1157
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1189
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1228
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:75
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:109
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:136
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:145
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:630
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1071
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1186
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1257
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1293
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1306
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1323
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:550
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:567
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:595
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:637
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:688
+msgid "Yes"
+msgstr "Sim"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:676
+msgid "recommended if you are using a catching plugin"
+msgstr "recomendado se você estiver usando um plugin de captura"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:681
+msgid "Hide if logged in"
+msgstr "Esconder se logado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:682
+msgid "Hide this adzone for logged in members."
+msgstr "Esconder este adzone para membros logados."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:694
+msgid "CSS Class"
+msgstr "Classe CSS"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:695
+msgid "Add a class to the wrapping Adzone element."
+msgstr "Adicione uma classe a disposição do elemento Adzone."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:704
+msgid "Adzone align"
+msgstr "Alinhamento do Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:705
+msgid "Selecting Left or Right will wrap content around your advertisement."
+msgstr ""
+"Selecionar esquerda ou direita para quebrar o conteúdo em torno de sua "
+"propaganda."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:709
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:443
+msgid "Default"
+msgstr "Padrão"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:710
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:444
+msgid "Left"
+msgstr "Esquerda"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:711
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:445
+msgid "Right"
+msgstr "Direita"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:718
+msgid "Adzone info text."
+msgstr "Texto de informação do Adzone."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:723
+msgid "Adzone Text"
+msgstr "Texto do Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:724
+msgid "Show a small text above, below or on top of the adzone."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:728
+msgid "ex.: Advertisement"
+msgstr "ex.: anúncio"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:733
+msgid "Adzone Text Image"
+msgstr "Texto da Imagem do Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:734
+msgid "Show an image above, below or on top of the adzone."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:737
+msgid "Image Url"
+msgstr "URL da Imagem"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:743
+msgid "Adzone Text Link"
+msgstr "Link do Texto do Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:744
+msgid "Add a link to the adzone info text."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:753
+msgid "Adzone Text Color"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:763
+msgid "Adzone Text Font Size"
+msgstr "Adzone - Tamanho da fonte"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:764
+msgid "Select the font size for the adzone text."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:782
+msgid "Adzone Text Decoration"
+msgstr "Decoração do Texto do Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:783
+msgid "Select the text decoration for the info text."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:787
+msgid "None"
+msgstr "Nenhum"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:788
+msgid "Underline"
+msgstr "Sublinhado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:789
+msgid "Overline"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:790
+msgid "Line Through"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:797
+msgid "Adzone Text Position"
+msgstr "Posição de texto do Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:798
+msgid "Show the info text above, below or on top of the adzone."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:802
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1240
+msgid "Select Position"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:803
+msgid "Above adzone"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:804
+msgid "Below adzone"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:805
+msgid "On top - right "
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:806
+msgid "On top - left "
+msgstr "On top - left "
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:813
+msgid "Adzone Style."
+msgstr "Adzone Estilo."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:818
+msgid "Adzone padding"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:819
+msgid "Select the padding for the adzone."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:823
+msgid "No Padding"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:838
+msgid "Adzone Background Color"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:869
+msgid "Adzone border radius"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:870
+msgid ""
+"Select a border radius if you want to add rounded corners to your adzone "
+"border."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:874
+msgid "No Border Radius"
+msgstr "Sem Raio da Borda"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:889
+msgid "Adzone border"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:890
+msgid "Select the border size for the adzone."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:894
+msgid "No Border"
+msgstr "Sem Borda"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:909
+msgid "Adzone Border Color"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:939
+msgid "Advanced Options"
+msgstr "Opções Avançadas"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:945
+msgid "Fixed Adzone"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:946
+msgid ""
+"Make the adzone fixed when it reaches the top of the page. <strong>Note:</"
+"strong> This will only work for 1 adzone per page."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:977
+msgid "Popup options"
+msgstr "Opções do Popup"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:983
+msgid "Open Adzone as a Popup"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:984
+msgid "Do you want the adzone to open as a popup?"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:996
+msgid "Exit Popup"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:997
+msgid "Opens the popup when users exit the page."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1009
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:82
+msgid "Popup Background Color"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1019
+msgid "Popup Opacity"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1060
+msgid "Background ad options"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1066
+msgid "Load Adzone as Background"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1067
+msgid "Do you want the adzone to load as the page background?"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1079
+msgid "Background Container"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1080
+msgid "Select the main website container. Default <strong>body</strong>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1089
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:125
+msgid "Background Color"
+msgstr "Cor de Fundo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1099
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1105
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:143
+msgid "Repeat"
+msgstr "Repetir"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1104
+msgid "No repeat"
+msgstr "Não repetir"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1112
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1118
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:134
+msgid "Stretch"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1117
+msgid "No stretch"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1120
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:137
+msgid "Stretch the background image to the full width of the page."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1145
+msgid "Corner Peel options"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1151
+msgid "Open Adzone as a Corner Peel"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1152
+msgid "Do you want the adzone to open as a corner curl?"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1164
+msgid "Corner size Closed"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1165
+msgid "Set the size (in percentage % 1 - 100) for the corner when its closed."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1169
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1179
+#, php-format
+msgid "100% equals 300px"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1174
+msgid "Corner size Open"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1175
+msgid "Set the size (in percentage % 1 - 100) for the corner when its open."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1184
+msgid "Corner Animation"
+msgstr "Animação de Canto"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1185
+msgid "Do you want the corner to be waving?"
+msgstr "Você quer que o canto fique mexendo?"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1216
+msgid "Fly In options"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1222
+msgid "Open Adzone as a Fly In"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1223
+msgid "Do you want the adzone to open as a fly in advertisement?"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1235
+msgid "Fly In Position"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1236
+msgid "Select the position of the fly in ad."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1241
+msgid "Bottom Left"
+msgstr "Inferior Esquerdo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1242
+msgid "Bottom Center"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1243
+msgid "Bottom Right"
+msgstr "Inferior Direito"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1244
+msgid "Top Left"
+msgstr "Topo Esquerdo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1245
+msgid "Top Center"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1246
+msgid "Top Right"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1253
+msgid "Delay"
+msgstr "Atraso"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Templates.php:1254
+msgid "Set the delay (in seconds) before the fly in ad should appear."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:36
+msgid "Pro Advertising"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:37
+msgid "Add advertisements to your website"
+msgstr "Adicione anúncios no seu site"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:41
+msgid "Content"
+msgstr "Conteúdo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:49
+msgid "<h2 style='margin-bottom:0'>Adzone</h2>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:50
+msgid "<hr>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:56
+msgid "Adzone ID"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:60
+msgid "Select the adzone you want to add."
+msgstr "Selecione o adzone que você deseja adicionar."
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:67
+msgid ""
+"<div style='background:#EEE; padding:5px;'><h2 "
+"style='margin:0'><small><em>Optional</em> - </small> Popup Ads</h2> Popup "
+"ads allow you to open the adzone in a popup window.<hr></div>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:73
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:91
+msgid "Adzone is Popup"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:76
+msgid "Select if you want the adzone to open as a popup.<br><br>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:85
+msgid "Select the Popup background color"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:94
+msgid "Select the Popup background opacity.<br><br>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:101
+msgid ""
+"<div style='background:#EEE; padding:5px;'><h2 "
+"style='margin:0'><small><em>Optional</em> - </small> Background Ads</h2> "
+"Background ads make it possible to load your adzone as the post/page "
+"background.<hr></div>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:107
+msgid "Adzone is Background"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:110
+msgid "Select if you want the adzone to loaded as the page background."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:116
+msgid "Container"
+msgstr "Recipiente"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:119
+msgid ""
+"Add the ID of your websites main container. (default <strong>body</strong>)"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Vsc_Class.php:128
+msgid "Select the page background color"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:52
+msgid "Welcome to WP PRO Advertising System"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:91
+msgid "Thank you for updating WP PRO Advertising System to version "
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:93
+msgid "Thank you for purchasing WP PRO Advertising System "
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:95
+#, php-format
+msgid "%s%s"
+msgstr "%s%s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:101
+msgid "We hope you will enjoy the new features we have added!"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:103
+msgid ""
+"We hope you will enjoy the WP PRO Advertising System - mange your ads the "
+"easy way!"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:110
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:887
+msgid "FAQ"
+msgstr "FAQ"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:112
+msgid "Support"
+msgstr "Suporte"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:114
+msgid "News"
+msgstr "Novidades"
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:115
+msgid "Changelog"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/Pro_Ads_Welcome.php:124
+msgid "Go to the AD Dashboard"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:27
+msgid "Adzone Size:"
+msgstr "Tamanho do Adzone:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:30
+#, php-format
+msgid "%s Options:"
+msgstr "Opções do %s:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:34
+msgid "Banner type:"
+msgstr "Tipo de banner:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:35
+msgid "Link banner to Adzone:"
+msgstr "Linkar banner para a Adzone:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:36
+msgid "Optional Settings:"
+msgstr "Configurações Opcionais:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:37
+msgid "Banner Stats:"
+msgstr "Estatísticas do Banner:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:62
+msgid ""
+"If the email address matches an existing Wordpress user account this "
+"advertiser will be linked to the WP account."
+msgstr ""
+"Se o endereço de e-mail corresponde a uma conta de usuário existente do "
+"Wordpress esse anunciante será vinculado à conta do WP."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:77
+msgid "Wordpress user"
+msgstr "Usuário do WordPress"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:78
+msgid "This email is linked to an existing Wordpress user."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:84
+msgid "Username:"
+msgstr "Usuário:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:88
+msgid "Name:"
+msgstr "Nome:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:96
+msgid "Registered:"
+msgstr "Registrado:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:198
+msgid "Campaign for:"
+msgstr "Campanha para:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:199
+msgid "Select an advertiser for this campaign."
+msgstr "Selecione um anunciante para esta campanha."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:203
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:377
+msgid "Select an advertiser"
+msgstr "Selecione um anunciante"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:217
+msgid "Campaign period:"
+msgstr "Período da campanha:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:218
+msgid "Add a start and end date por this campaign."
+msgstr "Adicionar uma data de começo e fim para esta campanha."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:223
+msgid "Start date"
+msgstr "Data de início"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:224
+msgid "End date"
+msgstr "Data de término"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:225
+msgid "Leave empty to keep campaign active."
+msgstr "Deixe vazio para manter a campanha ativa."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:238
+msgid "Campaign timing:"
+msgstr "Calendário da campanha:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:239
+msgid "When should this campaign be running."
+msgstr "Quando é que esta campanha deve ser executada."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:242
+msgid "From"
+msgstr "De"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:243
+msgid "Till"
+msgstr "Até"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:244
+msgid "Leave empty to keep campaign running all the time."
+msgstr "Deixe em branco para manter campanha correndo o tempo todo."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:372
+msgid "Banner for:"
+msgstr "Banner para:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:373
+msgid "Select an advertiser for this banner."
+msgstr "Selecione um anunciante para este banner."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:386
+msgid "No Advertiser Selected!"
+msgstr "Nenhum anunciante selecionado!"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:391
+msgid "Banner campaign:"
+msgstr "Campanha do banner:"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:392
+msgid "Select a campaign for this banner."
+msgstr "Selecione uma campanha para este banner."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:398
+#: D:\Desktop\wp_pro_ad_system/includes/ajax_functions.php:24
+msgid "Select a campaign"
+msgstr "Selecione uma Campanha"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:408
+msgid "No Campaign Selected!"
+msgstr "Nenhuma Campanha Selecionada!"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:413
+msgid "Link"
+msgstr "Link"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:417
+msgid "http://www.yourlink.com"
+msgstr "http://www.seulink.com.br"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:423
+msgid "Target"
+msgstr "Alvo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:429
+msgid "_blank, Load in a new window."
+msgstr "_blank, Abre em uma nova janela."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:432
+msgid "_self, Load in the same frame as it was clicked."
+msgstr "_self, abre na mesma janela onde foi clicado."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:435
+msgid "_parent, Load in the parent frameset."
+msgstr "_parent, abre no frameset principal."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:438
+msgid "_top, Load in the full body of the window."
+msgstr "_top, abre no corpo de uma janela."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:446
+msgid "Link Masking"
+msgstr "Máscara do Link"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:447
+msgid ""
+"Turn Off link masking and link directly to the original banner url, When "
+"turned off its nut possible to save statistics for this banner."
+msgstr ""
+"Desativar o mascaramento do link e linkar diretamente para a url original do "
+"banner, quando desligado não é possível salvar estatísticas para este banner."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:452
+msgid "Use link masking (recommended)"
+msgstr "Usar mascaramento de link (recomendado)"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:455
+msgid "Turn Off link masking"
+msgstr "Desligar mascaramento de link"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:471
+msgid "Awaiting review"
+msgstr "Aguardando Revisão"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:617
+msgid "Main Banner"
+msgstr "Banner Principal"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:617
+#, php-format
+msgid ""
+"Optional, <small style=\"font-weight:normal;\">This banner will be visible "
+"when it is viewed from a %s</small>"
+msgstr ""
+"Opcional, <small style=\"font-weight:normal;\">visibilidade deste banner em "
+"um %s</small>"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:624
+msgid "Hide banner on this device"
+msgstr "Esconder banner neste dispositivo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:625
+msgid "Do you want to hide this banner if its viewed from the selected device?"
+msgstr "Você quer esconder este banner do dispositivo selecionado?"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:637
+msgid "Banner Preview"
+msgstr "Visualizar Banner"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:647
+msgid "Option 1"
+msgstr "Opção 1"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:648
+msgid "Upload/Select a banner."
+msgstr "Enviar/Selecionar um banner."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:652
+msgid "Banner url"
+msgstr "Url do Banner"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:653
+msgid "Upload Banner"
+msgstr "Enviar Banner"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:662
+msgid "Option 2"
+msgstr "Opção 2"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:663
+msgid "HTML Code (adSense, iframes, text ads, ...)"
+msgstr "Código HTML (adSense, iframes, text ads, ...)"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:695
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:710
+msgid "Visual Banner Creator:"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:750
+msgid "Link to Adzone"
+msgstr "Link do Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:751
+msgid "Link your banner to one or more adzones."
+msgstr "Likar seu banner para um ou mais adzones."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:834
+msgid "You need to save the banner before you can add it to an adzone."
+msgstr "Você precisa salvar o banner antes de poder adicioná-lo a uma adzone."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:856
+msgid "No Follow"
+msgstr "Não siga"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:857
+msgid "Do you want to add rel nofollow to your link?"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:862
+msgid "rel=\"nofollow\""
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:869
+msgid "Transition duration"
+msgstr "Duração da transição"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:870
+msgid ""
+"Select the time this banner should be visible if its rotating. <strong>Note:"
+"</strong> This option will only work if the adzone has the BX Slider "
+"rotation type selected."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:873
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1217
+msgid "Sec."
+msgstr "Seg."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:874
+msgid "Time in seconds."
+msgstr "Tempo em segundos."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:880
+msgid "Flash Fallback image"
+msgstr "Imagem flash de Fallback"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:881
+msgid ""
+"Upload/Select a fallback image for flash banners on devices that not support "
+"Flash."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:885
+msgid "fallback image url"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:886
+msgid "Upload Fallback Image"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:888
+msgid "Image Preview"
+msgstr "Pré-Visualizar Imagem"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:889
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1342
+msgid "No image selected"
+msgstr "Nenhuma Imagem Selecionada"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:897
+msgid "Contract"
+msgstr "Contrato"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:898
+msgid "Select the contract type and duration for this banner."
+msgstr "Selecione o tipo de contrato e duração para este banner."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:903
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:913
+msgid "Amount of clicks"
+msgstr "Quantidade de cliques"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:903
+msgid "Pay per click"
+msgstr "Pagar por clique"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:904
+msgid "Amount of views"
+msgstr "Quantidade de visualizações"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:904
+msgid "Pay per view"
+msgstr "Pagar por visualização"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:905
+msgid "Amount of days"
+msgstr "Quantidade de dias"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:905
+msgid "Duration"
+msgstr "Duração"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:908
+msgid "Leave empty to keep this banner active."
+msgstr "Deixe em branco para manter este banner ativo."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:943
+msgid "Total Clicks"
+msgstr "Total de Cliques"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:947
+msgid "Total Views"
+msgstr "Total de Visualizações"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:951
+#: D:\Desktop\wp_pro_ad_system/templates/pdf/stats-pdf.php:35
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:244
+msgid "CTR"
+msgstr "CTR"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:956
+msgid "Full banner statistics"
+msgstr "Estatísticas Completas deste Banner"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1013
+#, php-format
+msgid "Size - %s"
+msgstr "Tamanho - %s"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1027
+msgid "Full Banner"
+msgstr "Banner Completo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1030
+msgid "Skyscraper"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1033
+msgid "Leaderboard"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1036
+msgid "Medium Rectangle"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1039
+msgid "Button 1"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1042
+msgid "Wide Skyscraper"
+msgstr "Skyscraper Largo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1045
+msgid "Button 2"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1048
+msgid "Square Button"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1057
+msgid "Full Width - <small>(Only recommended for background ads)</small>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1060
+msgid "Required - Main adzone size"
+msgstr "Obrigatório - Tamanho do Adzone Principal"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1060
+msgid "Optional - Responsive adzone sizes"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1065
+msgid "Hide adzone on this device"
+msgstr "Esconder adzone neste dispositivo"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1066
+msgid "Do you want to hide this adzone if its viewed from the selected device?"
+msgstr "Você quer esconder este banner do dispositivo selecionado?"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1078
+msgid "Custom size"
+msgstr "Tamanho personalizado"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1090
+msgid "Width"
+msgstr "Largura"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1095
+msgid "Height"
+msgstr "Altura"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1103
+msgid "Size Options"
+msgstr "Opções de Tamanho"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1104
+msgid ""
+"<strong>FIXED:</strong> Adzone will keep its size no matter if the banners "
+"are larger or smaller.<br><br> <strong>VARIABLE:</strong> Adzone adapts "
+"itself to the height of the banner but will never exceed the selected adzone "
+"height."
+msgstr ""
+"<strong>Fixo:</strong> Adzone manterá o seu tamanho não importa se os "
+"banners são maiores ou menores.<br><br><strong>Variável:</strong> Adzone "
+"adapta-se à altura do banner, mas nunca excederá a altura do adzone "
+"selecionado."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1157
+msgid "Description"
+msgstr "Descrição"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1170
+msgid "Max. amount of banners"
+msgstr "Max. quantidade de banners"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1171
+msgid "How many banners are allowd in this adzone?"
+msgstr "Quantos banners são permitidos neste adzone?"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1175
+msgid "Leave empty to allow unlimited banners."
+msgstr "Deixe vazio para permitir banners ilimitados."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1180
+msgid "Rotate Banners"
+msgstr "Rotacionar Banners"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1198
+msgid "Rotation Type"
+msgstr "Tipo de Rotação"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1199
+msgid ""
+"You have 2 options to rotate banners. Select the one that fits your needs."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1203
+msgid "BX Slider (recommended)"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1204
+msgid "Showoff"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1212
+msgid "Rotation Time"
+msgstr "Tempo para Rotação"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1223
+msgid "Rotation Effect"
+msgstr "Efeito de rotação"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1228
+msgid "Fade"
+msgstr "Esmaecer"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1229
+msgid "Slide"
+msgstr "Slide"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1230
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1278
+msgid "Vertical"
+msgstr "Vertical"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1232
+msgid "Vertical slides are only available with BX Slider."
+msgstr "Slides verticais só estão disponíveis com o Slide BX."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1237
+msgid "Banner Loading Order"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1238
+msgid "Select the order to load banners inside the adzone."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1242
+msgid "Fixed Order"
+msgstr "Odem Fixa"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1243
+msgid "Equal Views"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1244
+msgid "Random Order"
+msgstr "Ordem Randômica"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1251
+msgid "AJAX Rotation"
+msgstr "Rotação Ajax"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1252
+msgid "Do you want to load the banners in real time using ajax?"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1268
+msgid "AD Grid"
+msgstr "Grade AD"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1269
+msgid ""
+"Show multiple ads at once. <br><strong>Note:</strong> This option has no "
+"rotation effect. Banners will load in random order on each page refresh."
+msgstr ""
+"Mostre vários anúncios de uma só vez.<br><strong>Nota:</strong> Esta opção "
+"não tem nenhum efeito de rotação. Os Banners carregarão em ordem aleatória "
+"para cada atualização de página."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1273
+msgid "Horizontal"
+msgstr "Horizontal"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1282
+msgid "Leave empty to show one banner at the time."
+msgstr "Deixe em branco para mostrar um banner por vez."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1287
+msgid "Center Adzone"
+msgstr "Centralizar Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1288
+msgid "Do you want this adzone to be centered?"
+msgstr "Você quer este adzone centralizado?"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1300
+msgid "Hide adzone if empty"
+msgstr "Esconder adzone se vazio"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1301
+msgid "Do you want to hide this adzone if its empty?"
+msgstr "Você quer esconder este adzone se estiver vazio?"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1317
+msgid "Remove Buy and Sell Option"
+msgstr "Remover opção de compra e venda"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1318
+msgid "Do you want to disable Buy and Sell options for this adzone?"
+msgstr "Você quer desabilitar as opções de compra e venda para este adzone?"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1333
+msgid "Default adzone image"
+msgstr "Imagem padrão do Adzone"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1334
+msgid "Upload/Select a default image that will show when the azone is empty."
+msgstr ""
+"Enviar/Selecionar uma imagem padrão que irá aparecer quando o adzone estiver "
+"vazio."
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1338
+msgid "Default Banner url"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1339
+msgid "Upload Image"
+msgstr "Enviar Imagen"
+
+#: D:\Desktop\wp_pro_ad_system/classes/extends/Pro_Ads_CPT_Meta_Options.php:1340
+#, php-format
+msgid ""
+"<strong>Note:</strong> This image will replace the default \"advertise here"
+"\" button if you have the %s or %s add-on activated."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/includes/ajax_functions.php:48
+msgid "Select a Campaign"
+msgstr "Selecione uma Campanha"
+
+#: D:\Desktop\wp_pro_ad_system/includes/ajax_functions.php:259
+msgid "Campaign and Banner statuses are updated."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats.php:16
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats.php:17
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_all.php:14
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_all.php:15
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_year.php:14
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_year.php:15
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats.php:16
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats.php:17
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_all.php:14
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_all.php:15
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_year.php:14
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_year.php:15
+msgid "stats"
+msgstr "Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats.php:81
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_all.php:80
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:93
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_year.php:80
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats.php:81
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_all.php:80
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:97
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_year.php:80
+msgid "Export"
+msgstr "Exportar"
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats.php:82
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_all.php:81
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:94
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_year.php:81
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats.php:82
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_all.php:81
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:98
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_year.php:81
+msgid "Delete"
+msgstr "Excluir"
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats.php:127
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_year.php:126
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats.php:127
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_year.php:126
+msgid "Date"
+msgstr "Data"
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats.php:128
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_all.php:127
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_year.php:127
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats.php:128
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_all.php:127
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_year.php:127
+msgid "Count"
+msgstr "Contagem"
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_all.php:126
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_all.php:126
+msgid "Year"
+msgstr "Ano"
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:16
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:17
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:16
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:17
+msgid "stats_day"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:59
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:63
+msgid "Detailed User Info"
+msgstr "Informações detalhadas do usuário"
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:60
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:143
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:64
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:148
+msgid "User Info"
+msgstr "Informação do Usuário"
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables/stats_day.php:139
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:143
+msgid "Time"
+msgstr "Hora"
+
+#: D:\Desktop\wp_pro_ad_system/includes/tables_new/stats_day.php:144
+msgid "Hits"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pdf/stats-pdf.php:73
+#, php-format
+msgid "<h3 style=\"margin:0;\">%s stats for: %s</h3>"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:53
+msgid "General Settings are updated successfully."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:53
+msgid "Please UPDATE your <a href=\""
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:107
+msgid "Plugin registered successfully."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:107
+msgid "Please add a valid/unique license key."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:139
+msgid "Version"
+msgstr "Versão"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:146
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:147
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:148
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:149
+msgid "Add New"
+msgstr "Adicionar Novo(a)"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:170
+msgid ""
+"Please Register your copy of the WP PRO Advertising System to receive "
+"automatic plugin updates."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:173
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:814
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:823
+msgid "License Key"
+msgstr "Chave de Licença"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:174
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:819
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:839
+msgid "Register Plugin"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:199
+msgid "Today's statistics"
+msgstr "Estatísticas de hoje"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:206
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:282
+msgid "Buy and Sell Ads"
+msgstr "Compra e Venda de Anúncios"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:207
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:342
+msgid "Manage Post Ads"
+msgstr "Gerenciar Ads de Posts"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:208
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:497
+msgid "Manual Updates"
+msgstr "Atualizações Manuais"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:209
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:529
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_options.php:25
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_options.php:37
+msgid "General Settings"
+msgstr "Configurações Gerais"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:210
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:807
+msgid "Plugin Registration"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:227
+msgid "Today's Statistics"
+msgstr "Estatísticas de hoje"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:253
+msgid "Check all statistics"
+msgstr "Verifique todas as estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:274
+msgid "Buy and Sell Ads, Settings"
+msgstr "Configurações de compra e venda de anúncios"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:278
+msgid "Buy and Sell Ads, Woocommerce Settings"
+msgstr "Compra e venda de anúncios, configurações do Woocommerce"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:310
+msgid "Advertise Here"
+msgstr "Anuncie Aqui"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:313
+msgid ""
+"Make sure your adzones do not remain empty! Let users buy advertisments "
+"directly on your website! The Buy and Sell Add-on turns your empty adzones "
+"into links where users can instantly upload their banner, pay and activate "
+"their advertisement on your website."
+msgstr ""
+"Certifique-se de que seus adzones não fiquem vazios! Permita os usuários "
+"comprarem anúncios diretamente em seu site! O módulo de comprar e vender "
+"coloca um quadro igual esse da esquerda nos seus adzones vazios, permitindo "
+"que o cliente possa comprar o espaço ao clicar nele, pagando e ativando "
+"próprio anúncio diretamente."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:317
+msgid "Download Buy and Sell Ads - ADD-ON"
+msgstr "Compre o ADD-ON de Compra e Venda"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:353
+msgid "Enable Post Ads"
+msgstr "Habilitar Ads de Posts"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:354
+msgid ""
+"This allows you to add banners to all posts automatically. Select the post "
+"types where you want to use this function."
+msgstr ""
+"Isso permite que você adicionar banners para todas os posts automaticamente. "
+"Selecione os tipos de post onde você deseja usar essa função."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:357
+msgid "No post types selected."
+msgstr "Nenhum tipo de post selecionado."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:379
+msgid "Top AD"
+msgstr "AD Superior"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:380
+msgid "This will show an adzone above the post."
+msgstr "Isto irá mostrar uma adzone acima do post."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:384
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:405
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:457
+msgid "Leave Empty"
+msgstr "Deixe em branco"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:400
+msgid "Center AD"
+msgstr "AD Centro"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:401
+msgid "This will show an adzone after the 2nd paragraph of the post."
+msgstr "Isto irá mostrar uma adzone após o 2º parágrafo do post."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:421
+msgid "Center AD Paragraph"
+msgstr "AD Centro Parágrafo"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:422
+msgid "Select after how many paragraphs the center ad should show."
+msgstr "Selecione depois quantos parágrafos deve mostrar o anúncio do centro."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:438
+msgid "Center AD Align"
+msgstr "Alinhamento do AD Centro"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:439
+msgid "Select how you want to align the ad in your post."
+msgstr "Selecione como você deseja alinhar o anúncio no seu post."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:447
+msgid ""
+"Selecting Left or Right will wrap the post text around your advertisement."
+msgstr ""
+"Selecionar esquerda ou direita irão quebrar o texto do post em torno do seu "
+"anúncio."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:452
+msgid "Bottom AD"
+msgstr "AD Inferior"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:453
+msgid "This will show an adzone under the post."
+msgstr "Isto irá mostrar uma adzone no final do post."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:484
+msgid "Save Post Ad Settings"
+msgstr "Salvar Configurações AD Posts"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:508
+msgid ""
+"Campaign, Banner and Statistic statuses get updated once a day "
+"automatically. If you want to, you can manually Finish or Start campaigns, "
+"remove outdated statistics by clicking the update button."
+msgstr ""
+"Status de Campanhas, Banners e Estatística serão atualizados automaticamente "
+"uma vez por dia. Se você quiser, você pode manualmente terminar ou iniciar "
+"campanhas, remova as estatísticas desatualizadas clicando no botão de "
+"atualização."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:510
+msgid "Update Campaigns/Banners/Statistics"
+msgstr "Atualizar Campanhas/Banners/Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:536
+msgid "Settings"
+msgstr "Configurações"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:541
+msgid "Enable Admin Bar"
+msgstr "Ativar Barra de Admin"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:542
+msgid "Do you want to add the custom admin bar?"
+msgstr "Você quer adicionar a barra de admin personalizada?"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:558
+msgid "Uninstall Option"
+msgstr "Opção de Desinstalar"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:559
+msgid "Remove all data while uninstalling the plugin?"
+msgstr "Remover todos os dados ao desinstalar o plugin?"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:581
+msgid "Permalinks"
+msgstr "Links Permanentes"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:586
+msgid "Enable Clean permalinks"
+msgstr "Habilitar limpeza de links permanentes"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:587
+msgid "Do you want to enable clean permalinks for your ads?"
+msgstr "Você quer habilitar a limpeza de links permanentes para seus anúncios?"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:603
+msgid "Link prefix"
+msgstr "Prefixo do Link"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:604
+msgid ""
+"Add your permalink prefix. <strong>NOTE:</strong> You will need to update "
+"your Permalinks after updating."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:609
+msgid "ex.:"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:628
+msgid "Enable Satistics"
+msgstr "Habilitar Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:629
+msgid "Do you want statistics to be saved?"
+msgstr "Você quer que as estatísticas sejam salvas?"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:645
+msgid "Statistics version"
+msgstr "Versão das Estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:646
+msgid "What version do you want to use?"
+msgstr "Qual versão você quer usar?"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:651
+msgid "Deafault Statistics"
+msgstr "Estatísticas Padrão"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:654
+msgid "New Statistics (recommended)"
+msgstr "Novas Estatísticas (recomendadas)"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:662
+msgid "Statistics data"
+msgstr "Dados estatísticos"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:663
+msgid ""
+"How detailed do you want to track statistics? NOTE: Hourly statistics will "
+"make your database grow fast"
+msgstr ""
+"Como quer o detalhamento para acompanhar as estatísticas? Nota: As "
+"estatísticas por hora farão seu banco de dados crescer rápido"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:668
+msgid "Hourly Statistics"
+msgstr "Estatísticas por hora"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:671
+msgid "Daily Statistics (recommended)"
+msgstr "Estatísticas Diárias (recomendado)"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:674
+msgid "Only available for the NEW statistics version."
+msgstr "Disponível apenas para a NOVA versão de estatísticas."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:679
+msgid "Enable User data stats"
+msgstr "Habilitar estatísticas de dados de Usuário"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:680
+msgid "Do you want specific user data for statistics to be saved?"
+msgstr ""
+"Quer que os dados específicos do usuário para as estatísticas sejam salvos?"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:696
+msgid "Save Impressions"
+msgstr "Salvar impressões"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:697
+msgid "Do you want unique or all impressions to be saved for statistics?"
+msgstr ""
+"Você quer impressões únicas ou todas as impressões sejam salvas para as "
+"estatísticas?"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:702
+msgid "Unique Impressions"
+msgstr "Impressões Únicas"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:705
+msgid "All Impressions"
+msgstr "Todas as Impressões"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:713
+msgid "Save Clicks"
+msgstr "Salvar cliques"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:714
+msgid "Do you want unique or all clicks to be saved for statistics?"
+msgstr ""
+"Você quer que os cliques únicos ou todos os cliques sejam salvos para as "
+"estatísticas?"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:719
+msgid "Unique Clicks"
+msgstr "Cliques únicos"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:722
+msgid "All Clicks"
+msgstr "Todos os cliques"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:730
+msgid "Days to save stats"
+msgstr "Dias para salvar estatísticas"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:731
+msgid ""
+"Choose the number of days you want to save statistics to the database. Keep "
+"this at 30 days or less to keep the database small."
+msgstr ""
+"Escolha o número de dias que você deseja salvar estatísticas no banco de "
+"dados. Mantenha 30 dias ou menos para manter o banco de dados pequeno."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:735
+msgid "Leave empty to save all stats (not recommended)"
+msgstr "Deixe em branco para salvar todas as estatísticas (não recomendado)"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:749
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:750
+msgid ""
+"When you are running Google Analytics for your website and you add your "
+"tracking / web property ID (UA-XXXX-Y), all statistics will be redirected to "
+"your Google Analytics page."
+msgstr ""
+"Quando você estiver executando o Google Analytics para o seu site e você "
+"adicionar seu rastreamento o ID (UA-XXXX-Y), todas as estatísticas serão "
+"redirecionadas para sua página do Google Analytics."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:755
+msgid "The tracking / web property ID. The format is UA-XXXX-Y"
+msgstr "Rastreamento / ID. O formato é UA-XXXX-Y"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:756
+msgid "You will find this ID on your Google Analytics page."
+msgstr "Você encontrará este ID na sua página do Google Analytics."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:773
+msgid "Style"
+msgstr "Estilo"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:778
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_options.php:49
+msgid "Custom CSS"
+msgstr "CSS personalizado"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:779
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_options.php:50
+msgid ""
+"If you need to customize some style for the Ads plugin you can add the "
+"custom CSS here."
+msgstr ""
+"Se você precisa personalizar o estilo do plugin de anúncios, você pode "
+"adicionar o CSS personalizado aqui."
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:798
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_options.php:68
+msgid "Save General Settings"
+msgstr "Salvar configurações gerais"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:820
+msgid ""
+"Register your copy of the WP PRO Advertising System to receive automatic "
+"plugin updates."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:824
+msgid "Where do I get the registration code?"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:881
+#, php-format
+msgid "Thanks for using the %s Wordpress plugin. We hope you like it."
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:893
+msgid "Helpdesk"
+msgstr ""
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_dashboard.php:899
+msgid "API"
+msgstr "API"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_options.php:17
+msgid "Ad Options"
+msgstr "Opções do AD"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_stats.php:19
+msgid "Statistics are disabled"
+msgstr "As estatísticas estão desativadas"
+
+#: D:\Desktop\wp_pro_ad_system/templates/pro_ad_stats.php:20
+msgid ""
+"You can enable statistics on the AD Dashboard under <em>General Settings</em>"
+msgstr ""
+
+#~ msgid ""
+#~ "<strong>Note:</strong> This image will not show if the %s or %s is "
+#~ "activated unless the \"Remove Buy and Sell Option\" is selected."
+#~ msgstr ""
+#~ "<strong>Nota:</strong> Esta imagem não aparecerá se o %s ou %s estiver "
+#~ "ativado a menos que \"Remover compra e venda de anúncios\" estiver "
+#~ "selecionado."
+
+#~ msgid "advertisers"
+#~ msgstr "anunciantes"
+
+#~ msgid "campaigns"
+#~ msgstr "campanhas"
+
+#~ msgid "ad zones"
+#~ msgstr "Blocos"
+
+#~ msgid ""
+#~ "Add-ons allow you to extend the possibilities of the WP Pro Advertising "
+#~ "System. This way you can build an advertising manager just the way you "
+#~ "like. No need to worry about stuff you'll never use. Only add the plugins "
+#~ "you really need."
+#~ msgstr ""
+#~ "Complementos permitem ampliar as possibilidades do sistema de "
+#~ "publicidade. Desta maneira que você pode gerenciar os anúncios do jeito "
+#~ "que você quiser. Não precisa se preocupar com coisas que você nunca vai "
+#~ "usar. Somente adicione os plugins que você realmente precisa."
+
+#~ msgid "Available add-ons"
+#~ msgstr "Add-ons disponíveis"
+
+#~ msgid "ADDON CONFIGURATION"
+#~ msgstr "CONFIGURAÇÃO DO ADDON"
+
+#~ msgid "Activated"
+#~ msgstr "Ativado"
+
+#~ msgid "Deactivated"
+#~ msgstr "Desativado"
+
+#~ msgid "New advertiser added."
+#~ msgstr "Novo anunciante adicionado."
+
+#~ msgid "This advertiser allready exists."
+#~ msgstr "Este anunciante já existe."
+
+#~ msgid "Advertiser updated."
+#~ msgstr "Anunciante atualizado."
+
+#~ msgid "Name is required."
+#~ msgstr "Nome é necessário."
+
+#~ msgid "Required fields"
+#~ msgstr "Campos obrigatórios"
+
+#~ msgid "Submit"
+#~ msgstr "Enviar"
+
+#~ msgid "REMOVE BANNER"
+#~ msgstr "REMOVER BANNER"
+
+#~ msgid "Are you sure you want to remove this Advertiser"
+#~ msgstr "Tem certeza que deseja remover este anunciante"
+
+#~ msgid "New adzone added."
+#~ msgstr "Novo Bloco adicionado."
+
+#~ msgid "This adzone allready exists."
+#~ msgstr "Esta block já existe."
+
+#~ msgid "Ad Zones"
+#~ msgstr "Blocos"
+
+#~ msgid "sec."
+#~ msgstr "seg."
+
+#~ msgid "at once"
+#~ msgstr "ao mesmo tempo"
+
+#~ msgid "Ads"
+#~ msgstr "Anúncios"
+
+#~ msgid "day"
+#~ msgstr "dia"
+
+#~ msgid ""
+#~ "If you want to use this ad zone on a fixed place inside your website, you "
+#~ "can use this"
+#~ msgstr ""
+#~ "Se você deseja usar esta zona de anúncio em um lugar fixo, você pode usar "
+#~ "isto"
+
+#~ msgid "Just copy the shortcode into your post's textfield"
+#~ msgstr "Basta copiar o shortcode no campo de texto do seu post"
+
+#~ msgid "REMOVE ADZONE"
+#~ msgstr "REMOVER BLOCO"
+
+#~ msgid "Are you sure you want to remove this Adzone"
+#~ msgstr "Tem certeza que deseja remover este BLOCO"
+
+#~ msgid "YES REMOVE"
+#~ msgstr "SIM REMOVER"
+
+#~ msgid "New banner added."
+#~ msgstr "Novo banner adicionado."
+
+#~ msgid "This banner allready exists."
+#~ msgstr "Este banner já existe."
+
+#~ msgid "choose a banner type."
+#~ msgstr "escolha um tipo de banner."
+
+#~ msgid ""
+#~ "No advertiser and/or campaign selected. A banner needs to be linked to an "
+#~ "advertiser and a campaign."
+#~ msgstr ""
+#~ "Nenhum anunciante e/ou campanha selecionado. É ncesssário que o banner "
+#~ "seja ligado a um anunciante e uma campanha."
+
+#~ msgid "Show banners for"
+#~ msgstr "Exibir banners por"
+
+#~ msgid "No campaigns."
+#~ msgstr "Não há campanhas."
+
+#~ msgid "Add new banner"
+#~ msgstr "Adicionar Novo banner"
+
+#~ msgid "Destination url"
+#~ msgstr "Url de Destino"
+
+#~ msgid "Show banner for every country"
+#~ msgstr "Mostrar banner para cada país"
+
+#~ msgid ""
+#~ "Select a country here if you want to show this banner to that specific "
+#~ "country only"
+#~ msgstr ""
+#~ "Selecione um país aqui se você quiser exibir este banner para esse país "
+#~ "específico"
+
+#~ msgid "Choose a banner type"
+#~ msgstr "Escolha um tipo de banner"
+
+#~ msgid "OPTION"
+#~ msgstr "OPÇÃO"
+
+#~ msgid "Upload a banner from your computer"
+#~ msgstr "Enviar banner do seu computador"
+
+#~ msgid "File"
+#~ msgstr "Arquivo"
+
+#~ msgid "Link an external banner"
+#~ msgstr "Vincular um banner externo"
+
+#~ msgid "HTML banners will not be visible in statistics"
+#~ msgstr "Banners HTML não serão visíveis nas estatísticas"
+
+#~ msgid "has no campaigns"
+#~ msgstr "não tem nenhuma campanha"
+
+#~ msgid "You need to"
+#~ msgstr "Você precisa"
+
+#~ msgid "in order to add banners"
+#~ msgstr "para adicionar banners"
+
+#~ msgid "unknown"
+#~ msgstr "desconhecido"
+
+#~ msgid "No available adzones for this banner size"
+#~ msgstr "Nenhum BLoco disponível para esse tamanho de banner"
+
+#~ msgid "create new adzone"
+#~ msgstr "criar novo bloco"
+
+#~ msgid "update"
+#~ msgstr "atualizar"
+
+#~ msgid "Are you sure you want to remove this Banner"
+#~ msgstr "Tem certeza que deseja remover este Banner"
+
+#~ msgid "New campaign added."
+#~ msgstr "Nova campanha adicionada."
+
+#~ msgid "This campaign allready exists."
+#~ msgstr "Essa campanha já existe."
+
+#~ msgid ""
+#~ "No advertiser selected. A campaign needs to be linked to an advertiser."
+#~ msgstr ""
+#~ "Nenhum anunciante selecionado. Uma campanha precisa ser ligadq a um "
+#~ "anunciante."
+
+#~ msgid "don't expire? leave empty"
+#~ msgstr "não expira? Deixe em branco"
+
+#~ msgid "Ended"
+#~ msgstr "Terminada"
+
+#~ msgid "Paused"
+#~ msgstr "Em pausa"
+
+#~ msgid "REMOVE CAMPAIGN"
+#~ msgstr "REMOVER CAMPANHA"
+
+#~ msgid "Are you sure you want to remove this Campaign"
+#~ msgstr "Tem certeza que deseja remover esta campanha"
+
+#~ msgid "All data"
+#~ msgstr "Todos os dados"
+
+#~ msgid "Select specific date range"
+#~ msgstr "Selecione o intervalo de datas específicas"
+
+#~ msgid "Impr"
+#~ msgstr "Impressões"
+
+#~ msgid "HTML banner. Clicks cannot be tracked"
+#~ msgstr "Banners HTML. Cliques não podem ser rastreados."

@@ -1,0 +1,3224 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Pro Ad System v4.5.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-01-27 15:34+0100\n"
+"PO-Revision-Date: 2016-01-27 15:34+0100\n"
+"Last-Translator: Niels <nielsmus@hotmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ wpproads
+#: classes/Pro_Ads_Adzones.php:796
+#: classes/Pro_Ads_Adzones.php:1029
+#: classes/Pro_Ads_Adzones.php:1075
+msgid "Woops! we cannot find the adzone your looking for!"
+msgstr "Ops!, no hemos podido encontrar la Zona de banners que buscas."
+
+# @ wpproads
+#: classes/Pro_Ads_Adzones.php:1121
+msgid "Full Width (100%)"
+msgstr "Ancho completo (100%)"
+
+# @ wpproads
+#: classes/Pro_Ads_Api.php:242
+msgid "WP Pro Ad System Error: function \"pro_ad_display_adzone\" does not exists."
+msgstr "WP Pro Ad System Error: función \"pro_ad_display_adzone\" no existe."
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:50
+msgid "Canvas not suported"
+msgstr "Lienzo de trabajo no admitido"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:54
+msgid "Clear"
+msgstr "Limpiar"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:55
+msgid "Preview Banner"
+msgstr "Previsualizar bammer"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:56
+msgid "Save Banner"
+msgstr "Guardar banner"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:57
+msgid "Export Banner (.PNG)"
+msgstr "Exportar banner (.PNG)"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:78
+msgid "Banner Size"
+msgstr "Tamaño del banner"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:83
+msgid "-- Select your banner size --"
+msgstr "-- Elige el tamaño de tu banner --"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:112
+msgid "Custom"
+msgstr "Personalizado"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:118
+msgid "Width:"
+msgstr "Ancho:"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:119
+msgid "Height:"
+msgstr "Alto:"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:121
+msgid "Update"
+msgstr "Actualizar"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:130
+msgid "+ Edit Elements"
+msgstr "+ Editar elementos"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:133
+msgid "Edit the current selected element."
+msgstr "Editar el elemento seleccionado."
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:136
+msgid "Remove selected item"
+msgstr "Eliminar elemento seleccionado"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:137
+msgid "Move Up"
+msgstr "Mover arriba"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:138
+msgid "Move Down"
+msgstr "Mover abajo"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:141
+msgid "Update Element"
+msgstr "Actualizar elemento"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:150
+msgid "+ Add Image"
+msgstr "+ Añadir imagen"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:156
+msgid "Select Image"
+msgstr "Elegir imagen"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:161
+#: classes/Pro_Ads_Banner_Creator.php:182
+#: classes/Pro_Ads_Banner_Creator.php:198
+msgid "Opacity"
+msgstr "Opacidad"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:162
+msgid "Add Image"
+msgstr "Añadir imagen"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:171
+msgid "+ Add Object"
+msgstr "+ Añadir objeto"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:176
+msgid "Circle"
+msgstr "Círculo"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:177
+msgid "Rectangle"
+msgstr "Rectángulo"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:178
+msgid "Triangle"
+msgstr "Triángulo"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:183
+msgid "Add Object"
+msgstr "Añadir objeto"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:192
+msgid "+ Add Text"
+msgstr "+ Añadir texto"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:195
+msgid "Text"
+msgstr "Texto"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:196
+msgid "Font Color"
+msgstr "Color del texto"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:197
+msgid "Border Color"
+msgstr "Color del borde"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:203
+msgid "Arial"
+msgstr "Arial"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:204
+msgid "Impact"
+msgstr "Impact"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:207
+#, php-format
+msgid "You can add any %s."
+msgstr "Puedes añadir %s."
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:237
+msgid "Font Size"
+msgstr "Tamaño del texto"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:238
+msgid "Border Width"
+msgstr "Ancho del borde"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:239
+msgid "Add Text"
+msgstr "Añadir texto"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:389
+#: classes/Pro_Ads_Banner_Creator.php:419
+msgid "No element selected."
+msgstr "Ningún elemento seleccionado."
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:696
+msgid "Remove"
+msgstr "Eliminar"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:697
+msgid "Drag to change layer index."
+msgstr "Arrastra para cambiar el índice de la capa."
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:698
+msgid "ID:"
+msgstr "ID:"
+
+# @ wpproads
+#: classes/Pro_Ads_Banner_Creator.php:854
+msgid "You need to save the banner before you can use the Visual Banner Creator."
+msgstr "Necesitas guardar el banner antes de utilizar el Visual Banner Creator"
+
+# @ wpproads
+#: classes/Pro_Ads_Banners.php:48
+msgid "Active"
+msgstr "Activo"
+
+# @ wpproads
+#: classes/Pro_Ads_Banners.php:55
+msgid "Inactive"
+msgstr "Desactivado"
+
+# @ wpproads
+#: classes/Pro_Ads_Banners.php:62
+msgid "Awaiting Review"
+msgstr "Esperando revisión"
+
+# @ wpproads
+#: classes/Pro_Ads_Banners.php:69
+#: classes/Pro_Ads_Campaigns.php:66
+msgid "Draft"
+msgstr "Borrador"
+
+# @ wpproads
+#: classes/Pro_Ads_Banners.php:279
+#: classes/Pro_Ads_Banners.php:285
+msgid "No banner Selected."
+msgstr "Ningún banner seleccionado."
+
+# @ wpproads
+#: classes/Pro_Ads_Banners.php:424
+msgid "Advertise Here"
+msgstr "Anúnciese aquí"
+
+# @ wpproads
+#: classes/Pro_Ads_Campaigns.php:45
+msgid "Running"
+msgstr "Ejecutando"
+
+# @ wpproads
+#: classes/Pro_Ads_Campaigns.php:52
+msgid "Finished"
+msgstr "Finalizado"
+
+# @ wpproads
+#: classes/Pro_Ads_Campaigns.php:59
+msgid "On Hold"
+msgstr "En espera"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:43
+#: classes/Pro_Ads_Init.php:742
+msgid "Advertisers"
+msgstr "Anunciantes"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:45
+#: classes/Pro_Ads_CPTs.php:422
+#: classes/Pro_Ads_CPTs.php:466
+msgid "Advertiser"
+msgstr "Anunciante"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:51
+#: classes/Pro_Ads_Init.php:749
+msgid "Campaigns"
+msgstr "Campañas"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:53
+#: classes/Pro_Ads_CPTs.php:467
+msgid "Campaign"
+msgstr "Campaña"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:59
+#: classes/Pro_Ads_Init.php:756
+msgid "Banners"
+msgstr "Banners"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:61
+msgid "Banner"
+msgstr "Banner"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:67
+#: classes/Pro_Ads_Init.php:763
+msgid "Adzones"
+msgstr "Zonas de publicidad"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:69
+#: classes/Pro_Ads_CPTs.php:471
+msgid "Adzone"
+msgstr "Zona de publicidad"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:80
+#: classes/Pro_Ads_CPTs.php:81
+#, php-format
+msgid "Add New %s"
+msgstr "Añade nuevo %s"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:82
+#, php-format
+msgid "Edit %s"
+msgstr "Edita %s"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:83
+#, php-format
+msgid "New %s"
+msgstr "Nuevo %s"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:84
+#, php-format
+msgid "View %s"
+msgstr "Ver %s"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:85
+#, php-format
+msgid "Search %s"
+msgstr "Busca %s"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:86
+#, php-format
+msgid "No %s Found"
+msgstr "%s no encontrado"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:87
+#, php-format
+msgid "No %s Found in Trash"
+msgstr "%s no encontrado en papelera"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:137
+#: classes/Pro_Ads_CPTs.php:393
+#: classes/Pro_Ads_CPTs.php:465
+#: classes/Pro_Ads_CPTs.php:681
+msgid "Name"
+msgstr "Nombre"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:141
+msgid "Banner Title"
+msgstr "Título del banner"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:145
+msgid "Adzone Title"
+msgstr "Título de la Zona de banner"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:289
+#: classes/Pro_Ads_CPTs.php:302
+msgid "Show All Advertisers"
+msgstr "Mostrar todos los anunciantes"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:312
+msgid "Show All Campaigns"
+msgstr "Mostrar todas las campañas"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:394
+msgid "Email"
+msgstr "Email"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:395
+msgid "Wordpress ID"
+msgstr "Wordpress ID"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:396
+#: classes/Pro_Ads_CPTs.php:425
+#: classes/Pro_Ads_CPTs.php:469
+#: classes/Pro_Ads_CPTs.php:685
+msgid "Stats"
+msgstr "Estadísticas"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:413
+#: classes/Pro_Ads_CPTs.php:449
+#: classes/Pro_Ads_CPTs.php:599
+#: classes/Pro_Ads_CPTs.php:721
+#: classes/Pro_Ads_Init.php:404
+#: classes/Pro_Ads_Init.php:770
+msgid "Statistics"
+msgstr "Estadísticas"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:423
+#: classes/Pro_Ads_CPTs.php:705
+#: classes/Pro_Ads_CPTs.php:706
+msgid "Linked Banners"
+msgstr "Banners enlazados"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:424
+#: classes/Pro_Ads_CPTs.php:468
+msgid "Status"
+msgstr "Estado"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:437
+msgid "Not linked to an advertiser!"
+msgstr "No enlazado con ningún anunciante!"
+
+#: classes/Pro_Ads_CPTs.php:464
+msgid "<img src=\""
+msgstr ""
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:536
+msgid "Edit this item"
+msgstr "Editar este item"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:536
+msgid "Edit"
+msgstr "Editar"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:537
+msgid "Edit this item inline"
+msgstr "Editar este item en línea"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:537
+msgid "Quick&nbsp;Edit"
+msgstr "Edición&nbsp;rápida"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:543
+msgid "Restore this item from the Trash"
+msgstr "Restaurar este item de la papelera"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:543
+msgid "Restore"
+msgstr "Restaurar"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:545
+msgid "Move this item to the Trash"
+msgstr "Mover este item a la papelera"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:545
+msgid "Trash"
+msgstr "Papelera"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:550
+msgid "Delete this item permanently"
+msgstr "Borrar este item de forma permanente"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:550
+msgid "Delete Permanently"
+msgstr "Borrar de forma permanente"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:558
+#, php-format
+msgid "Preview &#8220;%s&#8221;"
+msgstr "Previsualizar &#8220;%s&#8221;"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:558
+msgid "Preview"
+msgstr "Previsualizar"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:560
+#, php-format
+msgid "View &#8220;%s&#8221;"
+msgstr "Ver &#8220;%s&#8221;"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:560
+msgid "View"
+msgstr "Ver"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:591
+msgid "Campaign status:"
+msgstr "Estado de la campaña:"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:628
+msgid "Loading..."
+msgstr "Cargando..."
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:630
+msgid "No adzone selected."
+msgstr "Zona de publicidad no seleccionada."
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:632
+msgid "Recommended"
+msgstr "Recomendado"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:660
+msgid "All"
+msgstr "Todos"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:682
+msgid "Size"
+msgstr "Tamaño"
+
+# @ wpproads
+#: classes/Pro_Ads_CPTs.php:715
+msgid "Get code"
+msgstr "Obtener código"
+
+# @ wpproads
+#: classes/Pro_Ads_Custom_Widgets.php:9
+#: classes/Pro_Ads_Custom_Widgets.php:10
+msgid "Display your ads."
+msgstr "Mostrar tus anuncios."
+
+# @ default
+#: classes/Pro_Ads_Custom_Widgets.php:51
+msgid "Select your adzone:"
+msgstr "Elige tu Zona de banner:"
+
+# @ wpproads
+#: classes/Pro_Ads_Custom_Widgets.php:54
+#, fuzzy
+msgid "Select an Adzone"
+msgstr "Elige una Zona de banners"
+
+#: classes/Pro_Ads_Custom_Widgets.php:78
+msgid "Or add the adzone shortcode:"
+msgstr ""
+
+# @ wpproads
+#: classes/Pro_Ads_Custom_Widgets.php:98
+msgid "AD Slot."
+msgstr "Espacio de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Custom_Widgets.php:99
+msgid "Pro Ads - AD Slot."
+msgstr "Anuncios Pro - Espacio de anuncio."
+
+# @ default
+#: classes/Pro_Ads_Custom_Widgets.php:135
+msgid "Select the ad slot device type:"
+msgstr "Elige el tipo de dispositivo del espacio del anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Custom_Widgets.php:150
+msgid "Select a unique ID to link banners:"
+msgstr "Elige un ID único para enlazar los banners:"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:337
+msgid "VARIABLE"
+msgstr "VARIABLE"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:338
+msgid "FIXED"
+msgstr "FIJO"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:384
+#: classes/Pro_Ads_Init.php:385
+#: classes/Pro_Ads_Init.php:395
+#: classes/Pro_Ads_Init.php:396
+#: classes/Pro_Ads_Init.php:734
+msgid "Advertising"
+msgstr "Publicidad"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:403
+msgid "AD Dashboard"
+msgstr "Tablero de anuncios"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:795
+#, php-format
+msgid "If you like <strong>WP PRO Advertising System</strong> please leave us a <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> rating on <a href=\"%1$s\" target=\"_blank\">Codecanyon.net</a>. A huge thanks in advance!"
+msgstr "Si te gusta <strong>WP PRO Advertising System</strong> por favor déjanos <a href=\"%1$s\" target=\"_blank\">&#9733;&#9733;&#9733;&#9733;&#9733;</a> de votación en  <a href=\"%1$s\" target=\"_blank\">Codecanyon.net</a>. ¡Muchísimas gracias por adelantado!"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:822
+#, php-format
+msgid "<p><strong>%s - Statistics Update.</strong> A Major statistics update/improvement is vailable. Its recommended but your stats will start from zero. Note: stats will never be removed. You can always switch back to the old statistics version even after updating to the new one. (General Settings -> Statistics -> Statistics version)</p>"
+msgstr "<p><strong>%s - Actualización de Estadísticas.</strong> Está disponible una importante actualización/mejora de las estadísticas. Se recomienda aplicarla pero tus datos estadísticos comenzarán desde cero. Nota: tus datos anteriores no se eliminarán. Siempre podrás volver a la versión antigua de las estadísticas. (Ajustes generales -> Estadísticas -> Versión de estadísticas)</p>"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:822
+msgid "Use New Statistics"
+msgstr "Usar Nuevas Estadísticas"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:822
+msgid "Keep using Old Statistics"
+msgstr "Conservar las viejas estadísticas"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:841
+#, php-format
+msgid "<p><strong>%s - Settings update required.</strong> Please update the Statistics settings. Select your option below.</p>"
+msgstr "<p><strong>%s - Ajustes obligatorios.</strong> Por favor, actualiza los ajustes de estadísticas. Elige tu opción aquí abajo.</p>"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:841
+msgid "Enable Statistics"
+msgstr "Habilitar estadísticas"
+
+# @ wpproads
+#: classes/Pro_Ads_Init.php:841
+msgid "Disable Statistics"
+msgstr "Deshabilitar estadísticas"
+
+# @ wpproads
+#: classes/Pro_Ads_Responsive.php:13
+#: classes/Pro_Ads_Statistics_new.php:1076
+msgid "Desktop"
+msgstr "Escritorio"
+
+# @ wpproads
+#: classes/Pro_Ads_Responsive.php:14
+msgid "Adzone size when viewed from a desktop."
+msgstr "Tamaño de la Zona de banner cuando se visualice desde escritorio (ordenador)."
+
+# @ wpproads
+#: classes/Pro_Ads_Responsive.php:20
+#: classes/Pro_Ads_Statistics_new.php:1077
+msgid "Tablet"
+msgstr "Tablet"
+
+# @ wpproads
+#: classes/Pro_Ads_Responsive.php:21
+msgid "Adzone size when viewed from a tablet in portrait mode."
+msgstr "Tamaño de la Zona de anuncio cuando se vea desde una tablet en formato vertical."
+
+# @ wpproads
+#: classes/Pro_Ads_Responsive.php:27
+msgid "Phone"
+msgstr "Teléfonos móviles"
+
+# @ wpproads
+#: classes/Pro_Ads_Responsive.php:28
+msgid "Adzone size when viewed from a phone in portrait mode."
+msgstr "Tamaño de la Zona de anuncio cuando se vea desde un teléfono en formato vertical."
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:54
+#: classes/Pro_Ads_Statistics.php:241
+#: classes/Pro_Ads_Statistics.php:274
+#: classes/Pro_Ads_Statistics.php:341
+#: classes/Pro_Ads_Statistics.php:392
+#: classes/Pro_Ads_Statistics_new.php:54
+#: classes/Pro_Ads_Statistics_new.php:266
+#: classes/Pro_Ads_Statistics_new.php:317
+#: classes/Pro_Ads_Statistics_new.php:416
+#: classes/Pro_Ads_Statistics_new.php:467
+msgid "Clicks"
+msgstr "Clicks"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:54
+#: classes/Pro_Ads_Statistics.php:342
+#: classes/Pro_Ads_Statistics_new.php:54
+#: classes/Pro_Ads_Statistics_new.php:417
+msgid "Impressions"
+msgstr "Impresiones"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:85
+#: classes/Pro_Ads_Statistics_new.php:108
+msgid "Total amount of clicks:"
+msgstr "Total de clicks:"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:86
+#: classes/Pro_Ads_Statistics_new.php:109
+msgid "Total amount of impressions:"
+msgstr "Total de impresiones:"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:87
+#: classes/Pro_Ads_Statistics_new.php:110
+msgid "CTR:"
+msgstr "CTR (ratio de cliqueo)"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:88
+#: classes/Pro_Ads_Statistics_new.php:111
+msgid "All Statistics"
+msgstr "Todas las estadísticas"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:96
+#: classes/Pro_Ads_Statistics_new.php:119
+#, php-format
+msgid "Total amount of clicks in %s:"
+msgstr "Total de clicks en %s:"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:97
+#: classes/Pro_Ads_Statistics_new.php:120
+#, php-format
+msgid "Total amount of impressions in %s:"
+msgstr "Total de impresiones en %s:"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:98
+#: classes/Pro_Ads_Statistics.php:113
+#: classes/Pro_Ads_Statistics.php:127
+#: classes/Pro_Ads_Statistics_new.php:121
+#: classes/Pro_Ads_Statistics_new.php:136
+#: classes/Pro_Ads_Statistics_new.php:150
+#, php-format
+msgid "CTR (%s):"
+msgstr "CTR (%s):"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:99
+#: classes/Pro_Ads_Statistics.php:114
+#: classes/Pro_Ads_Statistics.php:128
+#: classes/Pro_Ads_Statistics_new.php:122
+#: classes/Pro_Ads_Statistics_new.php:137
+#: classes/Pro_Ads_Statistics_new.php:151
+#, php-format
+msgid "Statistics for %s"
+msgstr "Estadísticas para %s"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:111
+#: classes/Pro_Ads_Statistics_new.php:134
+#, php-format
+msgid "All clicks on %s:"
+msgstr "Todos los clicks en %s:"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:112
+#: classes/Pro_Ads_Statistics_new.php:135
+#, php-format
+msgid "All impressions on %s:"
+msgstr "Todas las impresiones en %s:"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:125
+#: classes/Pro_Ads_Statistics_new.php:148
+#, php-format
+msgid "Clicks on %s:"
+msgstr "Clicks en %s:"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:126
+#: classes/Pro_Ads_Statistics_new.php:149
+#, php-format
+msgid "Impressions on %s:"
+msgstr "Impresiones en %s:"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:290
+#: classes/Pro_Ads_Statistics_new.php:336
+#, php-format
+msgid "<div class=\"stats_group_info_box\"><h2>%s stats for: %s</h2></div>"
+msgstr "<div class=\"stats_group_info_box\"><h2>%s estadísticas para: %s</h2></div>"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:344
+#: classes/Pro_Ads_Statistics_new.php:419
+msgid "Export PDF"
+msgstr "Exportar a PDF"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:346
+#: classes/Pro_Ads_Statistics_new.php:421
+msgid "All Time"
+msgstr "Todos los tiempos"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:415
+#: classes/Pro_Ads_Statistics.php:420
+#: classes/Pro_Ads_Statistics.php:429
+#: classes/Pro_Ads_Statistics_new.php:492
+#: classes/Pro_Ads_Statistics_new.php:497
+#: classes/Pro_Ads_Statistics_new.php:506
+msgid "in"
+msgstr "en"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:439
+#: classes/Pro_Ads_Statistics_new.php:516
+msgid "on"
+msgstr "en"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics.php:449
+#: classes/Pro_Ads_Statistics_new.php:526
+msgid "between"
+msgstr "entre"
+
+# @ wpproads
+#: classes/Pro_Ads_Statistics_new.php:293
+#, fuzzy
+msgid "Device Stats"
+msgstr "Deshabilitar estadísticas"
+
+#: classes/Pro_Ads_Statistics_new.php:589
+msgid "No stats available."
+msgstr ""
+
+#: classes/Pro_Ads_Statistics_new.php:1078
+msgid "Mobile"
+msgstr ""
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:45
+msgid "Post tag [shortcode]"
+msgstr "Etiqueta de post [shortcode]"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:46
+msgid "If you want to show this ad zone into a single post/page you can use this <em>Post Tag</em>. Just copy the shortcode into your post's textfield"
+msgstr "Si quieres mostrar esta Zona de banners en un post/página puedes usar esta <em>etiqueta de post</em>. Solo copia el <em>shortcode</em> en la edición de texto de tu post/página."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:50
+msgid "<strong>Shortcode attributes:</strong> id = int (the adzone id), popup = boolean (open the adzone as a popup)"
+msgstr "<strong>Atributos del <em>shortcode</em>:</strong> id = entero (el id de la Zona de banners), popup = booleano (abre la zona como un popup)"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:51
+msgid "Open Shortcode Editor"
+msgstr "Abrir editor de shortcode"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:63
+msgid "Template tag"
+msgstr "Etiqueta de plantilla"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:64
+msgid "If you want to use this ad zone on a fixed place inside your website, you can use this <em>Template tag</em>. Just copy the function into your website template, there where you want to show the banners."
+msgstr "Si quieres usar una zona de anuncioes en un lugar fijo de tu web, puedes usar esta <em>Etiqueta de Plantilla</em>. Simplemente copia la función en la plantilla de la web donde quieras que se muestren los banners."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:74
+msgid "Iframe tag"
+msgstr "Etiqueta de IFrame"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:75
+msgid "The Iframe tag allows you to export adzones to other websites. This way you can manage adzones on 1 site but have them displayed on multiple websites at the same time."
+msgstr "La Etiqueta de IFrame te permite exportar las zonas de anuncios a otras webs. De esta manera puedes administrar las zonas de anuncios en un sitio pero visualizarlas en múltiples webs al mismo tiempo."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:96
+msgid "RSS feed"
+msgstr "RSS"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:97
+msgid "The RSS feed of this adzone. Ready to use with MailChimp newsletters."
+msgstr "El RSS de esta Zona de banners. Lista para utilizar con boletines de noticias MailChimp."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:150
+msgid "Drag the banners to change the order of appearance."
+msgstr "Arrastra los banners para cambiar el orden de aparición."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:154
+msgid "Updating"
+msgstr "Actualizadno"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:164
+msgid "Drag"
+msgstr "Arrastrar"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:177
+msgid "No linked banners found."
+msgstr "No se han encontrado banners enlazados."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:217
+msgid "Browser"
+msgstr "Navegador"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:221
+#: classes/Pro_Ads_Templates.php:231
+#: classes/Pro_Ads_Templates.php:243
+#: classes/Pro_Ads_Templates.php:253
+#: classes/Pro_Ads_Templates.php:263
+#: classes/Pro_Ads_Templates.php:273
+#: classes/Pro_Ads_Templates.php:283
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:89
+msgid "n/a"
+msgstr "n/d"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:227
+msgid "Platform"
+msgstr "Plataforma"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:239
+msgid "Country"
+msgstr "País"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:249
+msgid "City"
+msgstr "Ciudad"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:259
+msgid "IP adress"
+msgstr "Dirección IP"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:328
+msgid "Shortcode Generator"
+msgstr "Generador de shortcode"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:330
+msgid "Select the adzone you want to use. To add the shortcode click <em>Insert Shortdode</em>."
+msgstr "Elige la Zona de banners que quieras usar. Para añadir el shortcode pulsa <em>Insertar Shortcode</em>."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:338
+#: classes/Pro_Ads_Templates.php:439
+#: classes/Pro_Ads_Templates.php:685
+#: classes/Pro_Ads_Templates.php:962
+#: classes/Pro_Ads_Templates.php:1010
+#: classes/Pro_Ads_Templates.php:1142
+#: classes/Pro_Ads_Templates.php:1241
+#: classes/Pro_Ads_Templates.php:1312
+msgid "Click to change"
+msgstr "Click para cambiar"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:345
+#: classes/Pro_Ads_Templates.php:350
+#: classes/Pro_Ads_Templates.php:446
+#: classes/Pro_Ads_Templates.php:455
+msgid "Select an adzone"
+msgstr "Elige una Zona de banners"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:365
+#: classes/Pro_Ads_Templates.php:379
+#: classes/Pro_Ads_Templates.php:479
+msgid "Insert Shortcode"
+msgstr "Inserta un Shortcode"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:429
+msgid "Adzone Shortcode Editor"
+msgstr "Editor de shortcodes de Zona de banners"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:440
+#, php-format
+msgid "Selected Adzone: %s"
+msgstr "Zona de banners seleccionada: %s"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:446
+msgid "Selected adzone"
+msgstr "Zona de banners seleccionada"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:494
+msgid "Create Shortcode"
+msgstr "Crear Shortcode"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:495
+msgid "Close"
+msgstr "Cerrar"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:686
+msgid "Default options"
+msgstr "Opciones por defecto"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:692
+msgid "Ajax Load"
+msgstr "Carga con Ajax"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:693
+msgid "Load banners using ajax."
+msgstr "Cargar banners utilizando Ajax."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:697
+#: classes/Pro_Ads_Templates.php:710
+#: classes/Pro_Ads_Templates.php:974
+#: classes/Pro_Ads_Templates.php:1022
+#: classes/Pro_Ads_Templates.php:1035
+#: classes/Pro_Ads_Templates.php:1049
+#: classes/Pro_Ads_Templates.php:1062
+#: classes/Pro_Ads_Templates.php:1084
+#: classes/Pro_Ads_Templates.php:1154
+#: classes/Pro_Ads_Templates.php:1253
+#: classes/Pro_Ads_Templates.php:1287
+#: classes/Pro_Ads_Templates.php:1324
+#: classes/Pro_Ads_Vsc_Class.php:75
+#: classes/Pro_Ads_Vsc_Class.php:109
+#: classes/Pro_Ads_Vsc_Class.php:136
+#: classes/Pro_Ads_Vsc_Class.php:145
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:656
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1185
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1301
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1372
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1408
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1421
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1438
+msgid "No"
+msgstr "No"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:698
+#: classes/Pro_Ads_Templates.php:711
+#: classes/Pro_Ads_Templates.php:975
+#: classes/Pro_Ads_Templates.php:1023
+#: classes/Pro_Ads_Templates.php:1036
+#: classes/Pro_Ads_Templates.php:1048
+#: classes/Pro_Ads_Templates.php:1061
+#: classes/Pro_Ads_Templates.php:1085
+#: classes/Pro_Ads_Templates.php:1155
+#: classes/Pro_Ads_Templates.php:1254
+#: classes/Pro_Ads_Templates.php:1286
+#: classes/Pro_Ads_Templates.php:1325
+#: classes/Pro_Ads_Vsc_Class.php:75
+#: classes/Pro_Ads_Vsc_Class.php:109
+#: classes/Pro_Ads_Vsc_Class.php:136
+#: classes/Pro_Ads_Vsc_Class.php:145
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:657
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1186
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1302
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1373
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1409
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1422
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1439
+msgid "Yes"
+msgstr "Sí"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:700
+msgid "recommended if you are using a catching plugin"
+msgstr "recomendado si estás utilizando un plugin de cache"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:705
+msgid "Hide if logged in"
+msgstr "Ocultar si ha iniciado sesión"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:706
+msgid "Hide this adzone for logged in members."
+msgstr "Ocultar esta Zona de anuncios para usuarios con sesión iniciada."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:718
+msgid "CSS Class"
+msgstr "Clase CSS"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:719
+msgid "Add a class to the wrapping Adzone element."
+msgstr "Añade una clase al elemento que envuelve la Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:728
+msgid "Adzone align"
+msgstr "Alineación Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:729
+msgid "Selecting Left or Right will wrap content around your advertisement."
+msgstr "Eligiendo izquierda o derecha el contenido envolverá el anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:733
+msgid "Default"
+msgstr "Por defecto"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:734
+msgid "Left"
+msgstr "Izquierda"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:735
+msgid "Right"
+msgstr "Derecha"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:742
+msgid "Adzone info text."
+msgstr "Texto info de Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:747
+msgid "Adzone Text"
+msgstr "Texto de la Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:748
+msgid "Show a small text above, below or on top of the adzone."
+msgstr "Mostrar un pequeño texto encima, debajo o en la parte de arriba de la Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:752
+msgid "ex.: Advertisement"
+msgstr "ej.: PUBLICIDAD"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:757
+msgid "Adzone Text Image"
+msgstr "Imagen del texto de la Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:758
+msgid "Show an image above, below or on top of the adzone."
+msgstr "Mostrar una imagen encima, debajo o en la parte superior de la Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:761
+msgid "Image Url"
+msgstr "URL de la imagen"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:767
+msgid "Adzone Text Link"
+msgstr "Enlace del texto de la Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:768
+msgid "Add a link to the adzone info text."
+msgstr "Añadir un enlace al texto info de la Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:777
+msgid "Adzone Text Color"
+msgstr "Color texto Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:787
+msgid "Adzone Text Font Size"
+msgstr "Tamaño texto Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:788
+msgid "Select the font size for the adzone text."
+msgstr "Elige el tamaño del texto para la Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:806
+msgid "Adzone Text Decoration"
+msgstr "Decoración texto Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:807
+msgid "Select the text decoration for the info text."
+msgstr "Elige la decoración del texto de info."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:811
+msgid "None"
+msgstr "Ninguna"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:812
+msgid "Underline"
+msgstr "Subrayado"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:813
+msgid "Overline"
+msgstr "Línea superior"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:814
+msgid "Line Through"
+msgstr "Tachado"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:821
+msgid "Adzone Text Position"
+msgstr "Posición del texto de la Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:822
+msgid "Show the info text above, below or on top of the adzone."
+msgstr "Mostrar el texto info encima, debajo o en la parte superior de la Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:826
+#: classes/Pro_Ads_Templates.php:1337
+msgid "Select Position"
+msgstr "Elige posición"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:827
+msgid "Above adzone"
+msgstr "Encima"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:828
+msgid "Below adzone"
+msgstr "Debajo"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:829
+msgid "On top - right "
+msgstr "Arriba a la derecha "
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:830
+msgid "On top - left "
+msgstr "Arriba a la izquierda "
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:837
+msgid "Adzone Style."
+msgstr "Estilo de la Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:842
+msgid "Adzone padding"
+msgstr "Padding de la Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:843
+msgid "Select the padding for the adzone."
+msgstr "Elige el padding para la Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:847
+msgid "No Padding"
+msgstr "Sin padding"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:862
+msgid "Adzone Background Color"
+msgstr "Color de fondo de la Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:893
+msgid "Adzone border radius"
+msgstr "Radio del borde la Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:894
+msgid "Select a border radius if you want to add rounded corners to your adzone border."
+msgstr "Elige el radio del borde si quieres añadir esquinas redondeadas a tu Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:898
+msgid "No Border Radius"
+msgstr "Sin esquinas redondeadas"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:913
+msgid "Adzone border"
+msgstr "Borde de Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:914
+msgid "Select the border size for the adzone."
+msgstr "Elige el grosor del borde para la Zona de anuncio."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:918
+msgid "No Border"
+msgstr "Sin borde"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:933
+msgid "Adzone Border Color"
+msgstr "Color del borde de la Zona de anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:963
+msgid "Advanced Options"
+msgstr "Opciones avanzadas"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:969
+msgid "Fixed Adzone"
+msgstr "Zona de anuncios fija"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:970
+msgid "Make the adzone fixed when it reaches the top of the page. <strong>Note:</strong> This will only work for 1 adzone per page."
+msgstr "Fijar la Zona de anuncio cuando alcance la parte superior de la página. <strong>Nota:</strong> Esto solo funcionará en 1 Zona de anuncio por página."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:982
+#, fuzzy
+msgid "Fixe Adzone End"
+msgstr "Zona de anuncios fija"
+
+#: classes/Pro_Ads_Templates.php:983
+msgid "Add the ID or class from the div when the fixed adzone should stop."
+msgstr ""
+
+#: classes/Pro_Ads_Templates.php:987
+msgid "Make sure to add . or # before the class/ID name"
+msgstr ""
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1011
+msgid "Popup options"
+msgstr "Opciones del popup"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1017
+msgid "Open Adzone as a Popup"
+msgstr "Abrir zona de anuncio como un popup"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1018
+msgid "Do you want the adzone to open as a popup?"
+msgstr "Quieres que la Zona de banners se abra como un popup?"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1030
+msgid "Exit Popup"
+msgstr "Cerrar popup"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1031
+msgid "Opens the popup when users exit the page."
+msgstr "Abre un popup cuando el usuario sale de la página."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1043
+#, fuzzy
+msgid "Popup Close Button"
+msgstr "Opciones del popup"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1044
+#, fuzzy
+msgid "Do you want to show a close button for the popup?"
+msgstr "Quieres que la Zona de banners se abra como un popup?"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1056
+#, fuzzy
+msgid "Popup Cookie"
+msgstr "Opciones del popup"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1057
+#, fuzzy
+msgid "Do you want to limit the popup ad by cookie?"
+msgstr "¿Quieres añadir una barra personalizada de administración?"
+
+#: classes/Pro_Ads_Templates.php:1069
+msgid "Popup Auto Close Seconds"
+msgstr ""
+
+#: classes/Pro_Ads_Templates.php:1070
+msgid "The amount of time (in seconds) to show the popup."
+msgstr ""
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1073
+#, fuzzy
+msgid "sec."
+msgstr "Segs."
+
+#: classes/Pro_Ads_Templates.php:1074
+msgid "This will only work for popups without a closing button."
+msgstr ""
+
+# @ default
+#: classes/Pro_Ads_Templates.php:1079
+#, fuzzy
+msgid "Hide Content Background"
+msgstr "La Zona de banner es el fondo"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1080
+#, fuzzy
+msgid "Do you want to hide the background for the popup content?"
+msgstr "¿Quieres que se oculte la Zona de banners si está vacía?"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1092
+#: classes/Pro_Ads_Vsc_Class.php:82
+msgid "Popup Background Color"
+msgstr "Color de fondo del popup"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1102
+msgid "Popup Opacity"
+msgstr "Opacidad del popup"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1143
+msgid "Background ad options"
+msgstr "Opciones del fondo del anuncio"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1149
+msgid "Load Adzone as Background"
+msgstr "Cargar zona de anuncio como fondo"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1150
+msgid "Do you want the adzone to load as the page background?"
+msgstr "¿Quieres que la zona de anuncio se cargue como el fondo de la página?"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1162
+msgid "Background Container"
+msgstr "Contenedor del fondo"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1163
+msgid "Select the main website container. Default <strong>body</strong>"
+msgstr "Seleccione el contenedor principal de la web. Por defecto: <strong>body</strong>"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1172
+#, fuzzy
+msgid "Background Container Type"
+msgstr "Contenedor del fondo"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1173
+#, fuzzy
+msgid "Select the type of the website container."
+msgstr "Elige la posición del anuncio flotante."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1178
+#, fuzzy
+msgid "ID"
+msgstr "ID:"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1179
+#, fuzzy
+msgid "Class"
+msgstr "Clase CSS"
+
+#: classes/Pro_Ads_Templates.php:1181
+msgid "leave empty if you are using the default body option."
+msgstr ""
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1186
+#: classes/Pro_Ads_Vsc_Class.php:125
+msgid "Background Color"
+msgstr "Color del fondo"
+
+# @ wpproads
+# @ default
+#: classes/Pro_Ads_Templates.php:1196
+#: classes/Pro_Ads_Templates.php:1202
+#: classes/Pro_Ads_Vsc_Class.php:143
+msgid "Repeat"
+msgstr "Repetir"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1201
+msgid "No repeat"
+msgstr "No repetir"
+
+# @ wpproads
+# @ default
+#: classes/Pro_Ads_Templates.php:1209
+#: classes/Pro_Ads_Templates.php:1215
+#: classes/Pro_Ads_Vsc_Class.php:134
+msgid "Stretch"
+msgstr "Estrechar"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1214
+msgid "No stretch"
+msgstr "No estrechar"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1217
+#: classes/Pro_Ads_Vsc_Class.php:137
+msgid "Stretch the background image to the full width of the page."
+msgstr "Estrechar la imagen de fondo para cuadrarla con el ancho de la página."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1242
+msgid "Corner Peel options"
+msgstr "Opciones de la Esquina Pelable"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1248
+msgid "Open Adzone as a Corner Peel"
+msgstr "Abrir zona de anuncio como Esquina Pelable"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1249
+msgid "Do you want the adzone to open as a corner curl?"
+msgstr "Quieres que la zona de anuncio se abra como un rizo de la esquina?"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1261
+msgid "Corner size Closed"
+msgstr "Tamaño de la esquina cerrado"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1262
+msgid "Set the size (in percentage % 1 - 100) for the corner when its closed."
+msgstr "Ajuste el tamaño (en porcentaje) para la esquina cuando está cerrada."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1266
+#: classes/Pro_Ads_Templates.php:1276
+#, php-format
+msgid "100% equals 300px"
+msgstr "100% equivale a 300px"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1271
+msgid "Corner size Open"
+msgstr "Tamaño de la esquina abierto"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1272
+msgid "Set the size (in percentage % 1 - 100) for the corner when its open."
+msgstr "Ajuste el tamaño (en porcentaje) para la esquina cuando está abierta."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1281
+msgid "Corner Animation"
+msgstr "Animación de la esquina"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1282
+msgid "Do you want the corner to be waving?"
+msgstr "¿Quieres que la esquina ondee?"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1313
+msgid "Fly In options"
+msgstr "Opciones Flotantes"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1319
+msgid "Open Adzone as a Fly In"
+msgstr "Abrir Zona de anuncio como Flotante"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1320
+msgid "Do you want the adzone to open as a fly in advertisement?"
+msgstr "¿Quieres que la Zona de anuncio se abra como un anuncio flotante?"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1332
+msgid "Fly In Position"
+msgstr "Posición flotante"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1333
+msgid "Select the position of the fly in ad."
+msgstr "Elige la posición del anuncio flotante."
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1338
+msgid "Bottom Left"
+msgstr "Abajo a la izquierda"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1339
+msgid "Bottom Center"
+msgstr "Abajo en el centro"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1340
+msgid "Bottom Right"
+msgstr "Abajo a la derecha"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1341
+msgid "Top Left"
+msgstr "Arriba a la izquierda"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1342
+msgid "Top Center"
+msgstr "Arriba en el centro"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1343
+msgid "Top Right"
+msgstr "Arriba a la derecha"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1350
+msgid "Delay"
+msgstr "Demora"
+
+# @ wpproads
+#: classes/Pro_Ads_Templates.php:1351
+msgid "Set the delay (in seconds) before the fly in ad should appear."
+msgstr "Ajusta la demora (en segundos) antes de que el anuncio flotante aparezca."
+
+# @ default
+#: classes/Pro_Ads_Vsc_Class.php:36
+msgid "Pro Advertising"
+msgstr "Pro Advertising"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:37
+msgid "Add advertisements to your website"
+msgstr "Añade anuncios a tu web"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:41
+msgid "Content"
+msgstr "Contenido"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:49
+msgid "<h2 style='margin-bottom:0'>Adzone</h2>"
+msgstr "<h2 style='margin-bottom:0'>Zona de banners</h2>"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:50
+msgid "<hr>"
+msgstr "<hr>"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:56
+msgid "Adzone ID"
+msgstr "ID Zona de banners"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:60
+msgid "Select the adzone you want to add."
+msgstr "Selecciona la Zona de banners que quieres añadir."
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:67
+msgid "<div style='background:#EEE; padding:5px;'><h2 style='margin:0'><small><em>Optional</em> - </small> Popup Ads</h2> Popup ads allow you to open the adzone in a popup window.<hr></div>"
+msgstr "<div style='background:#EEE; padding:5px;'><h2 style='margin:0'><small><em>Opcional</em> - </small> Anuncios Popup</h2> Anuncios Popup te permiten abrir el anuncio en una ventana emergente.<hr></div>"
+
+# @ default
+#: classes/Pro_Ads_Vsc_Class.php:73
+#: classes/Pro_Ads_Vsc_Class.php:91
+msgid "Adzone is Popup"
+msgstr "La Zona de banner es un popup"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:76
+msgid "Select if you want the adzone to open as a popup.<br><br>"
+msgstr "Elige si quiere abrir la Zona de banners como un popup.<br><br>"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:85
+msgid "Select the Popup background color"
+msgstr "Elige el color de fondo del popup"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:94
+msgid "Select the Popup background opacity.<br><br>"
+msgstr "Elige la opacidad de fondo del popup.<br><br>"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:101
+msgid "<div style='background:#EEE; padding:5px;'><h2 style='margin:0'><small><em>Optional</em> - </small> Background Ads</h2> Background ads make it possible to load your adzone as the post/page background.<hr></div>"
+msgstr "<div style='background:#EEE; padding:5px;'><h2 style='margin:0'><small><em>Opcional</em> - </small> Anuncios de Fondo</h2> Los anuncios de fondo te permiten cargar la Zona de banners como el fondo de un post/página.<hr></div>"
+
+# @ default
+#: classes/Pro_Ads_Vsc_Class.php:107
+msgid "Adzone is Background"
+msgstr "La Zona de banner es el fondo"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:110
+msgid "Select if you want the adzone to loaded as the page background."
+msgstr "Elige si quieres que la Zona de banners se cargue como fondo de la página."
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:116
+msgid "Container"
+msgstr "Contenedor"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:119
+msgid "Add the ID of your websites main container. (default <strong>body</strong>)"
+msgstr "Añade el ID de tu contenedor principal de la web (por defecto: <strong>body</strong>)"
+
+# @ wpproads
+#: classes/Pro_Ads_Vsc_Class.php:128
+msgid "Select the page background color"
+msgstr "Elige el color de fondo de la página"
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:52
+msgid "Welcome to WP PRO Advertising System"
+msgstr "Bienvenido al plugin: WP PRO Advertising System"
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:91
+msgid "Thank you for updating WP PRO Advertising System to version "
+msgstr "Gracias por actualizar el plugin WP PRO Advertising System a la versión "
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:93
+msgid "Thank you for purchasing WP PRO Advertising System "
+msgstr "Gracias por comprar el plugin WP PRO Advertising System "
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:95
+#, php-format
+msgid "%s%s"
+msgstr "%s%s"
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:101
+msgid "We hope you will enjoy the new features we have added!"
+msgstr "Esperamos que disfrutes las nuevas características que hemos añadido!"
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:103
+msgid "We hope you will enjoy the WP PRO Advertising System - mange your ads the easy way!"
+msgstr "Esperamos que disfrutes el plugin WP PRO Advertising System"
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:110
+msgid "FAQ"
+msgstr "FAQ"
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:112
+msgid "Support"
+msgstr "Soporte"
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:114
+msgid "News"
+msgstr "Noticias"
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:115
+msgid "Changelog"
+msgstr "Historial de cambios"
+
+# @ wpproads
+#: classes/Pro_Ads_Welcome.php:124
+msgid "Go to the AD Dashboard"
+msgstr "Ir al tablero de anuncios"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:27
+msgid "Adzone Size:"
+msgstr "Tamaño de la Zona de anuncio:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:30
+#, php-format
+msgid "%s Options:"
+msgstr "Opciones de %s:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:34
+msgid "Banner type:"
+msgstr "Tipo de banner:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:35
+msgid "Link banner to Adzone:"
+msgstr "Enlazar banner a una Zona de banners:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:36
+msgid "Optional Settings:"
+msgstr "Ajustes opcionales:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:37
+msgid "Banner Stats:"
+msgstr "Estadísticas de banner:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:62
+msgid "If the email address matches an existing Wordpress user account this advertiser will be linked to the WP account."
+msgstr "Si la dirección de email coincide con una cuenta de Wordpress este anunciante se enlazará su cuenta de WP."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:77
+msgid "Wordpress user"
+msgstr "Usuario de Wordpress"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:78
+msgid "This email is linked to an existing Wordpress user."
+msgstr "Este email está enlazado a un usuario actual de Wordpress."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:84
+msgid "Username:"
+msgstr "Usuario:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:88
+msgid "Name:"
+msgstr "Nombre:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:96
+msgid "Registered:"
+msgstr "Registrado:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:198
+msgid "Campaign for:"
+msgstr "Campaña para:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:199
+msgid "Select an advertiser for this campaign."
+msgstr "Elige un anunciante para esta campaña."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:203
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:379
+msgid "Select an advertiser"
+msgstr "Elige un anunciante"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:217
+msgid "Campaign period:"
+msgstr "Período de la campaña:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:218
+msgid "Add a start and end date por this campaign."
+msgstr "Añade una fecha de inicio y de fin para esta campaña."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:223
+msgid "Start date"
+msgstr "Fecha de inicio"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:224
+msgid "End date"
+msgstr "Fecha de fin"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:225
+msgid "Leave empty to keep campaign active."
+msgstr "Deja vacío para mantener activa esta campaña."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:238
+msgid "Campaign timing:"
+msgstr "Tiempo de campaña:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:239
+msgid "When should this campaign be running."
+msgstr "Cuando debería funcionar esta campaña."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:242
+msgid "From"
+msgstr "Desde"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:243
+msgid "Till"
+msgstr "Hasta"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:244
+msgid "Leave empty to keep campaign running all the time."
+msgstr "Déjalo vacío para mantener la campaña funcionando indefinidamente."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:374
+msgid "Banner for:"
+msgstr "Banner para:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:375
+msgid "Select an advertiser for this banner."
+msgstr "Elige un anunciante para este banner."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:388
+msgid "No Advertiser Selected!"
+msgstr "¡No has seleccionado un anunciante!"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:393
+msgid "Banner campaign:"
+msgstr "Campaña del banner:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:394
+msgid "Select a campaign for this banner."
+msgstr "Elige una campaña para este banner."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:400
+#: includes/ajax_functions.php:24
+msgid "Select a campaign"
+msgstr "Elige una campaña"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:410
+msgid "No Campaign Selected!"
+msgstr "¡No has seleccionado una campaña!"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:415
+msgid "Link"
+msgstr "Enlace"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:419
+msgid "http://www.yourlink.com"
+msgstr "http://www.ejemplo.com"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:425
+msgid "Target"
+msgstr "Destino"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:431
+msgid "_blank, Load in a new window."
+msgstr "_blank, carga en una nueva ventana."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:434
+msgid "_self, Load in the same frame as it was clicked."
+msgstr "_self, carga en el mismo marco en el que fue cliqueado."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:437
+msgid "_parent, Load in the parent frameset."
+msgstr "_parent, carga en el frame padre."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:440
+msgid "_top, Load in the full body of the window."
+msgstr "_top, carga en el cuerpo completo de la ventana."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:448
+msgid "Link Masking"
+msgstr "Enmascaramiento del enlace"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:449
+msgid "Turn Off link masking and link directly to the original banner url, When turned off its nut possible to save statistics for this banner."
+msgstr "Deshabilita el enmascaramiento del enlace para enlazar directamente con la URL del banner original. Cuando se deshabilita no es posible guardar estadísticas para este banner."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:454
+msgid "Use link masking (recommended)"
+msgstr "Utilizar enmascaramiento del enlace (recomendado)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:457
+msgid "Turn Off link masking"
+msgstr "Deshabilitar enmascaramiento del enlace"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:473
+msgid "Awaiting review"
+msgstr "Esperando revisión"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:644
+msgid "Main Banner"
+msgstr "Banner Principal"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:644
+#, php-format
+msgid "Optional, <small style=\"font-weight:normal;\">This banner will be visible when it is viewed from a %s</small>"
+msgstr "Opcional, <small style=\"font-weight:normal;\">Este banner será visible cuando se visualice desde %s</small>"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:651
+msgid "Hide banner on this device"
+msgstr "Ocultar banner en este dispositivo"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:652
+msgid "Do you want to hide this banner if its viewed from the selected device?"
+msgstr "¿Quieres ocultar este banner si es visto desde el dispositivo seleccionado?"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:664
+msgid "Banner Preview"
+msgstr "Previsualización de banner"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:674
+msgid "Option 1"
+msgstr "Opción 1"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:675
+msgid "Upload/Select a banner."
+msgstr "Subir/Elegir un banner."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:679
+msgid "Banner url"
+msgstr "URL del banner"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:680
+msgid "Upload Banner"
+msgstr "Subir banner"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:689
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1205
+msgid "Width"
+msgstr "Ancho"
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:690
+msgid "Image width in pixels."
+msgstr ""
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:694
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:707
+msgid "px."
+msgstr ""
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:702
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1210
+msgid "Height"
+msgstr "Alto"
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:703
+msgid "Image height in pixels."
+msgstr ""
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:727
+msgid "Option 2"
+msgstr "Opción 2"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:728
+#, fuzzy
+msgid "HTML Code (adSense, iframes, text ads, HTML5 ...)"
+msgstr "Código HTML (adSense, iframes, textos, etc)"
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:729
+msgid "<strong>Note:</strong> if you add HTML5 code make sure to check the HTML5 checkbox underneath."
+msgstr ""
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:735
+#, fuzzy
+msgid "Banner is HTML5?"
+msgstr "Banners"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:738
+#, fuzzy
+msgid "width"
+msgstr "Ancho"
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:738
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:739
+msgid "px"
+msgstr ""
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:739
+#, fuzzy
+msgid "height"
+msgstr "Alto"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:770
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:785
+msgid "Visual Banner Creator:"
+msgstr "Visual Banner Creator:"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:825
+msgid "Link to Adzone"
+msgstr "Enlazar a la Zona de anuncio"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:826
+msgid "Link your banner to one or more adzones."
+msgstr "Enlazar tu banner a una o más Zonas de anuncios."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:909
+msgid "You need to save the banner before you can add it to an adzone."
+msgstr "necesitas guardar el banner antes de añadirlo a una Zona de banners."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:932
+msgid "No Follow"
+msgstr "No Rastreo"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:933
+msgid "Do you want to add rel nofollow to your link?"
+msgstr "¿Quieres añadir \\\"rel nofollow\\\" a tu enlace?"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:938
+msgid "rel=\"nofollow\""
+msgstr "rel=\"nofollow\""
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:945
+msgid "Transition duration"
+msgstr "Duración de la transición"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:946
+msgid "Select the time this banner should be visible if its rotating. <strong>Note:</strong> This option will only work if the adzone has the BX Slider rotation type selected."
+msgstr "Elige el tiempo que este banner deberá estar visible mientras esté rotando <strong>Nota:</strong> Esta opción solo funcionara si la Zona de publicidad tiene seleccionada la rotación BX Slider."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:949
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1333
+msgid "Sec."
+msgstr "Segs."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:950
+msgid "Time in seconds."
+msgstr "Tiempo en segundos."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:956
+msgid "Flash Fallback image"
+msgstr "Imagen alternativa para Flash (si este falla)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:957
+msgid "Upload/Select a fallback image for flash banners on devices that not support Flash."
+msgstr "Sube/Elige una imagen alternativa para los banners de flash para dispositivos que no lo soporten."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:961
+msgid "fallback image url"
+msgstr "URL de la imagen alternativa"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:962
+msgid "Upload Fallback Image"
+msgstr "Subir imagen alternativa"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:964
+msgid "Image Preview"
+msgstr "Previsualización de imagen"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:965
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1458
+msgid "No image selected"
+msgstr "No se ha seleccionado una imagen"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:973
+msgid "Contract"
+msgstr "Contrato"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:974
+msgid "Select the contract type and duration for this banner."
+msgstr "Elige el tipo de contrato y la duración para este banner."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:979
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:989
+msgid "Amount of clicks"
+msgstr "Cantidad de clicks"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:979
+msgid "Pay per click"
+msgstr "Pago por click"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:980
+msgid "Amount of views"
+msgstr "Cantidad de vistas"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:980
+msgid "Pay per view"
+msgstr "Pago por vista"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:981
+msgid "Amount of days"
+msgstr "Cantidad de días"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:981
+msgid "Duration"
+msgstr "Duración"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:984
+msgid "Leave empty to keep this banner active."
+msgstr "Dejar vacío para mantener este banner activo."
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:999
+msgid "Categories"
+msgstr ""
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1000
+msgid "Select categories if you only want to show this banner for specific categories."
+msgstr ""
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1004
+msgid "All Categories."
+msgstr ""
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1053
+#, php-format
+msgid "<strong>NOTE:</strong> These stats should not be used for publication. They include every single unfiltered action. Stats for publication can be found on the %s."
+msgstr ""
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1053
+#, fuzzy
+msgid "full banner statistics page"
+msgstr "Estadísticas completas de banner"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1057
+msgid "Total Clicks"
+msgstr "Total de clicks"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1061
+msgid "Total Views"
+msgstr "Total de vistas"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1065
+msgid "CTR"
+msgstr "CTR"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1071
+msgid "Full banner statistics"
+msgstr "Estadísticas completas de banner"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1128
+#, php-format
+msgid "Size - %s"
+msgstr "Tamaño - %s"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1142
+msgid "Full Banner"
+msgstr "Clásico"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1145
+msgid "Skyscraper"
+msgstr "Rascacielos (120x600)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1148
+msgid "Leaderboard"
+msgstr "Leaderboard (728x90)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1151
+msgid "Medium Rectangle"
+msgstr "Rectángulo Medio (300x250)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1154
+msgid "Button 1"
+msgstr "Botón 1 (120x90)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1157
+msgid "Wide Skyscraper"
+msgstr "Rascacielos ancho (160x600)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1160
+msgid "Button 2"
+msgstr "Botón 2 (120x60)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1163
+msgid "Square Button"
+msgstr "Botón Cuadrado (125x125)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1172
+#, fuzzy
+msgid "Full Width"
+msgstr "Ancho completo (100%)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1175
+msgid "Required - Main adzone size"
+msgstr "Obligatorio - Tamaño principal de la Zona de anuncio"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1175
+msgid "Optional - Responsive adzone sizes"
+msgstr "Opcional - Tamaños de Zona de anuncio adaptativo"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1180
+msgid "Hide adzone on this device"
+msgstr "Ocultar la Zona de anuncio en este dispositivo"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1181
+msgid "Do you want to hide this adzone if its viewed from the selected device?"
+msgstr "¿Quieres ocultar esta Zona de publicidad si es vista desde el dispositivo seleccionado?"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1193
+msgid "Custom size"
+msgstr "Tamaño personalizado"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1218
+msgid "Size Options"
+msgstr "Opciones de tamaño"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1219
+msgid "<strong>FIXED:</strong> Adzone will keep its size no matter if the banners are larger or smaller.<br><br> <strong>VARIABLE:</strong> Adzone adapts itself to the height of the banner but will never exceed the selected adzone height."
+msgstr "<strong>FIJA:</strong> La Zona de anuncios mantendrá su tamaño sin importar si los banners son más o menos grandes.<br><br><strong>VARIABLE:</strong> La Zona de anuncios se adaptará automáticamente a la altura del banner pero nunca excederá la altura de la Zona de anuncios seleccionada."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1273
+msgid "Description"
+msgstr "Descripción"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1286
+msgid "Max. amount of banners"
+msgstr "Número máx. de banners"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1287
+#, fuzzy
+msgid "How many banners are allowed in this adzone?"
+msgstr "¿Cuántos banners están permitidos en esta Zona de banners?"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1291
+msgid "Leave empty to allow unlimited banners."
+msgstr "Dejar vacío para permitir ilimitados banners."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1296
+msgid "Rotate Banners"
+msgstr "Rotar banners"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1314
+msgid "Rotation Type"
+msgstr "Tipo de rotación"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1315
+msgid "You have 2 options to rotate banners. Select the one that fits your needs."
+msgstr "Tienes 2 opciones para rotar los banners. Elige la que se ajuste a tus necesidades."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1319
+msgid "BX Slider (recommended)"
+msgstr "BX Slider (recomendado)"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1320
+msgid "Showoff"
+msgstr "Showoff"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1328
+msgid "Rotation Time"
+msgstr "Tiempo de rotación"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1339
+msgid "Rotation Effect"
+msgstr "Efecto de rotación"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1344
+msgid "Fade"
+msgstr "Difuminado"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1345
+msgid "Slide"
+msgstr "Deslizado"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1346
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1394
+msgid "Vertical"
+msgstr "Vertical"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1348
+msgid "Vertical slides are only available with BX Slider."
+msgstr "Diapositivas verticales solo disponibles con 'BX Slider'"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1353
+msgid "Banner Loading Order"
+msgstr "Orden de carga de banners"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1354
+msgid "Select the order to load banners inside the adzone."
+msgstr "Elige el orden a cargar los banners dentro de la Zona de anuncio."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1358
+msgid "Fixed Order"
+msgstr "Orden fijo"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1359
+msgid "Equal Views"
+msgstr "Vistas iguales"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1360
+msgid "Random Order"
+msgstr "Orden aleatorio"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1367
+msgid "AJAX Rotation"
+msgstr "Rotación AJAX"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1368
+msgid "Do you want to load the banners in real time using ajax?"
+msgstr "¿Quieres cargar los banners en tiempo real utilizando ajax?"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1384
+msgid "AD Grid"
+msgstr "Cuadrícula de anuncios"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1385
+msgid "Show multiple ads at once. <br><strong>Note:</strong> This option has no rotation effect. Banners will load in random order on each page refresh."
+msgstr "Mostrar múltiples anuncios a la vez. <br><strong>Nota:</strong> Esta opción no admite efectos de rotación. Los banners se cargarán aleatoriamente en cada refresco de página."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1389
+msgid "Horizontal"
+msgstr "Horizontal"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1398
+msgid "Leave empty to show one banner at the time."
+msgstr "Dejar vacío para mostrar un banner cada vez"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1403
+msgid "Center Adzone"
+msgstr "Centrar Zona de banners"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1404
+msgid "Do you want this adzone to be centered?"
+msgstr "¿Quieres que la Zona de banners se centre?"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1416
+msgid "Hide adzone if empty"
+msgstr "Oculta la Zona de banners si está vacía"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1417
+msgid "Do you want to hide this adzone if its empty?"
+msgstr "¿Quieres que se oculte la Zona de banners si está vacía?"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1433
+msgid "Remove Buy and Sell Option"
+msgstr "Quitar la opción \\\"Comprar y Vender\\\""
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1434
+msgid "Do you want to disable Buy and Sell options for this adzone?"
+msgstr "¿Quieres deshabilitar la opción de \\\"Comprar y Vender\\\" para esta Zona de anuncio?"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1449
+msgid "Default adzone image"
+msgstr "Imagen por defecto de la Zona de anuncio"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1450
+msgid "Upload/Select a default image that will show when the azone is empty."
+msgstr "Subir/Elegir una imagen por defecto que se mostrará cuando la Zona de anuncio esté vacía."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1454
+msgid "Default Banner url"
+msgstr "URL del banner por defecto"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1455
+msgid "Upload Image"
+msgstr "Subir imagen"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1456
+#, php-format
+msgid "<strong>Note:</strong> This image will replace the default \"advertise here\" button if you have the %s or %s add-on activated."
+msgstr "<strong>Nota:</strong> Esta imagen reemplazará el botón por defecto \"anúnciese aquí\" si tienes el addon %s o %s activado."
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1465
+#, fuzzy
+msgid "Default adzone image link"
+msgstr "Imagen por defecto de la Zona de anuncio"
+
+# @ wpproads
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1466
+#, fuzzy
+msgid "Add a link that will be added to the default showing when the azone is empty."
+msgstr "Subir/Elegir una imagen por defecto que se mostrará cuando la Zona de anuncio esté vacía."
+
+#: classes/extends/Pro_Ads_CPT_Meta_Options.php:1469
+msgid "http://"
+msgstr ""
+
+# @ wpproads
+#: includes/ajax_functions.php:48
+msgid "Select a Campaign"
+msgstr "Elige una campaña"
+
+# @ wpproads
+#: includes/ajax_functions.php:259
+msgid "Campaign and Banner statuses are updated."
+msgstr "El estado del banner y de la campaña se ha actualizado."
+
+# @ wpproads
+#: includes/tables/stats.php:16
+#: includes/tables/stats.php:17
+#: includes/tables/stats_all.php:14
+#: includes/tables/stats_all.php:15
+msgid "stats"
+msgstr "estadísticas"
+
+# @ wpproads
+#: includes/tables/stats.php:81
+#: includes/tables/stats_all.php:80
+#: includes/tables/stats_day.php:93
+msgid "Export"
+msgstr "Exportar"
+
+# @ wpproads
+#: includes/tables/stats.php:82
+#: includes/tables/stats_all.php:81
+#: includes/tables/stats_day.php:94
+msgid "Delete"
+msgstr "Borrar"
+
+# @ wpproads
+#: includes/tables/stats.php:127
+msgid "Date"
+msgstr "Fecha"
+
+# @ wpproads
+#: includes/tables/stats.php:128
+#: includes/tables/stats_all.php:127
+msgid "Count"
+msgstr "Contar"
+
+# @ default
+#: includes/tables/stats.php:392
+#: includes/tables/stats_day.php:408
+#, php-format
+msgid "1 item"
+msgid_plural "%s items"
+msgstr[0] "1 item"
+msgstr[1] "%s items"
+
+# @ wpproads
+#: includes/tables/stats_all.php:126
+msgid "Year"
+msgstr "Año"
+
+# @ wpproads
+#: includes/tables/stats_day.php:16
+#: includes/tables/stats_day.php:17
+msgid "stats_day"
+msgstr "estad_día"
+
+# @ wpproads
+#: includes/tables/stats_day.php:59
+msgid "Detailed User Info"
+msgstr "Info detallada de usuario"
+
+# @ wpproads
+#: includes/tables/stats_day.php:60
+#: includes/tables/stats_day.php:143
+msgid "User Info"
+msgstr "Info de usuario"
+
+# @ wpproads
+#: includes/tables/stats_day.php:139
+msgid "Time"
+msgstr "Hora"
+
+# @ wpproads
+#: includes/tables_new/stats_day.php:144
+msgid "Hits"
+msgstr "Clicks"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:33
+msgid "General Settings are updated successfully."
+msgstr "Los ajustes generales se han actualizado correctamente."
+
+#: templates/pro_ad_dashboard.php:33
+msgid "Please UPDATE your <a href=\""
+msgstr ""
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:87
+msgid "Plugin registered successfully."
+msgstr "Plugin registrado correctamente."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:87
+msgid "Please add a valid/unique license key."
+msgstr "Por favor añade una llave de licencia válida."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:122
+msgid "Version"
+msgstr "Versión"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:129
+#: templates/pro_ad_dashboard.php:130
+#: templates/pro_ad_dashboard.php:131
+#: templates/pro_ad_dashboard.php:132
+msgid "Add New"
+msgstr "Añadir nuevo"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:153
+msgid "Please Register your copy of the WP PRO Advertising System to receive automatic plugin updates."
+msgstr "Por favor, registra tu copia del plugin WP PRO Advertising System para recibir actualizaciones automáticas del plugin."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:156
+#: templates/pro_ad_dashboard.php:844
+#: templates/pro_ad_dashboard.php:853
+msgid "License Key"
+msgstr "Clave de licencia"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:157
+#: templates/pro_ad_dashboard.php:849
+#: templates/pro_ad_dashboard.php:869
+msgid "Register Plugin"
+msgstr "Registrar plugin"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:182
+msgid "Today's statistics"
+msgstr "Estadísticas de hoy"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:189
+#: templates/pro_ad_dashboard.php:265
+msgid "Buy and Sell Ads"
+msgstr "Compraventa de anuncios"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:190
+#: templates/pro_ad_dashboard.php:325
+msgid "Manage Post Ads"
+msgstr "Gestionar anuncios en posts"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:191
+#: templates/pro_ad_dashboard.php:480
+msgid "Manual Updates"
+msgstr "Actualizaciones manuales"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:192
+#: templates/pro_ad_dashboard.php:512
+#: templates/pro_ad_options.php:25
+#: templates/pro_ad_options.php:37
+msgid "General Settings"
+msgstr "Ajustes generales"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:193
+#: templates/pro_ad_dashboard.php:837
+msgid "Plugin Registration"
+msgstr "Registro del plugin"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:210
+msgid "Today's Statistics"
+msgstr "Estadísticas de hoy"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:236
+msgid "Check all statistics"
+msgstr "Comprobar todas las estadísticas"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:257
+msgid "Buy and Sell Ads, Settings"
+msgstr "Ajustes de compraventa de anuncios"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:261
+msgid "Buy and Sell Ads, Woocommerce Settings"
+msgstr "Ajustes Woocommerce de compraventa de anuncios"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:296
+msgid "Make sure your adzones do not remain empty! Let users buy advertisments directly on your website! The Buy and Sell Add-on turns your empty adzones into links where users can instantly upload their banner, pay and activate their advertisement on your website."
+msgstr "¡Asegúrate de que tus Zonas de anuncios no queden vacías! Permite que los usuarios contraten anuncios directamente desde tu web. El Add-on \"Buy and Sell\" convierte tus Zonas de anuncios vacías en enlaces para que los usuarios puedan subir inmediatamente su banner, pagar y activar el anuncio en tu web."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:300
+msgid "Download Buy and Sell Ads - ADD-ON"
+msgstr "Descárgate el AddOn Compraventa de anuncios"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:336
+msgid "Enable Post Ads"
+msgstr "Habilitar anuncios en posts"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:337
+msgid "This allows you to add banners to all posts automatically. Select the post types where you want to use this function."
+msgstr "Esto te permite añadir banners a todos los posts automáticamente. Elige el tipo de post en que quieres usar esta funcionalidad."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:340
+msgid "No post types selected."
+msgstr "No se han seleccionado tipos de posts."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:362
+msgid "Top AD"
+msgstr "Anuncio superior"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:363
+msgid "This will show an adzone above the post."
+msgstr "Esto mostrará una Zona de banners sobre el post."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:367
+#: templates/pro_ad_dashboard.php:388
+#: templates/pro_ad_dashboard.php:440
+msgid "Leave Empty"
+msgstr "Dejar vacío"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:383
+msgid "Center AD"
+msgstr "Anuncio en el Centro"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:384
+msgid "This will show an adzone after the 2nd paragraph of the post."
+msgstr "Esto mostrará una Zona de banners después del 2º párrafo del post."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:404
+msgid "Center AD Paragraph"
+msgstr "Párrafo del anuncio centrado"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:405
+msgid "Select after how many paragraphs the center ad should show."
+msgstr "Seleccionar cuántos párrafos se deben mostrar en el anuncio centrado."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:421
+msgid "Center AD Align"
+msgstr "Alineación de anuncio centrada"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:422
+msgid "Select how you want to align the ad in your post."
+msgstr "Elige cómo quieres que se alinee el anuncio en tu post."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:430
+msgid "Selecting Left or Right will wrap the post text around your advertisement."
+msgstr "Eligiendo izquierda o derecha el texto del post envolverá tu anuncio."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:435
+msgid "Bottom AD"
+msgstr "Anuncio Pie"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:436
+msgid "This will show an adzone under the post."
+msgstr "Esto mostrará una Zona de banners bajo el post."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:467
+msgid "Save Post Ad Settings"
+msgstr "Guardar ajustes de anuncios en posts"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:491
+msgid "Campaign, Banner and Statistic statuses get updated once a day automatically. If you want to, you can manually Finish or Start campaigns, remove outdated statistics by clicking the update button."
+msgstr "Los estados de la Campaña, Banner y Estadísticas son actualizados una vez al día de forma automática. Si quieres puedes terminar o comenzar campañas y borrar estadísticas caducadas pulsando el botón Actualizar."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:493
+msgid "Update Campaigns/Banners/Statistics"
+msgstr "Actualizar Campañas/Banners/Estadísticas"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:519
+msgid "Settings"
+msgstr "Ajustes"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:524
+msgid "Enable Admin Bar"
+msgstr "Habilitar Barra de Admin"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:525
+msgid "Do you want to add the custom admin bar?"
+msgstr "¿Quieres añadir una barra personalizada de administración?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:541
+msgid "Uninstall Option"
+msgstr "Opción al desinstalar"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:542
+msgid "Remove all data while uninstalling the plugin?"
+msgstr "¿Quieres borrar todos los datos cuando se desinstale el plugin?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:564
+msgid "Permalinks"
+msgstr "Links permanentenes"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:569
+msgid "Enable Clean permalinks"
+msgstr "Habilitar links permanentes limpios"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:570
+msgid "Do you want to enable clean permalinks for your ads?"
+msgstr "¿Quieres habilitar links permanentes limpios para tus anuncios?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:586
+msgid "Link prefix"
+msgstr "Prefijo del enlace"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:587
+msgid "Add your permalink prefix. <strong>NOTE:</strong> You will need to update your Permalinks after updating."
+msgstr "Añade tu prefijo de link permanente. <strong>NOTA:</strong> Necesitarás actualizar tus links permanentes después de actualizar."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:592
+msgid "ex.:"
+msgstr "ej.:"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:611
+msgid "Enable Satistics"
+msgstr "Habilitar estadísticas"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:612
+msgid "Do you want statistics to be saved?"
+msgstr "¿Quieres guardar las estadísticas?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:628
+#, fuzzy
+msgid "Disable Impressions"
+msgstr "Guardar impresiones"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:629
+#, fuzzy
+msgid "Do you want to disable impressions from being saved?"
+msgstr "¿Quieres guardar las estadísticas?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:645
+#, fuzzy
+msgid "Disable Clicks"
+msgstr "Guardar Clicks"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:646
+#, fuzzy
+msgid "Do you want to disable clicks from being saved?"
+msgstr "¿Quieres guardar las estadísticas?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:662
+msgid "Statistics version"
+msgstr "Versión de estadísticas"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:663
+msgid "What version do you want to use?"
+msgstr "¿Qué versión quieres utilizar?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:668
+msgid "Deafault Statistics"
+msgstr "Estadísticas por defecto"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:671
+msgid "New Statistics (recommended)"
+msgstr "Nuevas estadísticas (recomendado)"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:679
+msgid "Statistics data"
+msgstr "Datos estadísticos"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:680
+msgid "How detailed do you want to track statistics? NOTE: Hourly statistics will make your database grow fast"
+msgstr "¿Con cuánto detalle quieres obtener las estadísticas? NOTA: Las estadísticas horarias harán que el tamaño de tu base de datos crezca rápidamente."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:685
+msgid "Hourly Statistics"
+msgstr "Estadísticas por horas"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:688
+msgid "Daily Statistics (recommended)"
+msgstr "Estadísticas por día (recomendado)"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:691
+msgid "Only available for the NEW statistics version."
+msgstr "Sólo disponible en la nueva versión de estadísticas."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:696
+msgid "Enable User data stats"
+msgstr "Habilitar las estadísticas de datos de usuario"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:697
+msgid "Do you want specific user data for statistics to be saved?"
+msgstr "¿Quieres guardar datos de usuario específicos en las estadísticas?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:708
+#, fuzzy, php-format
+msgid "<strong>Note:</strong> User geo data will only be available with the %s plugin activated."
+msgstr "<strong>Nota:</strong> es altamente recomendable instalar el plugin %s para usar esta opción."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:713
+msgid "Save Impressions"
+msgstr "Guardar impresiones"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:714
+msgid "Do you want unique or all impressions to be saved for statistics?"
+msgstr "¿Quieres guardar las impresiones únicas o todas las impresiones en las estadísticas?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:719
+msgid "Unique Impressions"
+msgstr "Impresiones únicas"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:722
+msgid "All Impressions"
+msgstr "Todas las impresiones"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:730
+msgid "Save Clicks"
+msgstr "Guardar Clicks"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:731
+msgid "Do you want unique or all clicks to be saved for statistics?"
+msgstr "¿Quieres guardad clicks únicos o todos los clicks en las estadísticas?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:736
+msgid "Unique Clicks"
+msgstr "Clicks únicos"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:739
+msgid "All Clicks"
+msgstr "Todos los clicks"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:747
+msgid "Days to save stats"
+msgstr "Días de estadísticas a guardar"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:748
+msgid "Choose the number of days you want to save statistics to the database. Keep this at 30 days or less to keep the database small."
+msgstr "Elige el número de días de las estadísticas que quieres guardar en la base de datos. Para mantener una base de datos perqueña elige 30 días o menos."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:752
+msgid "Leave empty to save all stats (not recommended)"
+msgstr "Deja vacío para guardar todas las estadísticas (no recomendado)"
+
+#: templates/pro_ad_dashboard.php:757
+msgid "Block IP Addresses"
+msgstr ""
+
+#: templates/pro_ad_dashboard.php:758
+msgid "Add IP addresses where you don't want to save statistics for."
+msgstr ""
+
+#: templates/pro_ad_dashboard.php:758
+#, php-format
+msgid "Your current IP: %s "
+msgstr ""
+
+#: templates/pro_ad_dashboard.php:762
+msgid "Comma separated"
+msgstr ""
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:776
+msgid "Google Analytics"
+msgstr "Google Analytics"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:777
+msgid "When you are running Google Analytics for your website and you add your tracking / web property ID (UA-XXXX-Y), all statistics will be redirected to your Google Analytics page."
+msgstr "Cuando tienes activado Google Analytics en tu sitio web y añades un seguimiento mediante el ID (UA-XXXX-Y), todas las estadísticas serán redirigidas a tu página de Google Analytics."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:782
+msgid "The tracking / web property ID. The format is UA-XXXX-Y"
+msgstr "ID de Google Analytics. El formato es UA-XXXX-Y"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:783
+msgid "You will find this ID on your Google Analytics page."
+msgstr "Encontrarás este ID en tu página de Google Analytics"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:800
+msgid "Style"
+msgstr "Estilo"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:805
+#: templates/pro_ad_options.php:49
+msgid "Custom CSS"
+msgstr "CSS Personalizado"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:806
+#: templates/pro_ad_options.php:50
+msgid "If you need to customize some style for the Ads plugin you can add the custom CSS here."
+msgstr "Si necesitas personalizar algunos estilos CSS del plugin puedes hacerlo aquí."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:828
+#: templates/pro_ad_options.php:68
+msgid "Save General Settings"
+msgstr "Guardar ajustes generales"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:850
+msgid "Register your copy of the WP PRO Advertising System to receive automatic plugin updates."
+msgstr "Registra tu copia del plugin WP PRO Advertising System para recibir actualizaciones automáticas."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:854
+msgid "Where do I get the registration code?"
+msgstr "¿Dónde consigo el código de registro?"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:911
+#, php-format
+msgid "Thanks for using the %s Wordpress plugin. We hope you like it."
+msgstr "Gracias por usar el plugin %s de Wordpress. Esperamos que te guste."
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:923
+msgid "Helpdesk"
+msgstr "Centro de ayuda"
+
+# @ wpproads
+#: templates/pro_ad_dashboard.php:929
+msgid "API"
+msgstr "API"
+
+# @ wpproads
+#: templates/pro_ad_options.php:17
+msgid "Ad Options"
+msgstr "Opciones del anuncio"
+
+# @ wpproads
+#: templates/pro_ad_stats.php:21
+msgid "Statistics are disabled"
+msgstr "Estadísticas deshabilitadas"
+
+# @ wpproads
+#: templates/pro_ad_stats.php:22
+msgid "You can enable statistics on the AD Dashboard under <em>General Settings</em>"
+msgstr "Puedes habilitar las estadísticas en los <em>Ajustes Generales</em> del Tablero de Anuncios ."
+
+# @ wpproads
+#: templates/pdf/stats-pdf.php:73
+#, php-format
+msgid "<h3 style=\"margin:0;\">%s stats for: %s</h3>"
+msgstr "<h3 style=\"margin:0;\">%s estadísticas para: %s</h3>"
+

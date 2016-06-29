@@ -1,0 +1,78 @@
+p.pas-actions{margin-bottom:2em}
+p.pas-actions a.button-primary{
+	margin: 0 5px 0 0;
+	padding: 5px 12px;
+	vertical-align: middle;
+	font-size: 14px!important;
+	line-height: 16px!important;
+	height: auto!important;
+}
+
+p.pas-actions .twitter-share-button, .pas-message .twitter-share-button{
+	vertical-align: middle;
+	margin-left: 3px;
+}
+
+.pas-welcome-box.about-wrap{margin-left: 40px;}
+.about-wrap img{margin: 0;}
+#pas_welcome_header{
+	position:relative;
+	text-align: center;
+	padding:30px 0px 0 ;
+	color:#fff;
+}
+.pas-actions, .pas-welcome-box .return-to-dashboard {text-align: center;}
+#pas_welcome_header .logo span{
+	font-family: ITCAvantGardeStd-Bold, "Open Sans",sans-serif;
+	font-size: 50px;
+	font-weight: bold;
+	text-transform:uppercase;
+	color:#FFF;
+	text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.25);
+	margin:0 auto;
+	margin-top:80px;
+	position: relative;
+	text-align: center;
+}
+
+
+#pas_welcome_header .h3{
+	font:24px 'Open Sans';
+	font-weight:300;
+	margin-bottom:0px;
+	margin-top:5px;
+}
+#pas_welcome_header .h4{
+	font:italic 18px 'open sans', arial;
+	font-weight:300;
+	margin:0;
+	color:#8FB24C;
+	padding-bottom:15px;
+}
+.pas_admin_btn {
+	background-color:#8FB24C;
+	color:#FFF;
+	padding:5px 10px;
+	text-decoration:none;
+	font-weight:bold;
+	text-transform:uppercase;
+}
+.pas_admin_btn:hover {
+	background-color:#6E8C33;
+	color:#FFF;
+}
+
+.about-wrap .return-to-dashboard a {color: #8FB24C;}
+#wpcontent {
+	background-color: #C5EC79;
+	margin-left: 160px;
+}
+#wpwrap {
+	background-color: #C5EC79;
+	color: #fff;
+}
+#adminmenuback{z-index: 0;}
+ul#adminmenu a.wp-has-current-submenu:after, ul#adminmenu>li.current>a.current:after{
+	border-right-color: #C5EC79;
+}
+.pas-welcome-twitter {display: block;text-align: center;}

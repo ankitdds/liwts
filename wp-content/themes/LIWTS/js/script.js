@@ -1,0 +1,18 @@
+jQuery(function(){
+	jQuery("#strain-review-home").owlCarousel({
+	    loop:false,
+	    margin:10,
+	    nav:true,
+	    responsive:{
+	        0:{
+	            items:1
+	        },
+	        480:{
+	            items:2
+	        },
+	        768:{
+	            items:3
+	        }
+	    }
+	});
+});
