@@ -1,6 +1,6 @@
 # liwts
 LIWTS Development Repository
 
-LIWTS is build using wordpress and AVADA theme.
+LIWTS is build using wordpress.
 
-Active Theme: LIWTS (Child theme of Avada)
+Active Theme: LIWTS (Child theme)
