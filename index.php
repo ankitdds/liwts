@@ -5,7 +5,8 @@
  *
  * @package WordPress
  */
-
+echo "gittest";
+exit;
 /**
  * Tells WordPress to load the WordPress theme and output it.
  *
