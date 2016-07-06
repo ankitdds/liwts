@@ -1,0 +1,1 @@
+<?php echo '<img src="'.plugins_url( '../message.png', __FILE__ ).'" alt="Message">'; ?>

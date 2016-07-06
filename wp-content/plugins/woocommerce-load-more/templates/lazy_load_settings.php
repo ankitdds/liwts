@@ -1,0 +1,1 @@
+<?php echo '<img src="'.plugins_url( '../lazy_load.png', __FILE__ ).'" alt="Lazy Load">'; ?>
