@@ -1,5 +1,5 @@
 *.log
-wp-config.php
+/wp-config.php
 wp-content/advanced-cache.php
 wp-content/backup-db/
 wp-content/backups/
@@ -27,7 +27,7 @@ testenv/wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
-testenv/license.txt
-testenv/readme.html
-testenv/sitemap.xml
-testenv/sitemap.xml.gz
+/testenv/license.txt
+/testenv/readme.html
+/testenv/sitemap.xml
+/testenv/sitemap.xml.gz
