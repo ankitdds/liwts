@@ -471,7 +471,7 @@ body.has-sidebar #content {
 	padding: 10px 0 20px;
 }
 .fusion-logo img {
-	max-width: 125px;
+	max-width: 163px;
 }
 .fusion-header-v2 .fusion-secondary-header {
 	border-top-color: transparent !important;
@@ -1312,7 +1312,6 @@ span.news-post-time.fusion-meta::before {
     display: inline-block;
     width: 211px;
     border-radius: 50%;
-	height: 211px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1320px) {
 .fusion-main-menu > ul > li {
@@ -1977,4 +1976,72 @@ ul.news-list li .image a img{width:100%; }
     max-width: 100%;
     height: auto;
     width: 100%;
+}
+
+#post-0
+{
+	border: 1px solid #000;
+	padding:30px;
+}
+h3.entry-title
+{
+	height:41px;
+	font-size:18px;
+	border-bottom:1px solid #313030;	
+	
+}
+.post-content
+{
+	padding-top:5px;
+}
+
+.fusion-row #bbpress-forums .bbp-forums-list li {
+    border-bottom: 1px solid #ccc;
+    border-left: 1px solid #ccc;
+    border-right: 1px solid #ccc;
+    display: block;
+    float: left;
+    font-size: 14px;
+    font-weight: bold;
+    padding: 15px 0 15px 55px;
+    position: relative;
+    width: 100%;
+}
+
+.fusion-row .bbp-forum-link::before {
+    background: #1e1e1e none repeat scroll 0 0;
+    content: " ";
+    display: inline-block;
+    height: 20px;
+    left: 20px;
+    position: absolute;
+    vertical-align: middle;
+    width: 20px;
+	border-radius: 5px;
+}
+.fusion-row li.bbp-forum-info, li.bbp-topic-title { width: 100%; }
+.fusion-row .bbp-forum-title {
+    background: #1e1e1e none repeat scroll 0 0;
+    border-radius: 5px 5px 0 0;
+    color: #fff;
+    float: left;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px;
+    width: 100%;
+}
+.fusion-row #bbpress-forums .bbp-forums-list {
+    border-left: medium none;
+    margin: 0;
+    padding-left: 0;
+}
+.fusion-row #bbpress-forums ul {
+	margin: 0 0 30px;
+	float: left;
+	width:100%;
+}
+
+.fusion-row #bbpress-forums li.bbp-forum-info {
+    border-bottom: 10px solid #1e1e1e;
+    border-radius: 0 0 5px 5px;
 }

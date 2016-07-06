@@ -1,4 +1,7 @@
 <?php
+/** Enable W3 Total Cache Edge Mode */
+define('W3TC_EDGE_MODE', true); // Added by W3 Total Cache
+
 
 /**
  * The base configuration for WordPress
@@ -21,7 +24,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'liwts_testenv');
+define('DB_NAME', 'liwts_live');
 
 /** MySQL database username */
 define('DB_USER', 'liwts_masteruser');
@@ -77,7 +80,8 @@ $table_prefix  = 'wp_';
  * visit the Codex.
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
- */
+ */define('WP_CACHE_KEY_SALT', 'liwts.org');define('WP_REDIS_USE_CACHE_GROUPS', true);define('WP_CACHE', true);
+
 define('WP_DEBUG', false);
 
 /* That's all, stop editing! Happy blogging. */

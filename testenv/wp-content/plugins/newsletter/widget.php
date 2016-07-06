@@ -92,6 +92,9 @@ class NewsletterWidget extends WP_Widget {
     function widget($args, $instance) {
         global $newsletter;
         extract($args);
+        
+        if (empty($instance)) $instance = array();
+        $instance = array_merge(array('text'=>'', 'title'=>''), $instance);
 
         echo $before_widget;
 

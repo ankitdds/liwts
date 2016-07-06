@@ -1,6 +1,8 @@
 <?php
 if(!is_admin()){
-	require_once 'resizer.php';
+	show_admin_bar( false );
+	define( 'BFITHUMB_UPLOAD_DIR', 'resizedimages' );
+	include_once 'BFI_Thumb.php';
 	add_action('wp_enqueue_scripts', 'enqueue_and_register_liwts_scripts', 999);
 	function enqueue_and_register_liwts_scripts()
 	{
@@ -370,7 +372,8 @@ class LIWTS_Trending_Posts extends WP_Widget
 		$post = $popular_posts->the_post();
 		$postCats = get_the_category($post);
 		$html .= '<li>';
-		if (has_post_thumbnail() && ($image = wp_get_attachment_image_src(get_post_thumbnail_id($post), 'large')) && isset($image[0])):
+		$size = array( 330, 250, 'bfi_thumb' => true, 'crop' => true);
+		if (has_post_thumbnail() && ($image = wp_get_attachment_image_src(get_post_thumbnail_id($post), $size)) && isset($image[0])):
 		$html .= '<div class="image">';
 		$html .= '<a href="' . get_the_permalink() . '"><img src="' . $image[0] . '" alt=""/></a>';
 		$html .= '</div>';
@@ -432,7 +435,8 @@ class LIWTS_Latest_Posts extends WP_Widget
 		$post = $popular_posts->the_post();
 		$postCats = get_the_category($post);
 		$html .= '<li>';
-		if (has_post_thumbnail() && ($image = wp_get_attachment_image_src(get_post_thumbnail_id($post), 'thumbnail')) && isset($image[0])):
+		$size = array( 250, 250, 'bfi_thumb' => true, 'crop' => true);
+		if (has_post_thumbnail() && ($image = wp_get_attachment_image_src(get_post_thumbnail_id($post), $size)) && isset($image[0])):
 		$html .= '<div class="image">';
 		$html .= '<a href="' . get_the_permalink() . '"><img src="' . $image[0] . '" alt=""/></a>';
 		$html .= '</div>';

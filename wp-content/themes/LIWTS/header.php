@@ -125,6 +125,7 @@
 	<?php echo Avada()->settings->get( 'google_analytics' ); ?>
 
 	<?php echo Avada()->settings->get( 'space_head' ); ?>
+
 </head>
 <?php
 $wrapper_class = '';
@@ -153,6 +154,7 @@ if ( 'modern' == Avada()->settings->get( 'mobile_menu_design' ) ) {
 		<div id="boxed-wrapper">
 	<?php endif; ?>
 	<div id="wrapper" class="<?php echo $wrapper_class; ?>">
+		<div id="fb-root"></div>
 		<div id="home" style="position:relative;top:1px;"></div>
 		<?php if ( Avada()->settings->get( 'slidingbar_widgets' ) && ! is_page_template( 'blank.php' ) && ! $boxed_side_header_right ) : ?>
 			<?php get_template_part( 'slidingbar' ); ?>

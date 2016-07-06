@@ -533,7 +533,7 @@ class NewsletterControls {
      */
     function checkbox_group($name, $value, $label = '') {
         echo '<label><input type="checkbox" id="' . $name . '" name="options[' . $name . '][]" value="' . esc_attr($value) . '"';
-        if (is_array($this->data[$name]) && array_search($value, $this->data[$name]) !== false) {
+        if (isset($this->data[$name]) && is_array($this->data[$name]) && array_search($value, $this->data[$name]) !== false) {
             echo ' checked';
         }
         echo '/>';

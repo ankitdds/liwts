@@ -80,7 +80,8 @@ $table_prefix  = 'wp_';
  * visit the Codex.
  *
  * @link https://codex.wordpress.org/Debugging_in_WordPress
- */
+ */define('WP_CACHE_KEY_SALT', 'liwts.org');define('WP_REDIS_USE_CACHE_GROUPS', true);define('WP_CACHE', true);
+
 define('WP_DEBUG', false);
 
 /* That's all, stop editing! Happy blogging. */

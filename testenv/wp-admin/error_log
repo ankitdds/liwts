@@ -14922,7 +14922,59 @@
 [05-May-2016 16:58:44 UTC] PHP Warning:  Module 'tidy' already loaded in Unknown on line 0
 [07-May-2016 07:04:34 UTC] PHP Warning:  Module 'hash' already loaded in Unknown on line 0
 [07-May-2016 07:04:34 UTC] PHP Warning:  Module 'tidy' already loaded in Unknown on line 0
-[21-Jun-2016 10:31:43 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_tax_rate_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
-[21-Jun-2016 10:31:43 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_shipping_zone_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
-[23-Jun-2016 07:59:53 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_tax_rate_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
-[23-Jun-2016 07:59:53 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_shipping_zone_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[15-Jun-2016 12:21:08 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[15-Jun-2016 12:21:15 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 09:37:51 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/liwts/public_html/wp-content/plugins/revslider/includes/slider.class.php on line 116
+[20-Jun-2016 09:37:51 UTC] PHP Warning:  implode() [<a href='function.implode'>function.implode</a>]: Invalid arguments passed in /home/liwts/public_html/wp-content/plugins/revslider/includes/slider.class.php on line 116
+[20-Jun-2016 14:59:27 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:00:01 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:00:12 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:00:13 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:00:21 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:00:25 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:00:27 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:00:28 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:00:52 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:00:53 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:01:02 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:01:14 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:01:52 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:01:53 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:02:01 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:02:12 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:02:13 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:03:05 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:03:38 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:03:52 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:04:13 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:04:14 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[20-Jun-2016 15:05:39 UTC] PHP Fatal error:  Cannot redeclare class LIWTS_Trending_Posts in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 412
+[22-Jun-2016 09:04:15 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_tax_rate_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[22-Jun-2016 09:04:15 UTC] WordPress database error Duplicate key name 'location_type_code' for query ALTER TABLE wp_woocommerce_shipping_zone_locations ADD KEY location_type_code (location_type(40),location_code(90)) made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), call_user_func_array, WC_Install::check_version, WC_Install::install, WC_Install::create_tables, dbDelta
+[27-Jun-2016 09:05:57 UTC] WordPress database error Duplicate key name 'disqus_dupecheck' for query CREATE INDEX disqus_dupecheck ON `wp_commentmeta` (meta_key, meta_value(11)); made by require_once('wp-admin/admin.php'), do_action('comments_page_disqus'), call_user_func_array, dsq_manage, dsq_install, dsq_install_database
+[27-Jun-2016 09:22:21 UTC] PHP Fatal error:  Class 'Tribe__Events__Venue' not found in /home/liwts/public_html/wp-content/plugins/the-events-calendar/src/Tribe/Main.php on line 769
+[04-Jul-2016 07:12:09 UTC] PHP Notice:  bbp_setup_current_user was called <strong>incorrectly</strong>. The current user is being initialized without using $wp->init(). Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 2.3.) in /home/liwts/public_html/wp-includes/functions.php on line 3897
+[04-Jul-2016 07:12:09 UTC] PHP Notice:  bp_setup_current_user was called <strong>incorrectly</strong>. The current user is being initialised without using $wp->init().
+===
+Trace:
+#6 /home/liwts/public_html/wp-content/plugins/wordpress-seo/admin/class-yoast-notification-center.php(421): get_current_user_id()
+#7 /home/liwts/public_html/wp-content/plugins/wordpress-seo/admin/class-yoast-notification-center.php(31): Yoast_Notification_Center->retrieve_notifications_from_storage()
+#8 /home/liwts/public_html/wp-content/plugins/wordpress-seo/admin/class-yoast-notification-center.php(49): Yoast_Notification_Center->__construct()
+#9 /home/liwts/public_html/wp-content/plugins/wordpress-seo/wp-seo-main.php(383): Yoast_Notification_Center::get()
+#10 [internal function]: load_yoast_notifications('')
+#11 /home/liwts/public_html/wp-includes/plugin.php(525): call_user_func_array('load_yoast_noti...', Array)
+#12 /home/liwts/public_html/wp-settings.php(277): do_action('plugins_loaded')
+#13 /home/liwts/public_html/wp-config.php(93): require_once('/home/liwts/pub...') in /home/liwts/public_html/wp-includes/functions.php on line 3897
+[04-Jul-2016 07:12:46 UTC] PHP Notice:  bbp_setup_current_user was called <strong>incorrectly</strong>. The current user is being initialized without using $wp->init(). Please see <a href="https://codex.wordpress.org/Debugging_in_WordPress">Debugging in WordPress</a> for more information. (This message was added in version 2.3.) in /home/liwts/public_html/wp-includes/functions.php on line 3897
+[04-Jul-2016 07:12:46 UTC] PHP Notice:  bp_setup_current_user was called <strong>incorrectly</strong>. The current user is being initialised without using $wp->init().
+===
+Trace:
+#6 /home/liwts/public_html/wp-content/plugins/wordpress-seo/admin/class-yoast-notification-center.php(421): get_current_user_id()
+#7 /home/liwts/public_html/wp-content/plugins/wordpress-seo/admin/class-yoast-notification-center.php(31): Yoast_Notification_Center->retrieve_notifications_from_storage()
+#8 /home/liwts/public_html/wp-content/plugins/wordpress-seo/admin/class-yoast-notification-center.php(49): Yoast_Notification_Center->__construct()
+#9 /home/liwts/public_html/wp-content/plugins/wordpress-seo/wp-seo-main.php(383): Yoast_Notification_Center::get()
+#10 [internal function]: load_yoast_notifications('')
+#11 /home/liwts/public_html/wp-includes/plugin.php(525): call_user_func_array('load_yoast_noti...', Array)
+#12 /home/liwts/public_html/wp-settings.php(277): do_action('plugins_loaded')
+#13 /home/liwts/public_html/wp-config.php(93): require_once('/home/liwts/pub...') in /home/liwts/public_html/wp-includes/functions.php on line 3897
+[05-Jul-2016 08:11:13 UTC] PHP Parse error:  syntax error, unexpected $end in /home/liwts/public_html/wp-content/themes/LIWTS/functions.php on line 393

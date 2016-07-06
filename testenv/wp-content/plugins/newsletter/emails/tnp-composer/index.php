@@ -54,7 +54,7 @@ $block_options = get_option('newsletter_main');
                 <div id="newsletter-builder-area-center-frame-content">
 
                     <?php
-                    if ($email) {
+                    if (isset($email)) {
                         $x = strpos($body, '<body');
                         if ($x !== false) {
                             $x = strpos($body, '>', $x);

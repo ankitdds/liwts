@@ -10,9 +10,24 @@ wp-content/uploads/
 wp-content/wp-cache-config.php
 wp-content/plugins/hello.php
 
+testenv/wp-config.php
+testenv/wp-content/advanced-cache.php
+testenv/wp-content/backup-db/
+testenv/wp-content/backups/
+testenv/wp-content/blogs.dir/
+testenv/wp-content/cache/
+testenv/wp-content/upgrade/
+testenv/wp-content/uploads/
+testenv/wp-content/wp-cache-config.php
+testenv/wp-content/plugins/hello.php
+
 /.htaccess
 /license.txt
 /readme.html
 /sitemap.xml
 /sitemap.xml.gz
 
+testenv/license.txt
+testenv/readme.html
+testenv/sitemap.xml
+testenv/sitemap.xml.gz

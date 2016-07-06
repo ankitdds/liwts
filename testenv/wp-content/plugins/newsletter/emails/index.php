@@ -78,7 +78,7 @@ $emails = Newsletter::instance()->get_emails('message');
             <?php } ?>
 
             <p>
-                <a href="<?php echo $module->get_admin_page_url('composer'); ?>" class="button"><?php _e('New newsletter', 'newsletter') ?></a>
+                <a href="<?php echo $module->get_admin_page_url('theme'); ?>" class="button"><?php _e('New newsletter', 'newsletter') ?></a>
                 <?php $controls->button_confirm('delete_selected', __('Delete selected newsletters', 'newsletter'), __('Proceed?', 'newsletter'));
                 ?>
                 <?php $controls->button('send', __('Trigger the delivery engine', 'newsletter')); ?>

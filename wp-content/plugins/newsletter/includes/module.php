@@ -546,13 +546,17 @@ class NewsletterModule {
         $name = apply_filters('newsletter_admin_page', $name);
         add_submenu_page(null, $title, $title, ($newsletter->options['editor'] == 1) ? 'manage_categories' : 'manage_options', $name, array($this, 'menu_page'));
     }
+    
+    function sanitize_file_name($name) {
+        return preg_replace('/[^a-z_\\-]/i', '', $name);
+    }
 
     function menu_page() {
         global $plugin_page, $newsletter, $wpdb;
 
         $parts = explode('_', $plugin_page, 3);
-        $module = sanitize_file_name($parts[1]);
-        $page = sanitize_file_name($parts[2]);
+        $module = $this->sanitize_file_name($parts[1]);
+        $page = $this->sanitize_file_name($parts[2]);
         $page = str_replace('_', '-', $page);
 
         $file = WP_CONTENT_DIR . '/extensions/newsletter/' . $module . '/' . $page . '.php';

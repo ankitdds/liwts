@@ -35,7 +35,7 @@ To change your subscription follow: {profile_url}.';
     $email['type'] = 'message';
     $email['send_on'] = time();
     $email = Newsletter::instance()->save_email($email, ARRAY_A);
-} elseif ($_GET['id']) {
+} elseif (isset($_GET['id'])) {
 
     $email = Newsletter::instance()->get_email((int) $_GET['id'], ARRAY_A);
 
@@ -69,7 +69,10 @@ if ($controls->data == null) {
 }
 
 //$body = $controls->data['body'];
-$body = $email['message'];
+$body = "";
+if (isset($email)) {
+    $body = $email['message'];
+} 
 
 ?>
 
@@ -81,20 +84,16 @@ $body = $email['message'];
     <div id="tnp-heading" class="tnp-composer-heading">
 
         <img src="http://cdn.thenewsletterplugin.com/tests/tnp-composer-heading.png">
-        <h2><?php _e('Compose a newsletter', 'newsletter') ?> <small style="color: #E67E22;">(Beta)</small>
-            <?php if (empty($_GET['id'])): ?>
-                <small><a href="<?php echo $module->get_admin_page_url('theme'); ?>">or switch to the old editor with themes.</a></small>
-            <?php endif; ?>
-        </h2>
+        <h2><?php _e('Compose a newsletter', 'newsletter') ?></h2>
+        <a href="http://www.thenewsletterplugin.com/plugins/newsletter/composer" target="_blank"><i class="fa fa-life-ring"></i> <?php _e('Read the guide', 'newsletter') ?></a>
         <form method="post" action="" id="tnpc-form">
             <?php $controls->init(); ?>
             <?php $controls->hidden('subject'); ?>
             <?php $controls->hidden('body'); ?>
             <?php $controls->button_reset(); ?>
-            <?php $controls->button('save', 'Save', 'create();'); ?>
-            <?php $controls->button('preview', 'Save & Preview &raquo;', 'create();'); ?>
+            <?php $controls->button('save', __('Save','newsletter'), 'create();'); ?>
+            <?php $controls->button('preview', __('Save & Preview','newsletter') . ' &raquo;', 'create();'); ?>
         </form>
-
     </div>
 
     <div id="tnp-body" class="tnp-body-lite"> 

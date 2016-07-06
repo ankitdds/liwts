@@ -61,6 +61,14 @@ $themes = $module->themes->get_all_with_data();
         <form method="post" id="newsletter-form" action="<?php echo $module->get_admin_page_url('new'); ?>">
             <?php $controls->init(); ?>
             <?php $controls->hidden('theme'); ?>
+            
+            <div class="tnp-theme-preview">
+                    <p><?php echo _e('Responsive Drag & Drop Composer', 'newsletter') ?></p>
+                    <a href="<?php echo $module->get_admin_page_url('composer'); ?>" style="margin-right: 20px; margin-bottom: 20px">
+                        <img src="<?php echo plugins_url('newsletter') . '/emails/themes/composer.gif' ?>" width="420" height="200">
+                    </a>
+                </div>
+            
             <?php foreach ($themes as $key => &$data) { ?>
                 <div class="tnp-theme-preview">
                     <p><?php echo $data['name']; ?></p>

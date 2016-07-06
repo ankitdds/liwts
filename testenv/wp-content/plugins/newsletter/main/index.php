@@ -239,7 +239,7 @@ $labels = array_reverse($labels);
                                 <a href="<?php echo $emails_module->get_admin_page_url('index'); ?>">
                                     <i class="fa fa-list"></i> <?php _e('List', 'newsletter') ?>
                                 </a>
-                                <a href="<?php echo $emails_module->get_admin_page_url('composer'); ?>">
+                                <a href="<?php echo $emails_module->get_admin_page_url('theme'); ?>">
                                     <i class="fa fa-plus-square"></i> <?php _e('New', 'newsletter') ?>
                                 </a>
                             </h3>

@@ -38,7 +38,8 @@ function homepagePopularPosts()
             
             $html .= '<div class="image">';
             $html .= '<a href="' . get_the_permalink() . '">';
-            if (has_post_thumbnail() && ($image = wp_get_attachment_image_src(get_post_thumbnail_id($post), 'large')) && isset($image[0])){
+            $size = array( 415, 275, 'bfi_thumb' => true, 'crop' => true);
+            if (has_post_thumbnail() && ($image = wp_get_attachment_image_src(get_post_thumbnail_id($post), $size)) && isset($image[0])){
             	$html .= '<img src="' . $image[0] . '" alt=""/>';
             }
             else{
@@ -82,7 +83,8 @@ function homepageReviews()
 	foreach($posts as $post):
 		setup_postdata($post);
 		$html .= '<li>';
-		if (has_post_thumbnail($post) && ($image = wp_get_attachment_image_src(get_post_thumbnail_id($post), '250x250')) && isset($image[0])){
+		$size = array( 250, 250, 'bfi_thumb' => true, 'crop' => true);
+		if (has_post_thumbnail($post) && ($image = wp_get_attachment_image_src(get_post_thumbnail_id($post), $size)) && isset($image[0])){
 			$html .= '<span class="review-img"><a href="'.get_the_permalink($post).'"><img src="'.$image[0].'" alt=""/></a></span>';
 		}
 		else{
